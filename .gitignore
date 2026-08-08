@@ -1,0 +1,30 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated data & models (regenerate with `python run_pipeline.py`)
+data/raw/*.csv
+data/processed/*.csv
+data/processed/eda_charts/
+models/*.joblib
+models/*.csv
+
+# Keep folder structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!models/.gitkeep
+
+# IDE
+.vscode/
+.idea/
