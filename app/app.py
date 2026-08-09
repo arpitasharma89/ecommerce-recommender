@@ -90,11 +90,15 @@ def models_ready():
 
 
 if not models_ready():
-    st.error(
-        "Trained models were not found. Please run `python run_pipeline.py` "
-        "from the project root first, then relaunch the app."
-    )
-    st.stop()
+    with st.spinner(
+        "First-time setup: generating data and training models "
+        "(this can take a few minutes, only happens once)..."
+    ):
+        sys.path.insert(0, str(ROOT_DIR))
+        import run_pipeline
+        run_pipeline.main()
+    st.cache_resource.clear()
+    st.cache_data.clear()
 
 content_model, collab_model, weights = load_models()
 products, users, train = load_data()
