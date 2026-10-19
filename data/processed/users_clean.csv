@@ -1,0 +1,2001 @@
+user_id,preferred_categories,signup_days_ago
+1,"Sports & Outdoors,Grocery",308
+2,"Beauty & Personal Care,Electronics",529
+3,"Books,Beauty & Personal Care",592
+4,"Sports & Outdoors,Toys & Games,Electronics",459
+5,"Electronics,Sports & Outdoors",719
+6,"Home & Kitchen,Grocery,Fashion",78
+7,Books,332
+8,"Books,Toys & Games,Grocery",891
+9,Books,152
+10,"Fashion,Sports & Outdoors",99
+11,"Electronics,Fashion",535
+12,Beauty & Personal Care,859
+13,"Grocery,Toys & Games",531
+14,"Toys & Games,Grocery,Home & Kitchen",323
+15,"Home & Kitchen,Fashion,Toys & Games",221
+16,Home & Kitchen,219
+17,"Home & Kitchen,Electronics,Books",433
+18,"Grocery,Home & Kitchen",480
+19,"Electronics,Beauty & Personal Care,Books",486
+20,"Grocery,Home & Kitchen,Beauty & Personal Care",334
+21,Fashion,394
+22,"Toys & Games,Electronics",315
+23,"Toys & Games,Sports & Outdoors,Electronics",793
+24,"Grocery,Beauty & Personal Care",727
+25,"Toys & Games,Books,Grocery",642
+26,Toys & Games,559
+27,"Sports & Outdoors,Home & Kitchen",443
+28,Grocery,85
+29,"Toys & Games,Grocery,Fashion",754
+30,"Beauty & Personal Care,Toys & Games,Electronics",854
+31,"Home & Kitchen,Toys & Games",653
+32,"Books,Electronics,Home & Kitchen",740
+33,Books,754
+34,"Books,Sports & Outdoors,Toys & Games",679
+35,Sports & Outdoors,528
+36,"Books,Home & Kitchen",682
+37,"Home & Kitchen,Toys & Games,Books",108
+38,Books,547
+39,"Books,Fashion",540
+40,"Beauty & Personal Care,Sports & Outdoors",320
+41,Fashion,326
+42,Sports & Outdoors,823
+43,Home & Kitchen,72
+44,"Sports & Outdoors,Fashion,Beauty & Personal Care",529
+45,Books,626
+46,"Books,Electronics",817
+47,"Sports & Outdoors,Beauty & Personal Care,Electronics",258
+48,"Sports & Outdoors,Books,Beauty & Personal Care",549
+49,"Home & Kitchen,Books,Toys & Games",831
+50,"Books,Toys & Games,Grocery",547
+51,"Books,Home & Kitchen,Electronics",402
+52,"Home & Kitchen,Beauty & Personal Care,Electronics",508
+53,Home & Kitchen,241
+54,"Grocery,Home & Kitchen,Fashion",531
+55,"Books,Home & Kitchen",840
+56,"Fashion,Sports & Outdoors",180
+57,"Sports & Outdoors,Toys & Games",670
+58,"Grocery,Home & Kitchen,Books",857
+59,Sports & Outdoors,745
+60,Books,744
+61,"Toys & Games,Books,Fashion",574
+62,"Toys & Games,Sports & Outdoors,Electronics",696
+63,"Books,Toys & Games,Fashion",727
+64,Electronics,34
+65,"Grocery,Electronics",92
+66,Toys & Games,819
+67,Sports & Outdoors,703
+68,"Electronics,Books,Toys & Games",370
+69,"Books,Grocery,Beauty & Personal Care",107
+70,"Fashion,Beauty & Personal Care,Sports & Outdoors",804
+71,"Books,Toys & Games,Home & Kitchen",250
+72,Sports & Outdoors,489
+73,"Electronics,Grocery",543
+74,Beauty & Personal Care,654
+75,"Grocery,Fashion,Books",487
+76,Sports & Outdoors,53
+77,Sports & Outdoors,474
+78,"Beauty & Personal Care,Grocery,Toys & Games",449
+79,"Electronics,Fashion",265
+80,"Electronics,Home & Kitchen",562
+81,"Electronics,Books,Toys & Games",262
+82,Beauty & Personal Care,137
+83,"Fashion,Sports & Outdoors",186
+84,Toys & Games,672
+85,Grocery,222
+86,"Sports & Outdoors,Grocery,Electronics",104
+87,"Fashion,Electronics",884
+88,"Home & Kitchen,Grocery,Electronics",473
+89,"Home & Kitchen,Grocery",318
+90,Sports & Outdoors,351
+91,"Electronics,Fashion,Home & Kitchen",305
+92,"Grocery,Books,Electronics",383
+93,"Toys & Games,Fashion",90
+94,Fashion,83
+95,"Home & Kitchen,Fashion",797
+96,"Home & Kitchen,Beauty & Personal Care,Toys & Games",645
+97,Books,710
+98,Sports & Outdoors,294
+99,"Beauty & Personal Care,Fashion",373
+100,"Fashion,Books",894
+101,"Electronics,Home & Kitchen",690
+102,"Fashion,Books,Beauty & Personal Care",211
+103,"Toys & Games,Books,Beauty & Personal Care",215
+104,Electronics,187
+105,"Fashion,Home & Kitchen,Beauty & Personal Care",496
+106,"Books,Home & Kitchen,Grocery",259
+107,"Home & Kitchen,Beauty & Personal Care",98
+108,Toys & Games,38
+109,"Home & Kitchen,Books,Grocery",770
+110,Toys & Games,265
+111,"Electronics,Grocery",883
+112,"Home & Kitchen,Fashion",158
+113,"Books,Beauty & Personal Care,Sports & Outdoors",84
+114,"Books,Toys & Games",809
+115,"Home & Kitchen,Beauty & Personal Care",801
+116,Home & Kitchen,597
+117,"Electronics,Sports & Outdoors,Home & Kitchen",531
+118,"Fashion,Home & Kitchen,Grocery",305
+119,"Toys & Games,Home & Kitchen,Books",878
+120,"Beauty & Personal Care,Books",143
+121,"Home & Kitchen,Grocery,Electronics",522
+122,Beauty & Personal Care,232
+123,Books,728
+124,Sports & Outdoors,397
+125,"Sports & Outdoors,Fashion",378
+126,Toys & Games,771
+127,"Fashion,Books",334
+128,"Grocery,Home & Kitchen,Books",515
+129,Books,55
+130,"Sports & Outdoors,Books,Grocery",677
+131,"Books,Toys & Games",422
+132,Fashion,173
+133,"Grocery,Home & Kitchen,Beauty & Personal Care",400
+134,"Grocery,Electronics,Toys & Games",654
+135,"Fashion,Beauty & Personal Care",433
+136,Fashion,468
+137,Sports & Outdoors,172
+138,"Toys & Games,Fashion,Sports & Outdoors",34
+139,"Electronics,Grocery",883
+140,"Grocery,Home & Kitchen,Beauty & Personal Care",409
+141,"Home & Kitchen,Sports & Outdoors",227
+142,Electronics,380
+143,"Sports & Outdoors,Home & Kitchen,Fashion",520
+144,"Sports & Outdoors,Home & Kitchen",265
+145,"Beauty & Personal Care,Grocery,Electronics",296
+146,"Electronics,Beauty & Personal Care,Grocery",643
+147,"Home & Kitchen,Sports & Outdoors,Electronics",794
+148,Sports & Outdoors,884
+149,"Beauty & Personal Care,Grocery,Toys & Games",71
+150,Grocery,181
+151,"Sports & Outdoors,Grocery",881
+152,"Books,Grocery,Sports & Outdoors",739
+153,"Electronics,Toys & Games,Books",836
+154,Fashion,200
+155,Fashion,414
+156,Fashion,485
+157,"Beauty & Personal Care,Electronics,Books",668
+158,Fashion,307
+159,"Books,Fashion,Grocery",113
+160,Toys & Games,201
+161,"Home & Kitchen,Toys & Games",539
+162,"Books,Sports & Outdoors,Home & Kitchen",449
+163,"Books,Grocery",120
+164,Beauty & Personal Care,642
+165,"Sports & Outdoors,Electronics,Beauty & Personal Care",153
+166,"Electronics,Fashion,Toys & Games",552
+167,"Beauty & Personal Care,Sports & Outdoors",284
+168,"Home & Kitchen,Books,Sports & Outdoors",72
+169,Beauty & Personal Care,372
+170,"Home & Kitchen,Sports & Outdoors,Books",799
+171,"Books,Grocery",212
+172,Toys & Games,519
+173,Electronics,873
+174,Home & Kitchen,577
+175,"Books,Toys & Games",261
+176,"Home & Kitchen,Toys & Games,Beauty & Personal Care",238
+177,"Fashion,Toys & Games,Sports & Outdoors",340
+178,"Sports & Outdoors,Beauty & Personal Care",673
+179,Books,73
+180,Books,167
+181,"Grocery,Fashion,Electronics",332
+182,"Books,Home & Kitchen,Electronics",192
+183,Home & Kitchen,207
+184,Fashion,751
+185,"Electronics,Books,Beauty & Personal Care",587
+186,"Toys & Games,Electronics,Sports & Outdoors",589
+187,Beauty & Personal Care,683
+188,"Electronics,Grocery",445
+189,"Toys & Games,Beauty & Personal Care",56
+190,Toys & Games,714
+191,"Fashion,Beauty & Personal Care,Electronics",515
+192,Electronics,380
+193,"Grocery,Beauty & Personal Care,Home & Kitchen",755
+194,"Electronics,Grocery,Toys & Games",314
+195,Electronics,662
+196,Beauty & Personal Care,371
+197,"Grocery,Books,Toys & Games",174
+198,"Fashion,Beauty & Personal Care,Home & Kitchen",400
+199,"Fashion,Electronics",405
+200,"Home & Kitchen,Books",368
+201,"Fashion,Books,Grocery",56
+202,Books,814
+203,Sports & Outdoors,462
+204,Books,793
+205,Electronics,342
+206,Books,497
+207,Home & Kitchen,669
+208,"Home & Kitchen,Beauty & Personal Care",143
+209,Electronics,573
+210,Sports & Outdoors,859
+211,"Electronics,Beauty & Personal Care,Grocery",748
+212,"Electronics,Grocery,Fashion",600
+213,"Beauty & Personal Care,Books",650
+214,"Books,Beauty & Personal Care,Home & Kitchen",109
+215,"Fashion,Toys & Games,Books",820
+216,"Home & Kitchen,Toys & Games,Electronics",496
+217,Toys & Games,289
+218,"Fashion,Sports & Outdoors",98
+219,"Beauty & Personal Care,Books,Home & Kitchen",503
+220,"Sports & Outdoors,Beauty & Personal Care",852
+221,Electronics,488
+222,Fashion,716
+223,"Toys & Games,Beauty & Personal Care",446
+224,Beauty & Personal Care,225
+225,"Toys & Games,Electronics,Fashion",228
+226,"Toys & Games,Books,Grocery",369
+227,"Home & Kitchen,Sports & Outdoors",202
+228,"Beauty & Personal Care,Home & Kitchen,Books",309
+229,"Fashion,Beauty & Personal Care,Sports & Outdoors",47
+230,"Sports & Outdoors,Grocery,Toys & Games",213
+231,"Home & Kitchen,Sports & Outdoors,Books",169
+232,"Books,Sports & Outdoors",756
+233,"Fashion,Electronics",645
+234,"Electronics,Fashion",121
+235,"Grocery,Fashion",638
+236,"Books,Fashion",192
+237,"Fashion,Beauty & Personal Care,Books",899
+238,"Books,Sports & Outdoors,Toys & Games",652
+239,"Grocery,Electronics",400
+240,"Electronics,Toys & Games",341
+241,Fashion,397
+242,"Home & Kitchen,Toys & Games,Books",651
+243,"Electronics,Books,Grocery",688
+244,"Home & Kitchen,Grocery",441
+245,"Sports & Outdoors,Beauty & Personal Care",585
+246,Home & Kitchen,393
+247,Sports & Outdoors,668
+248,"Fashion,Beauty & Personal Care,Sports & Outdoors",732
+249,"Books,Electronics,Home & Kitchen",180
+250,"Books,Electronics",818
+251,"Home & Kitchen,Toys & Games",623
+252,Electronics,186
+253,"Grocery,Sports & Outdoors,Fashion",889
+254,"Grocery,Home & Kitchen,Toys & Games",366
+255,"Electronics,Beauty & Personal Care",412
+256,Home & Kitchen,399
+257,"Toys & Games,Sports & Outdoors",258
+258,"Beauty & Personal Care,Electronics,Fashion",285
+259,Toys & Games,374
+260,Toys & Games,47
+261,"Grocery,Fashion",192
+262,"Toys & Games,Home & Kitchen,Grocery",124
+263,Grocery,614
+264,"Books,Grocery,Home & Kitchen",605
+265,"Electronics,Grocery",525
+266,"Beauty & Personal Care,Home & Kitchen,Fashion",493
+267,"Books,Home & Kitchen",617
+268,"Electronics,Sports & Outdoors,Toys & Games",554
+269,"Beauty & Personal Care,Home & Kitchen,Electronics",445
+270,"Beauty & Personal Care,Sports & Outdoors,Electronics",615
+271,"Sports & Outdoors,Home & Kitchen,Electronics",500
+272,"Electronics,Beauty & Personal Care",175
+273,Fashion,138
+274,Sports & Outdoors,709
+275,"Books,Sports & Outdoors,Beauty & Personal Care",638
+276,Toys & Games,105
+277,Beauty & Personal Care,634
+278,Home & Kitchen,320
+279,"Books,Grocery,Sports & Outdoors",123
+280,Fashion,263
+281,"Books,Toys & Games",214
+282,"Grocery,Fashion",509
+283,"Beauty & Personal Care,Sports & Outdoors,Fashion",276
+284,Books,36
+285,Grocery,524
+286,"Books,Home & Kitchen,Sports & Outdoors",624
+287,"Home & Kitchen,Books,Electronics",568
+288,"Toys & Games,Fashion,Grocery",285
+289,Electronics,76
+290,"Electronics,Home & Kitchen",798
+291,"Books,Sports & Outdoors,Electronics",381
+292,"Electronics,Sports & Outdoors,Fashion",95
+293,Home & Kitchen,41
+294,Grocery,883
+295,"Books,Toys & Games",651
+296,Toys & Games,349
+297,Home & Kitchen,624
+298,"Fashion,Beauty & Personal Care,Grocery",512
+299,"Home & Kitchen,Fashion,Electronics",673
+300,"Beauty & Personal Care,Home & Kitchen",352
+301,"Toys & Games,Grocery",48
+302,"Fashion,Sports & Outdoors,Grocery",290
+303,"Grocery,Sports & Outdoors",380
+304,"Grocery,Electronics",886
+305,Sports & Outdoors,393
+306,"Grocery,Beauty & Personal Care",887
+307,"Grocery,Sports & Outdoors,Electronics",711
+308,"Books,Home & Kitchen,Electronics",611
+309,"Grocery,Home & Kitchen",790
+310,"Toys & Games,Home & Kitchen,Sports & Outdoors",661
+311,"Home & Kitchen,Beauty & Personal Care,Books",425
+312,Books,150
+313,"Electronics,Toys & Games,Home & Kitchen",497
+314,"Electronics,Books,Beauty & Personal Care",472
+315,"Sports & Outdoors,Grocery",573
+316,"Home & Kitchen,Electronics",32
+317,"Home & Kitchen,Grocery,Books",454
+318,"Electronics,Grocery",826
+319,Home & Kitchen,559
+320,"Toys & Games,Electronics,Sports & Outdoors",85
+321,"Grocery,Home & Kitchen",875
+322,"Books,Toys & Games,Sports & Outdoors",489
+323,"Fashion,Beauty & Personal Care,Electronics",205
+324,"Toys & Games,Fashion,Books",509
+325,"Home & Kitchen,Fashion,Grocery",635
+326,"Home & Kitchen,Sports & Outdoors,Fashion",701
+327,"Home & Kitchen,Beauty & Personal Care",584
+328,"Grocery,Beauty & Personal Care",181
+329,"Beauty & Personal Care,Books,Sports & Outdoors",75
+330,"Fashion,Home & Kitchen",868
+331,Grocery,481
+332,"Home & Kitchen,Toys & Games,Books",422
+333,"Toys & Games,Books",634
+334,"Sports & Outdoors,Beauty & Personal Care,Home & Kitchen",355
+335,"Electronics,Home & Kitchen",102
+336,"Beauty & Personal Care,Grocery",225
+337,"Fashion,Home & Kitchen",299
+338,Books,752
+339,Electronics,238
+340,"Fashion,Toys & Games",489
+341,"Toys & Games,Books,Beauty & Personal Care",699
+342,"Fashion,Grocery",432
+343,"Home & Kitchen,Grocery",36
+344,"Home & Kitchen,Toys & Games",400
+345,Fashion,213
+346,Toys & Games,69
+347,Sports & Outdoors,224
+348,"Beauty & Personal Care,Sports & Outdoors,Books",200
+349,"Home & Kitchen,Toys & Games",521
+350,"Books,Toys & Games",372
+351,"Electronics,Home & Kitchen,Grocery",348
+352,Toys & Games,599
+353,"Grocery,Home & Kitchen,Fashion",91
+354,"Home & Kitchen,Beauty & Personal Care,Sports & Outdoors",413
+355,Electronics,61
+356,"Beauty & Personal Care,Sports & Outdoors",428
+357,"Books,Grocery",222
+358,"Sports & Outdoors,Electronics,Toys & Games",590
+359,Home & Kitchen,525
+360,"Books,Toys & Games,Home & Kitchen",815
+361,"Grocery,Books",69
+362,"Electronics,Sports & Outdoors,Beauty & Personal Care",332
+363,"Toys & Games,Beauty & Personal Care",669
+364,"Fashion,Books,Sports & Outdoors",582
+365,Electronics,758
+366,"Electronics,Home & Kitchen,Grocery",631
+367,"Fashion,Electronics",716
+368,Books,858
+369,Books,794
+370,"Fashion,Beauty & Personal Care",790
+371,"Fashion,Sports & Outdoors",97
+372,"Fashion,Beauty & Personal Care,Home & Kitchen",224
+373,Beauty & Personal Care,775
+374,"Home & Kitchen,Sports & Outdoors,Grocery",500
+375,"Books,Home & Kitchen,Fashion",773
+376,Toys & Games,388
+377,"Fashion,Books,Beauty & Personal Care",802
+378,"Grocery,Home & Kitchen,Electronics",199
+379,"Grocery,Books",636
+380,"Electronics,Fashion",626
+381,"Grocery,Books",285
+382,"Toys & Games,Electronics,Books",542
+383,"Sports & Outdoors,Toys & Games,Home & Kitchen",504
+384,Electronics,512
+385,"Sports & Outdoors,Home & Kitchen",622
+386,"Sports & Outdoors,Books",532
+387,"Fashion,Home & Kitchen,Beauty & Personal Care",559
+388,Grocery,717
+389,"Fashion,Beauty & Personal Care",532
+390,Fashion,871
+391,"Home & Kitchen,Sports & Outdoors",388
+392,"Beauty & Personal Care,Home & Kitchen,Sports & Outdoors",256
+393,Books,323
+394,"Home & Kitchen,Fashion,Grocery",263
+395,"Beauty & Personal Care,Electronics,Sports & Outdoors",32
+396,Electronics,471
+397,"Grocery,Beauty & Personal Care,Fashion",253
+398,"Toys & Games,Sports & Outdoors",535
+399,"Home & Kitchen,Electronics,Grocery",303
+400,Home & Kitchen,240
+401,"Books,Electronics,Grocery",788
+402,Books,140
+403,"Electronics,Home & Kitchen,Books",300
+404,Grocery,190
+405,"Sports & Outdoors,Beauty & Personal Care,Books",892
+406,Grocery,257
+407,"Beauty & Personal Care,Electronics,Sports & Outdoors",61
+408,"Toys & Games,Electronics",874
+409,"Fashion,Toys & Games",425
+410,Electronics,316
+411,"Grocery,Sports & Outdoors,Electronics",719
+412,Home & Kitchen,220
+413,Books,439
+414,"Sports & Outdoors,Electronics",822
+415,"Books,Electronics",820
+416,"Grocery,Books",538
+417,Electronics,696
+418,"Books,Grocery,Home & Kitchen",572
+419,"Books,Grocery,Home & Kitchen",337
+420,Beauty & Personal Care,568
+421,"Electronics,Grocery,Sports & Outdoors",851
+422,"Books,Electronics,Toys & Games",789
+423,"Books,Toys & Games,Grocery",500
+424,Toys & Games,838
+425,Beauty & Personal Care,527
+426,"Sports & Outdoors,Beauty & Personal Care",737
+427,"Electronics,Toys & Games,Beauty & Personal Care",278
+428,Books,413
+429,Electronics,218
+430,"Sports & Outdoors,Electronics,Home & Kitchen",90
+431,"Toys & Games,Sports & Outdoors,Fashion",150
+432,Toys & Games,229
+433,Fashion,105
+434,"Toys & Games,Fashion",345
+435,Books,212
+436,"Sports & Outdoors,Beauty & Personal Care",248
+437,"Electronics,Books,Beauty & Personal Care",419
+438,"Grocery,Books,Sports & Outdoors",801
+439,Electronics,553
+440,"Beauty & Personal Care,Sports & Outdoors,Toys & Games",253
+441,"Electronics,Home & Kitchen",645
+442,Home & Kitchen,255
+443,Books,808
+444,"Home & Kitchen,Fashion,Grocery",473
+445,"Toys & Games,Books",373
+446,Beauty & Personal Care,584
+447,Fashion,457
+448,"Electronics,Sports & Outdoors",708
+449,"Books,Grocery,Toys & Games",391
+450,"Books,Home & Kitchen,Beauty & Personal Care",809
+451,"Toys & Games,Beauty & Personal Care",554
+452,"Sports & Outdoors,Fashion,Toys & Games",854
+453,"Grocery,Toys & Games,Beauty & Personal Care",739
+454,"Fashion,Electronics,Home & Kitchen",78
+455,Home & Kitchen,328
+456,Beauty & Personal Care,446
+457,Fashion,608
+458,"Books,Beauty & Personal Care,Electronics",271
+459,"Electronics,Toys & Games",47
+460,"Beauty & Personal Care,Home & Kitchen,Fashion",760
+461,Sports & Outdoors,299
+462,"Books,Beauty & Personal Care,Electronics",344
+463,Electronics,540
+464,Sports & Outdoors,694
+465,Books,288
+466,Sports & Outdoors,574
+467,"Sports & Outdoors,Fashion",270
+468,"Beauty & Personal Care,Home & Kitchen,Electronics",453
+469,"Books,Toys & Games,Home & Kitchen",782
+470,"Electronics,Sports & Outdoors",347
+471,Sports & Outdoors,727
+472,Beauty & Personal Care,30
+473,"Toys & Games,Beauty & Personal Care,Books",848
+474,Fashion,758
+475,"Electronics,Fashion",547
+476,"Books,Beauty & Personal Care,Grocery",212
+477,"Grocery,Fashion,Sports & Outdoors",459
+478,"Books,Home & Kitchen,Beauty & Personal Care",820
+479,"Grocery,Books,Sports & Outdoors",59
+480,"Home & Kitchen,Grocery",647
+481,"Toys & Games,Electronics",165
+482,Fashion,503
+483,"Books,Beauty & Personal Care",355
+484,Electronics,140
+485,"Toys & Games,Home & Kitchen",258
+486,"Electronics,Fashion,Home & Kitchen",227
+487,"Beauty & Personal Care,Toys & Games",113
+488,"Books,Electronics",240
+489,"Toys & Games,Books",555
+490,Books,565
+491,Electronics,593
+492,"Books,Fashion",742
+493,"Grocery,Books,Fashion",233
+494,Fashion,325
+495,"Electronics,Toys & Games,Home & Kitchen",412
+496,Electronics,777
+497,"Electronics,Toys & Games",334
+498,"Fashion,Grocery",203
+499,"Books,Beauty & Personal Care,Fashion",226
+500,"Toys & Games,Electronics,Home & Kitchen",760
+501,Sports & Outdoors,344
+502,"Beauty & Personal Care,Home & Kitchen",256
+503,"Fashion,Books,Grocery",673
+504,"Toys & Games,Fashion,Sports & Outdoors",375
+505,"Home & Kitchen,Books",851
+506,"Toys & Games,Books",199
+507,"Home & Kitchen,Books,Electronics",707
+508,"Fashion,Grocery,Sports & Outdoors",595
+509,"Toys & Games,Electronics,Books",732
+510,Electronics,394
+511,Sports & Outdoors,101
+512,Beauty & Personal Care,699
+513,Home & Kitchen,172
+514,Home & Kitchen,255
+515,"Books,Fashion",686
+516,"Sports & Outdoors,Grocery",252
+517,"Electronics,Fashion,Toys & Games",551
+518,"Fashion,Sports & Outdoors",529
+519,"Toys & Games,Fashion",305
+520,"Books,Toys & Games,Fashion",239
+521,Home & Kitchen,623
+522,"Sports & Outdoors,Beauty & Personal Care",232
+523,Fashion,829
+524,"Home & Kitchen,Books",628
+525,"Grocery,Toys & Games",169
+526,"Books,Grocery",630
+527,Sports & Outdoors,190
+528,"Fashion,Electronics",807
+529,"Beauty & Personal Care,Fashion,Sports & Outdoors",275
+530,"Books,Home & Kitchen",687
+531,"Electronics,Beauty & Personal Care,Fashion",128
+532,"Grocery,Books,Home & Kitchen",572
+533,"Books,Fashion",885
+534,"Electronics,Toys & Games,Books",816
+535,Sports & Outdoors,661
+536,"Fashion,Books",419
+537,"Electronics,Home & Kitchen,Fashion",767
+538,Books,546
+539,"Toys & Games,Fashion,Home & Kitchen",614
+540,"Grocery,Books",866
+541,"Home & Kitchen,Electronics,Grocery",754
+542,"Grocery,Fashion",84
+543,"Fashion,Sports & Outdoors,Books",717
+544,"Home & Kitchen,Books,Grocery",315
+545,Grocery,206
+546,Beauty & Personal Care,149
+547,"Grocery,Fashion,Sports & Outdoors",409
+548,"Fashion,Grocery",211
+549,"Toys & Games,Home & Kitchen",826
+550,"Toys & Games,Electronics,Grocery",482
+551,"Toys & Games,Sports & Outdoors",804
+552,Electronics,863
+553,Grocery,278
+554,"Grocery,Electronics",175
+555,"Toys & Games,Fashion",464
+556,"Electronics,Grocery",373
+557,Fashion,730
+558,"Beauty & Personal Care,Books,Electronics",204
+559,"Sports & Outdoors,Books",608
+560,"Sports & Outdoors,Electronics,Beauty & Personal Care",102
+561,"Sports & Outdoors,Home & Kitchen,Grocery",535
+562,"Grocery,Toys & Games,Beauty & Personal Care",666
+563,"Beauty & Personal Care,Home & Kitchen,Toys & Games",309
+564,"Grocery,Books,Sports & Outdoors",353
+565,"Home & Kitchen,Books,Grocery",717
+566,Sports & Outdoors,441
+567,Sports & Outdoors,410
+568,"Electronics,Sports & Outdoors",121
+569,"Grocery,Fashion",368
+570,"Books,Home & Kitchen,Electronics",676
+571,"Electronics,Books,Beauty & Personal Care",423
+572,"Home & Kitchen,Sports & Outdoors,Toys & Games",271
+573,"Electronics,Toys & Games,Home & Kitchen",158
+574,"Toys & Games,Fashion",433
+575,"Sports & Outdoors,Electronics,Books",394
+576,"Beauty & Personal Care,Home & Kitchen,Electronics",808
+577,Home & Kitchen,311
+578,Fashion,298
+579,"Fashion,Sports & Outdoors,Beauty & Personal Care",111
+580,"Sports & Outdoors,Toys & Games,Home & Kitchen",61
+581,Sports & Outdoors,840
+582,Toys & Games,846
+583,"Grocery,Toys & Games",773
+584,"Electronics,Beauty & Personal Care,Books",443
+585,Fashion,107
+586,"Toys & Games,Electronics",538
+587,Fashion,277
+588,"Books,Home & Kitchen,Fashion",378
+589,"Beauty & Personal Care,Books",215
+590,"Home & Kitchen,Books",338
+591,"Books,Fashion",295
+592,"Fashion,Books",50
+593,Electronics,644
+594,"Home & Kitchen,Toys & Games,Books",203
+595,"Beauty & Personal Care,Books",128
+596,"Electronics,Sports & Outdoors,Beauty & Personal Care",169
+597,"Grocery,Fashion,Sports & Outdoors",403
+598,"Home & Kitchen,Sports & Outdoors",883
+599,"Toys & Games,Electronics,Home & Kitchen",300
+600,Home & Kitchen,397
+601,"Home & Kitchen,Beauty & Personal Care",802
+602,"Fashion,Books",531
+603,Books,197
+604,"Home & Kitchen,Beauty & Personal Care,Toys & Games",462
+605,Sports & Outdoors,262
+606,Toys & Games,301
+607,"Home & Kitchen,Fashion",146
+608,"Fashion,Grocery,Sports & Outdoors",522
+609,Books,129
+610,"Beauty & Personal Care,Home & Kitchen",640
+611,"Electronics,Grocery",609
+612,"Books,Toys & Games",884
+613,"Grocery,Sports & Outdoors,Beauty & Personal Care",619
+614,"Beauty & Personal Care,Toys & Games",841
+615,"Fashion,Home & Kitchen,Sports & Outdoors",781
+616,"Toys & Games,Sports & Outdoors,Grocery",465
+617,"Books,Sports & Outdoors",290
+618,Home & Kitchen,750
+619,"Toys & Games,Grocery",186
+620,"Grocery,Electronics",273
+621,Toys & Games,488
+622,"Grocery,Sports & Outdoors",328
+623,Sports & Outdoors,487
+624,"Beauty & Personal Care,Fashion,Sports & Outdoors",545
+625,Electronics,212
+626,Beauty & Personal Care,797
+627,"Sports & Outdoors,Toys & Games",596
+628,"Home & Kitchen,Fashion,Beauty & Personal Care",845
+629,Fashion,653
+630,"Home & Kitchen,Electronics,Sports & Outdoors",389
+631,"Toys & Games,Electronics,Books",570
+632,"Fashion,Electronics,Home & Kitchen",849
+633,"Grocery,Electronics",263
+634,"Fashion,Sports & Outdoors,Beauty & Personal Care",858
+635,Grocery,502
+636,"Grocery,Sports & Outdoors",829
+637,"Sports & Outdoors,Grocery",338
+638,"Grocery,Fashion,Sports & Outdoors",369
+639,Sports & Outdoors,628
+640,"Home & Kitchen,Books",419
+641,Toys & Games,734
+642,"Electronics,Books",276
+643,"Fashion,Sports & Outdoors",426
+644,"Electronics,Home & Kitchen",735
+645,Electronics,752
+646,Sports & Outdoors,749
+647,"Beauty & Personal Care,Home & Kitchen,Toys & Games",477
+648,"Electronics,Sports & Outdoors,Home & Kitchen",646
+649,"Fashion,Sports & Outdoors",810
+650,"Electronics,Grocery",556
+651,"Electronics,Beauty & Personal Care",154
+652,"Home & Kitchen,Beauty & Personal Care,Electronics",45
+653,"Sports & Outdoors,Books,Fashion",379
+654,"Home & Kitchen,Grocery,Fashion",239
+655,Grocery,477
+656,"Fashion,Grocery,Home & Kitchen",465
+657,Grocery,528
+658,"Electronics,Sports & Outdoors",837
+659,Fashion,899
+660,"Grocery,Electronics",567
+661,Home & Kitchen,670
+662,"Toys & Games,Grocery,Home & Kitchen",755
+663,Toys & Games,245
+664,"Grocery,Toys & Games,Books",588
+665,"Grocery,Electronics",876
+666,"Grocery,Books,Electronics",126
+667,Grocery,676
+668,Fashion,253
+669,Fashion,527
+670,Home & Kitchen,303
+671,"Books,Home & Kitchen,Toys & Games",778
+672,"Books,Beauty & Personal Care,Grocery",605
+673,"Sports & Outdoors,Home & Kitchen",251
+674,"Beauty & Personal Care,Sports & Outdoors,Fashion",156
+675,"Sports & Outdoors,Toys & Games",440
+676,Grocery,790
+677,"Fashion,Beauty & Personal Care,Grocery",180
+678,Sports & Outdoors,391
+679,"Home & Kitchen,Books",827
+680,"Grocery,Books",720
+681,"Sports & Outdoors,Books",855
+682,"Home & Kitchen,Beauty & Personal Care,Grocery",486
+683,"Home & Kitchen,Sports & Outdoors,Electronics",37
+684,Beauty & Personal Care,538
+685,Home & Kitchen,297
+686,"Home & Kitchen,Electronics",768
+687,"Beauty & Personal Care,Home & Kitchen",235
+688,"Sports & Outdoors,Beauty & Personal Care",584
+689,Sports & Outdoors,537
+690,Beauty & Personal Care,788
+691,"Fashion,Beauty & Personal Care",306
+692,"Books,Toys & Games,Sports & Outdoors",401
+693,Beauty & Personal Care,782
+694,"Electronics,Books",290
+695,"Toys & Games,Beauty & Personal Care",590
+696,"Fashion,Toys & Games",678
+697,"Toys & Games,Fashion",248
+698,Fashion,664
+699,"Electronics,Beauty & Personal Care,Toys & Games",861
+700,"Sports & Outdoors,Books",626
+701,"Books,Toys & Games,Fashion",186
+702,"Electronics,Fashion",621
+703,"Books,Home & Kitchen,Electronics",569
+704,"Home & Kitchen,Fashion,Toys & Games",472
+705,Sports & Outdoors,359
+706,Grocery,584
+707,"Grocery,Electronics",594
+708,Books,371
+709,Sports & Outdoors,187
+710,Fashion,277
+711,"Fashion,Toys & Games",196
+712,Fashion,309
+713,"Sports & Outdoors,Books,Home & Kitchen",391
+714,"Books,Electronics",310
+715,"Toys & Games,Grocery",389
+716,Fashion,329
+717,Fashion,161
+718,Books,457
+719,Sports & Outdoors,762
+720,"Grocery,Home & Kitchen",272
+721,"Home & Kitchen,Books,Grocery",457
+722,"Beauty & Personal Care,Home & Kitchen",629
+723,Sports & Outdoors,241
+724,"Electronics,Grocery,Toys & Games",887
+725,"Home & Kitchen,Fashion",440
+726,"Electronics,Books,Fashion",705
+727,"Sports & Outdoors,Grocery,Fashion",567
+728,"Beauty & Personal Care,Toys & Games,Fashion",140
+729,"Toys & Games,Books",174
+730,Electronics,747
+731,"Toys & Games,Home & Kitchen,Beauty & Personal Care",614
+732,Electronics,719
+733,"Fashion,Beauty & Personal Care",435
+734,"Fashion,Beauty & Personal Care",128
+735,"Fashion,Grocery",462
+736,Books,328
+737,"Fashion,Beauty & Personal Care",536
+738,Sports & Outdoors,63
+739,"Fashion,Electronics",564
+740,"Electronics,Home & Kitchen,Beauty & Personal Care",652
+741,"Books,Electronics",351
+742,Sports & Outdoors,78
+743,Sports & Outdoors,894
+744,Beauty & Personal Care,728
+745,Beauty & Personal Care,759
+746,"Grocery,Fashion,Books",835
+747,"Sports & Outdoors,Home & Kitchen,Books",857
+748,"Fashion,Electronics",491
+749,"Books,Home & Kitchen",865
+750,"Electronics,Toys & Games,Fashion",321
+751,Toys & Games,712
+752,"Home & Kitchen,Electronics",604
+753,"Fashion,Books,Grocery",666
+754,"Sports & Outdoors,Books",775
+755,Toys & Games,719
+756,"Books,Beauty & Personal Care",390
+757,"Fashion,Toys & Games,Sports & Outdoors",794
+758,Fashion,264
+759,"Grocery,Fashion",219
+760,Grocery,548
+761,Electronics,738
+762,Fashion,609
+763,"Beauty & Personal Care,Books,Home & Kitchen",829
+764,"Sports & Outdoors,Beauty & Personal Care,Electronics",119
+765,Grocery,513
+766,"Books,Home & Kitchen,Electronics",186
+767,"Beauty & Personal Care,Fashion",292
+768,"Home & Kitchen,Electronics,Fashion",166
+769,"Fashion,Toys & Games",446
+770,"Grocery,Electronics,Fashion",603
+771,"Home & Kitchen,Toys & Games",728
+772,"Grocery,Books,Fashion",677
+773,"Beauty & Personal Care,Grocery",443
+774,"Grocery,Sports & Outdoors",148
+775,Beauty & Personal Care,170
+776,Grocery,273
+777,"Electronics,Fashion,Toys & Games",205
+778,"Electronics,Books",716
+779,Grocery,836
+780,"Toys & Games,Books,Beauty & Personal Care",540
+781,Grocery,544
+782,"Home & Kitchen,Toys & Games,Sports & Outdoors",719
+783,Toys & Games,667
+784,"Electronics,Grocery,Home & Kitchen",586
+785,"Sports & Outdoors,Grocery,Toys & Games",71
+786,"Sports & Outdoors,Toys & Games,Beauty & Personal Care",856
+787,Electronics,605
+788,"Beauty & Personal Care,Electronics",524
+789,"Home & Kitchen,Electronics,Toys & Games",274
+790,"Fashion,Books,Sports & Outdoors",185
+791,"Home & Kitchen,Electronics",810
+792,"Toys & Games,Home & Kitchen",549
+793,"Sports & Outdoors,Fashion,Grocery",182
+794,"Home & Kitchen,Grocery,Fashion",147
+795,"Sports & Outdoors,Beauty & Personal Care,Home & Kitchen",288
+796,"Toys & Games,Grocery,Electronics",209
+797,"Toys & Games,Fashion",871
+798,"Electronics,Sports & Outdoors,Home & Kitchen",441
+799,"Toys & Games,Electronics",438
+800,"Beauty & Personal Care,Books",508
+801,Toys & Games,277
+802,Electronics,703
+803,"Toys & Games,Electronics",880
+804,"Sports & Outdoors,Grocery,Electronics",456
+805,Books,271
+806,"Toys & Games,Electronics,Sports & Outdoors",464
+807,"Grocery,Sports & Outdoors,Electronics",750
+808,"Electronics,Beauty & Personal Care,Home & Kitchen",644
+809,"Fashion,Grocery,Sports & Outdoors",485
+810,Sports & Outdoors,237
+811,"Grocery,Home & Kitchen",788
+812,Electronics,194
+813,"Toys & Games,Fashion",636
+814,"Home & Kitchen,Grocery",237
+815,"Electronics,Home & Kitchen,Toys & Games",642
+816,Toys & Games,350
+817,Sports & Outdoors,262
+818,"Books,Beauty & Personal Care",405
+819,"Sports & Outdoors,Fashion,Grocery",201
+820,"Books,Beauty & Personal Care,Toys & Games",680
+821,Electronics,93
+822,"Sports & Outdoors,Beauty & Personal Care",438
+823,Books,659
+824,"Sports & Outdoors,Books,Home & Kitchen",561
+825,"Fashion,Grocery,Electronics",575
+826,"Grocery,Toys & Games,Home & Kitchen",45
+827,"Beauty & Personal Care,Home & Kitchen",606
+828,Fashion,131
+829,Electronics,259
+830,"Books,Toys & Games,Beauty & Personal Care",76
+831,"Beauty & Personal Care,Sports & Outdoors,Home & Kitchen",230
+832,Electronics,465
+833,"Home & Kitchen,Fashion",620
+834,"Home & Kitchen,Books",615
+835,"Beauty & Personal Care,Electronics,Toys & Games",388
+836,Grocery,356
+837,Books,449
+838,"Home & Kitchen,Sports & Outdoors",175
+839,"Beauty & Personal Care,Home & Kitchen,Grocery",698
+840,"Beauty & Personal Care,Toys & Games",369
+841,"Books,Electronics,Sports & Outdoors",692
+842,Electronics,57
+843,Grocery,657
+844,"Fashion,Toys & Games,Sports & Outdoors",525
+845,Books,850
+846,"Home & Kitchen,Sports & Outdoors,Grocery",274
+847,"Electronics,Grocery,Books",169
+848,"Toys & Games,Fashion,Books",347
+849,Beauty & Personal Care,745
+850,"Home & Kitchen,Electronics,Books",876
+851,"Books,Toys & Games,Beauty & Personal Care",62
+852,"Beauty & Personal Care,Electronics",37
+853,"Sports & Outdoors,Books,Electronics",781
+854,"Beauty & Personal Care,Books,Electronics",625
+855,Grocery,84
+856,Fashion,877
+857,Toys & Games,223
+858,"Electronics,Beauty & Personal Care",648
+859,"Home & Kitchen,Beauty & Personal Care,Sports & Outdoors",559
+860,"Beauty & Personal Care,Home & Kitchen,Toys & Games",485
+861,Toys & Games,56
+862,"Electronics,Grocery,Books",322
+863,"Beauty & Personal Care,Toys & Games",110
+864,"Electronics,Beauty & Personal Care,Fashion",813
+865,Sports & Outdoors,791
+866,"Home & Kitchen,Electronics",126
+867,Fashion,645
+868,"Grocery,Sports & Outdoors",297
+869,Electronics,441
+870,Electronics,385
+871,"Books,Toys & Games",441
+872,Beauty & Personal Care,535
+873,Grocery,478
+874,"Fashion,Books,Home & Kitchen",583
+875,Grocery,197
+876,Beauty & Personal Care,756
+877,"Grocery,Books,Beauty & Personal Care",187
+878,"Home & Kitchen,Fashion,Toys & Games",342
+879,Sports & Outdoors,651
+880,"Home & Kitchen,Books,Electronics",309
+881,"Books,Electronics,Beauty & Personal Care",522
+882,Home & Kitchen,742
+883,"Books,Sports & Outdoors",840
+884,"Books,Beauty & Personal Care",343
+885,"Toys & Games,Electronics,Fashion",41
+886,Sports & Outdoors,261
+887,"Books,Electronics",673
+888,"Books,Toys & Games",501
+889,"Grocery,Electronics",102
+890,Toys & Games,551
+891,"Beauty & Personal Care,Electronics,Home & Kitchen",264
+892,"Grocery,Home & Kitchen,Toys & Games",447
+893,Books,529
+894,"Home & Kitchen,Toys & Games,Books",420
+895,Toys & Games,821
+896,"Grocery,Sports & Outdoors",347
+897,"Books,Beauty & Personal Care,Home & Kitchen",381
+898,"Electronics,Grocery,Fashion",568
+899,"Grocery,Sports & Outdoors,Books",715
+900,"Home & Kitchen,Books,Fashion",863
+901,"Sports & Outdoors,Fashion,Home & Kitchen",212
+902,"Grocery,Electronics",668
+903,Beauty & Personal Care,135
+904,"Grocery,Electronics",635
+905,Beauty & Personal Care,734
+906,"Books,Home & Kitchen",156
+907,"Beauty & Personal Care,Electronics",640
+908,Electronics,617
+909,"Electronics,Grocery",432
+910,Home & Kitchen,422
+911,Home & Kitchen,219
+912,Fashion,330
+913,"Home & Kitchen,Books",197
+914,"Sports & Outdoors,Beauty & Personal Care,Electronics",431
+915,Electronics,282
+916,Fashion,384
+917,Home & Kitchen,787
+918,"Grocery,Electronics,Sports & Outdoors",457
+919,Beauty & Personal Care,845
+920,"Beauty & Personal Care,Electronics",171
+921,"Fashion,Grocery,Toys & Games",392
+922,Home & Kitchen,169
+923,"Toys & Games,Grocery",128
+924,"Electronics,Beauty & Personal Care",702
+925,"Beauty & Personal Care,Electronics",573
+926,Sports & Outdoors,378
+927,"Toys & Games,Fashion,Books",448
+928,"Toys & Games,Sports & Outdoors,Beauty & Personal Care",603
+929,"Electronics,Beauty & Personal Care",845
+930,"Sports & Outdoors,Home & Kitchen",453
+931,Fashion,373
+932,"Grocery,Fashion",285
+933,"Home & Kitchen,Fashion,Beauty & Personal Care",678
+934,"Grocery,Home & Kitchen",55
+935,"Toys & Games,Books,Grocery",251
+936,Fashion,678
+937,Grocery,704
+938,"Fashion,Sports & Outdoors",124
+939,Electronics,722
+940,"Toys & Games,Books,Grocery",712
+941,"Toys & Games,Electronics,Grocery",95
+942,"Books,Electronics",72
+943,"Grocery,Toys & Games,Sports & Outdoors",715
+944,"Grocery,Home & Kitchen,Fashion",719
+945,"Books,Beauty & Personal Care,Grocery",242
+946,Home & Kitchen,343
+947,Books,125
+948,"Electronics,Toys & Games,Beauty & Personal Care",459
+949,"Toys & Games,Electronics",867
+950,"Sports & Outdoors,Fashion",439
+951,"Sports & Outdoors,Toys & Games,Home & Kitchen",230
+952,Electronics,328
+953,"Sports & Outdoors,Grocery",309
+954,"Home & Kitchen,Fashion,Toys & Games",813
+955,Beauty & Personal Care,556
+956,"Grocery,Home & Kitchen",128
+957,"Toys & Games,Sports & Outdoors,Fashion",180
+958,"Beauty & Personal Care,Fashion,Books",819
+959,Toys & Games,247
+960,Books,688
+961,"Books,Electronics,Sports & Outdoors",46
+962,Books,774
+963,Electronics,381
+964,Grocery,835
+965,"Toys & Games,Fashion",418
+966,"Fashion,Electronics",454
+967,Electronics,556
+968,"Grocery,Electronics,Beauty & Personal Care",99
+969,"Home & Kitchen,Electronics,Toys & Games",103
+970,Fashion,169
+971,"Toys & Games,Home & Kitchen",663
+972,"Sports & Outdoors,Grocery,Electronics",715
+973,"Home & Kitchen,Electronics,Fashion",404
+974,Toys & Games,434
+975,"Books,Sports & Outdoors",516
+976,"Toys & Games,Books",227
+977,"Beauty & Personal Care,Electronics,Home & Kitchen",703
+978,Fashion,848
+979,"Grocery,Toys & Games",856
+980,"Toys & Games,Electronics,Fashion",275
+981,"Electronics,Home & Kitchen",875
+982,"Sports & Outdoors,Books",482
+983,"Electronics,Beauty & Personal Care,Grocery",71
+984,"Beauty & Personal Care,Electronics",359
+985,Sports & Outdoors,356
+986,"Toys & Games,Fashion",396
+987,"Sports & Outdoors,Beauty & Personal Care,Electronics",187
+988,Toys & Games,33
+989,"Home & Kitchen,Books",652
+990,"Sports & Outdoors,Electronics",377
+991,Toys & Games,880
+992,"Electronics,Sports & Outdoors,Grocery",471
+993,"Books,Sports & Outdoors,Home & Kitchen",177
+994,Toys & Games,885
+995,Books,525
+996,"Books,Electronics",273
+997,Beauty & Personal Care,53
+998,"Sports & Outdoors,Beauty & Personal Care",693
+999,Home & Kitchen,374
+1000,"Books,Home & Kitchen,Grocery",700
+1001,Grocery,881
+1002,Electronics,636
+1003,Grocery,500
+1004,"Toys & Games,Fashion",898
+1005,Fashion,157
+1006,"Electronics,Fashion",434
+1007,"Grocery,Home & Kitchen",437
+1008,"Electronics,Books,Beauty & Personal Care",801
+1009,"Fashion,Books",880
+1010,Home & Kitchen,577
+1011,"Books,Home & Kitchen",138
+1012,Fashion,674
+1013,Books,330
+1014,"Grocery,Toys & Games",712
+1015,"Sports & Outdoors,Books,Fashion",403
+1016,"Sports & Outdoors,Beauty & Personal Care",647
+1017,Sports & Outdoors,688
+1018,"Fashion,Books",640
+1019,"Sports & Outdoors,Beauty & Personal Care,Home & Kitchen",75
+1020,Sports & Outdoors,866
+1021,"Toys & Games,Grocery",729
+1022,"Beauty & Personal Care,Books",489
+1023,"Electronics,Toys & Games",446
+1024,Home & Kitchen,524
+1025,"Fashion,Home & Kitchen",857
+1026,"Fashion,Beauty & Personal Care,Electronics",629
+1027,"Home & Kitchen,Books",651
+1028,Toys & Games,539
+1029,"Beauty & Personal Care,Grocery",197
+1030,"Toys & Games,Home & Kitchen",686
+1031,Sports & Outdoors,511
+1032,Fashion,519
+1033,Grocery,485
+1034,"Toys & Games,Home & Kitchen,Beauty & Personal Care",275
+1035,Sports & Outdoors,621
+1036,"Grocery,Fashion",332
+1037,Grocery,316
+1038,Sports & Outdoors,726
+1039,"Sports & Outdoors,Electronics",87
+1040,Sports & Outdoors,207
+1041,Fashion,702
+1042,"Grocery,Home & Kitchen",793
+1043,"Grocery,Electronics",192
+1044,Beauty & Personal Care,878
+1045,Fashion,895
+1046,Toys & Games,570
+1047,"Beauty & Personal Care,Fashion,Sports & Outdoors",888
+1048,Fashion,46
+1049,"Home & Kitchen,Toys & Games,Electronics",656
+1050,"Toys & Games,Grocery",309
+1051,"Grocery,Sports & Outdoors,Toys & Games",854
+1052,"Electronics,Sports & Outdoors,Grocery",249
+1053,"Sports & Outdoors,Electronics,Beauty & Personal Care",693
+1054,"Home & Kitchen,Beauty & Personal Care,Grocery",799
+1055,"Books,Sports & Outdoors",159
+1056,Toys & Games,96
+1057,"Electronics,Toys & Games",390
+1058,Beauty & Personal Care,631
+1059,"Sports & Outdoors,Books,Beauty & Personal Care",839
+1060,"Books,Toys & Games",526
+1061,"Beauty & Personal Care,Books,Fashion",169
+1062,"Beauty & Personal Care,Fashion",247
+1063,Toys & Games,435
+1064,Sports & Outdoors,841
+1065,"Home & Kitchen,Grocery,Books",830
+1066,Toys & Games,827
+1067,"Beauty & Personal Care,Books,Electronics",863
+1068,Grocery,529
+1069,Sports & Outdoors,62
+1070,Sports & Outdoors,739
+1071,Home & Kitchen,370
+1072,"Books,Electronics",867
+1073,Beauty & Personal Care,101
+1074,"Home & Kitchen,Books,Beauty & Personal Care",235
+1075,Books,213
+1076,Fashion,887
+1077,"Books,Beauty & Personal Care,Fashion",53
+1078,"Home & Kitchen,Electronics",616
+1079,"Grocery,Sports & Outdoors,Beauty & Personal Care",862
+1080,"Grocery,Fashion,Electronics",119
+1081,"Electronics,Fashion",644
+1082,"Books,Fashion",483
+1083,"Sports & Outdoors,Grocery",215
+1084,Sports & Outdoors,79
+1085,"Sports & Outdoors,Toys & Games",895
+1086,"Beauty & Personal Care,Fashion",735
+1087,Electronics,39
+1088,"Electronics,Sports & Outdoors",599
+1089,"Home & Kitchen,Grocery",677
+1090,Electronics,512
+1091,"Fashion,Grocery",425
+1092,Sports & Outdoors,94
+1093,Books,223
+1094,Grocery,225
+1095,"Books,Grocery",325
+1096,"Electronics,Fashion,Home & Kitchen",702
+1097,"Grocery,Electronics,Books",120
+1098,"Grocery,Fashion,Sports & Outdoors",451
+1099,Fashion,735
+1100,"Sports & Outdoors,Books",500
+1101,Sports & Outdoors,683
+1102,Fashion,630
+1103,"Home & Kitchen,Fashion,Books",414
+1104,"Fashion,Sports & Outdoors",883
+1105,Home & Kitchen,593
+1106,"Grocery,Fashion,Sports & Outdoors",233
+1107,Electronics,162
+1108,"Electronics,Grocery",91
+1109,Sports & Outdoors,831
+1110,"Fashion,Electronics,Books",856
+1111,"Toys & Games,Books,Sports & Outdoors",847
+1112,Electronics,343
+1113,Grocery,417
+1114,"Toys & Games,Grocery",872
+1115,"Home & Kitchen,Books,Fashion",304
+1116,Grocery,526
+1117,"Toys & Games,Sports & Outdoors,Grocery",750
+1118,"Fashion,Toys & Games,Grocery",117
+1119,"Beauty & Personal Care,Books,Toys & Games",55
+1120,"Grocery,Fashion",428
+1121,Toys & Games,803
+1122,"Toys & Games,Fashion,Sports & Outdoors",775
+1123,"Electronics,Books",428
+1124,Books,840
+1125,"Books,Home & Kitchen",342
+1126,"Beauty & Personal Care,Fashion,Grocery",96
+1127,"Sports & Outdoors,Fashion,Grocery",358
+1128,"Toys & Games,Grocery,Sports & Outdoors",870
+1129,"Toys & Games,Sports & Outdoors",93
+1130,"Electronics,Beauty & Personal Care",543
+1131,Books,430
+1132,"Electronics,Beauty & Personal Care",528
+1133,Electronics,843
+1134,"Sports & Outdoors,Home & Kitchen,Books",34
+1135,"Books,Grocery",461
+1136,Electronics,162
+1137,Beauty & Personal Care,73
+1138,Beauty & Personal Care,670
+1139,"Sports & Outdoors,Electronics,Toys & Games",768
+1140,"Beauty & Personal Care,Fashion",163
+1141,Fashion,333
+1142,Sports & Outdoors,130
+1143,Grocery,35
+1144,Sports & Outdoors,297
+1145,Fashion,398
+1146,"Toys & Games,Beauty & Personal Care,Books",562
+1147,"Sports & Outdoors,Books",90
+1148,"Grocery,Books,Home & Kitchen",454
+1149,Home & Kitchen,585
+1150,Sports & Outdoors,766
+1151,Electronics,82
+1152,"Electronics,Books,Toys & Games",352
+1153,Sports & Outdoors,820
+1154,"Fashion,Home & Kitchen,Electronics",558
+1155,"Sports & Outdoors,Home & Kitchen,Books",725
+1156,"Electronics,Fashion,Home & Kitchen",543
+1157,"Beauty & Personal Care,Electronics",322
+1158,"Books,Fashion",474
+1159,"Home & Kitchen,Fashion",891
+1160,"Toys & Games,Books",719
+1161,Books,885
+1162,"Books,Sports & Outdoors,Home & Kitchen",862
+1163,"Home & Kitchen,Books,Grocery",810
+1164,"Sports & Outdoors,Beauty & Personal Care",682
+1165,Sports & Outdoors,777
+1166,Books,242
+1167,"Beauty & Personal Care,Toys & Games",48
+1168,"Grocery,Books,Home & Kitchen",491
+1169,"Fashion,Books,Toys & Games",378
+1170,Toys & Games,355
+1171,"Books,Electronics",347
+1172,"Toys & Games,Beauty & Personal Care",123
+1173,"Electronics,Fashion",742
+1174,"Beauty & Personal Care,Books,Fashion",479
+1175,"Books,Sports & Outdoors",132
+1176,"Books,Electronics",216
+1177,"Beauty & Personal Care,Home & Kitchen",618
+1178,"Fashion,Toys & Games,Beauty & Personal Care",60
+1179,"Fashion,Beauty & Personal Care,Electronics",729
+1180,Fashion,279
+1181,"Fashion,Beauty & Personal Care,Electronics",499
+1182,"Books,Fashion",666
+1183,Fashion,200
+1184,"Sports & Outdoors,Fashion,Beauty & Personal Care",413
+1185,Toys & Games,715
+1186,Beauty & Personal Care,361
+1187,"Beauty & Personal Care,Electronics,Sports & Outdoors",327
+1188,Fashion,53
+1189,"Beauty & Personal Care,Sports & Outdoors,Electronics",675
+1190,"Books,Grocery,Toys & Games",420
+1191,Beauty & Personal Care,436
+1192,Toys & Games,821
+1193,"Toys & Games,Beauty & Personal Care",628
+1194,"Toys & Games,Fashion",225
+1195,"Books,Toys & Games,Sports & Outdoors",390
+1196,Sports & Outdoors,178
+1197,"Beauty & Personal Care,Electronics",474
+1198,"Toys & Games,Sports & Outdoors,Home & Kitchen",190
+1199,"Beauty & Personal Care,Fashion,Toys & Games",885
+1200,"Beauty & Personal Care,Home & Kitchen,Toys & Games",61
+1201,"Books,Fashion,Home & Kitchen",684
+1202,Beauty & Personal Care,122
+1203,"Electronics,Grocery",243
+1204,"Sports & Outdoors,Home & Kitchen",465
+1205,Fashion,538
+1206,"Electronics,Home & Kitchen",835
+1207,"Beauty & Personal Care,Electronics,Toys & Games",299
+1208,"Fashion,Toys & Games,Electronics",68
+1209,"Home & Kitchen,Books,Sports & Outdoors",651
+1210,Home & Kitchen,341
+1211,Toys & Games,616
+1212,"Beauty & Personal Care,Home & Kitchen,Fashion",236
+1213,"Books,Electronics,Toys & Games",338
+1214,Sports & Outdoors,783
+1215,Books,522
+1216,"Electronics,Sports & Outdoors,Grocery",530
+1217,"Beauty & Personal Care,Electronics,Grocery",328
+1218,"Toys & Games,Grocery",600
+1219,"Books,Home & Kitchen,Sports & Outdoors",111
+1220,Home & Kitchen,205
+1221,"Sports & Outdoors,Grocery",570
+1222,"Books,Electronics",506
+1223,"Sports & Outdoors,Beauty & Personal Care,Home & Kitchen",350
+1224,Sports & Outdoors,581
+1225,"Fashion,Books,Home & Kitchen",428
+1226,Beauty & Personal Care,520
+1227,Beauty & Personal Care,336
+1228,Toys & Games,805
+1229,"Fashion,Books",509
+1230,"Electronics,Books",113
+1231,Grocery,665
+1232,"Electronics,Sports & Outdoors",720
+1233,"Toys & Games,Beauty & Personal Care",724
+1234,"Beauty & Personal Care,Electronics,Home & Kitchen",793
+1235,Home & Kitchen,144
+1236,Electronics,267
+1237,"Sports & Outdoors,Books,Home & Kitchen",730
+1238,Sports & Outdoors,714
+1239,Sports & Outdoors,378
+1240,Fashion,60
+1241,"Fashion,Toys & Games,Sports & Outdoors",203
+1242,"Toys & Games,Electronics",895
+1243,"Toys & Games,Books",296
+1244,"Toys & Games,Beauty & Personal Care,Fashion",146
+1245,Beauty & Personal Care,134
+1246,"Fashion,Beauty & Personal Care",421
+1247,"Fashion,Electronics",569
+1248,Sports & Outdoors,38
+1249,Home & Kitchen,601
+1250,"Fashion,Books",493
+1251,"Sports & Outdoors,Toys & Games,Electronics",536
+1252,"Sports & Outdoors,Books",126
+1253,"Sports & Outdoors,Home & Kitchen",86
+1254,Toys & Games,139
+1255,"Books,Fashion",340
+1256,"Home & Kitchen,Grocery,Sports & Outdoors",864
+1257,"Books,Sports & Outdoors",588
+1258,"Home & Kitchen,Beauty & Personal Care",283
+1259,"Books,Home & Kitchen",457
+1260,Beauty & Personal Care,339
+1261,"Electronics,Home & Kitchen,Grocery",171
+1262,"Beauty & Personal Care,Home & Kitchen",657
+1263,Books,521
+1264,Beauty & Personal Care,61
+1265,"Grocery,Fashion,Home & Kitchen",225
+1266,"Toys & Games,Sports & Outdoors,Fashion",660
+1267,Sports & Outdoors,48
+1268,Electronics,170
+1269,"Grocery,Toys & Games",892
+1270,"Toys & Games,Beauty & Personal Care",260
+1271,"Grocery,Books",846
+1272,Toys & Games,301
+1273,Grocery,542
+1274,Electronics,142
+1275,Grocery,183
+1276,Toys & Games,794
+1277,Books,494
+1278,"Home & Kitchen,Toys & Games",661
+1279,"Electronics,Grocery,Sports & Outdoors",333
+1280,"Grocery,Books,Sports & Outdoors",496
+1281,"Electronics,Beauty & Personal Care,Fashion",343
+1282,"Electronics,Home & Kitchen",440
+1283,"Beauty & Personal Care,Home & Kitchen,Grocery",60
+1284,"Electronics,Books,Home & Kitchen",630
+1285,"Toys & Games,Home & Kitchen,Books",603
+1286,Grocery,367
+1287,"Sports & Outdoors,Beauty & Personal Care,Grocery",111
+1288,"Grocery,Toys & Games",91
+1289,Sports & Outdoors,588
+1290,"Home & Kitchen,Electronics,Grocery",221
+1291,Electronics,589
+1292,"Grocery,Beauty & Personal Care",300
+1293,"Sports & Outdoors,Books",630
+1294,"Beauty & Personal Care,Sports & Outdoors,Fashion",654
+1295,"Sports & Outdoors,Beauty & Personal Care",884
+1296,Books,145
+1297,Grocery,142
+1298,"Beauty & Personal Care,Toys & Games",636
+1299,"Books,Fashion,Sports & Outdoors",603
+1300,"Fashion,Electronics,Sports & Outdoors",581
+1301,Toys & Games,293
+1302,"Books,Electronics",874
+1303,"Electronics,Fashion,Home & Kitchen",693
+1304,"Home & Kitchen,Toys & Games,Grocery",597
+1305,Home & Kitchen,698
+1306,Fashion,854
+1307,"Home & Kitchen,Toys & Games",328
+1308,"Beauty & Personal Care,Home & Kitchen",313
+1309,"Beauty & Personal Care,Toys & Games",30
+1310,"Grocery,Sports & Outdoors",502
+1311,Beauty & Personal Care,415
+1312,Electronics,94
+1313,"Home & Kitchen,Fashion",73
+1314,Beauty & Personal Care,172
+1315,Home & Kitchen,283
+1316,Electronics,856
+1317,"Electronics,Fashion,Beauty & Personal Care",700
+1318,Beauty & Personal Care,450
+1319,"Books,Home & Kitchen",259
+1320,Home & Kitchen,669
+1321,"Books,Sports & Outdoors",860
+1322,Grocery,36
+1323,"Grocery,Books",800
+1324,Books,481
+1325,Grocery,695
+1326,Electronics,78
+1327,"Home & Kitchen,Books",43
+1328,"Grocery,Books",68
+1329,Home & Kitchen,415
+1330,"Home & Kitchen,Electronics",454
+1331,Toys & Games,392
+1332,Grocery,677
+1333,Fashion,31
+1334,"Home & Kitchen,Beauty & Personal Care",499
+1335,Electronics,716
+1336,"Books,Toys & Games,Beauty & Personal Care",806
+1337,Fashion,380
+1338,"Toys & Games,Home & Kitchen",802
+1339,"Fashion,Toys & Games,Grocery",384
+1340,Sports & Outdoors,667
+1341,"Fashion,Sports & Outdoors",544
+1342,"Sports & Outdoors,Toys & Games,Fashion",72
+1343,"Books,Electronics",632
+1344,"Home & Kitchen,Toys & Games",241
+1345,"Fashion,Electronics",620
+1346,Sports & Outdoors,295
+1347,Beauty & Personal Care,715
+1348,Home & Kitchen,831
+1349,"Electronics,Beauty & Personal Care",896
+1350,"Electronics,Toys & Games",596
+1351,"Beauty & Personal Care,Sports & Outdoors,Fashion",585
+1352,"Grocery,Electronics,Beauty & Personal Care",208
+1353,"Electronics,Fashion,Home & Kitchen",458
+1354,"Electronics,Toys & Games",521
+1355,Books,271
+1356,"Electronics,Books",30
+1357,Electronics,69
+1358,"Home & Kitchen,Books,Grocery",606
+1359,"Sports & Outdoors,Grocery,Books",762
+1360,"Electronics,Grocery,Beauty & Personal Care",344
+1361,"Beauty & Personal Care,Grocery",397
+1362,"Sports & Outdoors,Home & Kitchen",709
+1363,"Sports & Outdoors,Toys & Games,Fashion",478
+1364,"Sports & Outdoors,Beauty & Personal Care",290
+1365,"Fashion,Electronics",693
+1366,"Fashion,Home & Kitchen",713
+1367,"Books,Electronics,Beauty & Personal Care",574
+1368,"Electronics,Books,Grocery",821
+1369,"Home & Kitchen,Books,Fashion",116
+1370,"Fashion,Beauty & Personal Care,Home & Kitchen",825
+1371,"Books,Electronics",130
+1372,Electronics,241
+1373,"Books,Beauty & Personal Care,Fashion",232
+1374,Sports & Outdoors,717
+1375,"Fashion,Books",236
+1376,"Home & Kitchen,Books,Sports & Outdoors",193
+1377,Fashion,164
+1378,"Grocery,Beauty & Personal Care,Electronics",885
+1379,"Sports & Outdoors,Fashion",712
+1380,"Sports & Outdoors,Grocery",203
+1381,Fashion,318
+1382,"Fashion,Home & Kitchen,Toys & Games",139
+1383,Home & Kitchen,82
+1384,"Beauty & Personal Care,Toys & Games,Books",83
+1385,"Sports & Outdoors,Beauty & Personal Care",776
+1386,"Fashion,Sports & Outdoors",889
+1387,"Fashion,Sports & Outdoors,Toys & Games",833
+1388,"Toys & Games,Home & Kitchen",556
+1389,Sports & Outdoors,400
+1390,Fashion,641
+1391,Fashion,80
+1392,Beauty & Personal Care,455
+1393,"Sports & Outdoors,Grocery",247
+1394,"Home & Kitchen,Electronics,Books",472
+1395,"Fashion,Toys & Games",813
+1396,"Toys & Games,Beauty & Personal Care,Sports & Outdoors",534
+1397,"Sports & Outdoors,Fashion",651
+1398,Beauty & Personal Care,198
+1399,"Home & Kitchen,Fashion",690
+1400,"Electronics,Toys & Games",513
+1401,"Beauty & Personal Care,Electronics",596
+1402,"Sports & Outdoors,Beauty & Personal Care,Books",299
+1403,Books,419
+1404,"Grocery,Toys & Games,Home & Kitchen",858
+1405,Beauty & Personal Care,874
+1406,"Home & Kitchen,Electronics,Beauty & Personal Care",342
+1407,Toys & Games,420
+1408,Home & Kitchen,458
+1409,Sports & Outdoors,779
+1410,"Fashion,Beauty & Personal Care,Sports & Outdoors",452
+1411,Books,139
+1412,"Books,Sports & Outdoors,Beauty & Personal Care",500
+1413,"Grocery,Fashion,Books",696
+1414,Grocery,719
+1415,"Electronics,Beauty & Personal Care",80
+1416,"Toys & Games,Fashion,Beauty & Personal Care",126
+1417,Fashion,286
+1418,"Grocery,Books,Toys & Games",251
+1419,"Beauty & Personal Care,Electronics,Toys & Games",460
+1420,"Books,Electronics",740
+1421,"Electronics,Books",123
+1422,"Books,Sports & Outdoors",154
+1423,"Fashion,Beauty & Personal Care,Books",550
+1424,"Home & Kitchen,Sports & Outdoors",592
+1425,"Fashion,Beauty & Personal Care",396
+1426,"Sports & Outdoors,Grocery",730
+1427,"Grocery,Toys & Games",586
+1428,"Sports & Outdoors,Toys & Games",212
+1429,Fashion,113
+1430,"Grocery,Home & Kitchen,Sports & Outdoors",262
+1431,"Books,Electronics,Beauty & Personal Care",622
+1432,"Home & Kitchen,Grocery",870
+1433,"Sports & Outdoors,Home & Kitchen,Electronics",327
+1434,"Fashion,Grocery,Books",398
+1435,"Fashion,Grocery",411
+1436,"Beauty & Personal Care,Electronics",712
+1437,"Home & Kitchen,Grocery",289
+1438,Toys & Games,574
+1439,"Grocery,Fashion",689
+1440,Sports & Outdoors,896
+1441,Fashion,235
+1442,"Grocery,Beauty & Personal Care,Toys & Games",294
+1443,"Home & Kitchen,Electronics",293
+1444,"Toys & Games,Sports & Outdoors",61
+1445,"Toys & Games,Electronics,Books",828
+1446,Sports & Outdoors,443
+1447,"Home & Kitchen,Toys & Games,Books",122
+1448,"Beauty & Personal Care,Toys & Games",488
+1449,"Grocery,Fashion",695
+1450,"Toys & Games,Grocery",605
+1451,Electronics,505
+1452,"Fashion,Sports & Outdoors,Grocery",363
+1453,"Home & Kitchen,Fashion,Beauty & Personal Care",719
+1454,Home & Kitchen,528
+1455,Toys & Games,611
+1456,"Home & Kitchen,Grocery,Fashion",451
+1457,"Books,Beauty & Personal Care",805
+1458,"Toys & Games,Home & Kitchen,Fashion",722
+1459,"Beauty & Personal Care,Books,Home & Kitchen",146
+1460,Home & Kitchen,90
+1461,Grocery,238
+1462,"Toys & Games,Home & Kitchen",421
+1463,Grocery,601
+1464,"Books,Grocery",785
+1465,Home & Kitchen,232
+1466,"Toys & Games,Sports & Outdoors,Grocery",348
+1467,"Electronics,Toys & Games,Fashion",767
+1468,"Beauty & Personal Care,Home & Kitchen,Books",103
+1469,"Electronics,Sports & Outdoors",63
+1470,"Toys & Games,Home & Kitchen",171
+1471,Beauty & Personal Care,454
+1472,"Fashion,Books,Home & Kitchen",598
+1473,Sports & Outdoors,424
+1474,"Toys & Games,Fashion,Books",46
+1475,"Toys & Games,Grocery,Home & Kitchen",660
+1476,"Electronics,Sports & Outdoors,Books",473
+1477,Books,849
+1478,Toys & Games,329
+1479,"Fashion,Books",868
+1480,"Books,Fashion",704
+1481,Sports & Outdoors,380
+1482,"Beauty & Personal Care,Fashion,Toys & Games",169
+1483,"Sports & Outdoors,Toys & Games,Fashion",284
+1484,"Beauty & Personal Care,Electronics",514
+1485,"Beauty & Personal Care,Books",201
+1486,Fashion,837
+1487,Electronics,169
+1488,"Beauty & Personal Care,Fashion,Toys & Games",93
+1489,"Toys & Games,Sports & Outdoors,Fashion",853
+1490,"Fashion,Toys & Games",197
+1491,"Fashion,Beauty & Personal Care,Grocery",658
+1492,"Home & Kitchen,Books,Grocery",524
+1493,"Sports & Outdoors,Beauty & Personal Care",371
+1494,"Sports & Outdoors,Toys & Games",619
+1495,"Beauty & Personal Care,Books",78
+1496,Books,105
+1497,Toys & Games,789
+1498,"Home & Kitchen,Sports & Outdoors",438
+1499,Beauty & Personal Care,251
+1500,"Electronics,Sports & Outdoors,Fashion",150
+1501,"Electronics,Sports & Outdoors,Beauty & Personal Care",436
+1502,"Beauty & Personal Care,Toys & Games",727
+1503,Beauty & Personal Care,773
+1504,Home & Kitchen,441
+1505,Electronics,248
+1506,"Books,Fashion,Beauty & Personal Care",790
+1507,"Toys & Games,Books",610
+1508,Beauty & Personal Care,354
+1509,"Books,Toys & Games,Grocery",546
+1510,Toys & Games,199
+1511,Grocery,129
+1512,Sports & Outdoors,538
+1513,Beauty & Personal Care,225
+1514,Fashion,619
+1515,"Toys & Games,Electronics",821
+1516,"Sports & Outdoors,Beauty & Personal Care",819
+1517,"Grocery,Sports & Outdoors",180
+1518,"Fashion,Books,Sports & Outdoors",773
+1519,"Grocery,Sports & Outdoors",866
+1520,Toys & Games,891
+1521,Books,66
+1522,"Beauty & Personal Care,Electronics",873
+1523,Grocery,763
+1524,"Toys & Games,Home & Kitchen",637
+1525,"Books,Grocery",541
+1526,"Fashion,Sports & Outdoors,Beauty & Personal Care",463
+1527,"Home & Kitchen,Books",37
+1528,Sports & Outdoors,660
+1529,Beauty & Personal Care,222
+1530,"Beauty & Personal Care,Sports & Outdoors,Fashion",263
+1531,"Electronics,Sports & Outdoors,Toys & Games",169
+1532,"Fashion,Sports & Outdoors",640
+1533,"Toys & Games,Fashion",400
+1534,Grocery,572
+1535,"Grocery,Home & Kitchen",130
+1536,Books,119
+1537,"Sports & Outdoors,Fashion,Toys & Games",94
+1538,"Fashion,Home & Kitchen,Toys & Games",452
+1539,Toys & Games,556
+1540,Beauty & Personal Care,402
+1541,"Home & Kitchen,Toys & Games,Beauty & Personal Care",800
+1542,"Grocery,Books,Sports & Outdoors",750
+1543,"Beauty & Personal Care,Sports & Outdoors,Books",668
+1544,"Electronics,Toys & Games,Beauty & Personal Care",225
+1545,Toys & Games,569
+1546,Beauty & Personal Care,438
+1547,Sports & Outdoors,375
+1548,"Electronics,Books,Grocery",384
+1549,Fashion,325
+1550,"Sports & Outdoors,Electronics,Fashion",883
+1551,"Beauty & Personal Care,Books,Sports & Outdoors",200
+1552,"Books,Grocery,Beauty & Personal Care",183
+1553,"Books,Sports & Outdoors",131
+1554,"Toys & Games,Sports & Outdoors",45
+1555,"Electronics,Beauty & Personal Care",394
+1556,Books,60
+1557,"Fashion,Grocery,Beauty & Personal Care",47
+1558,"Sports & Outdoors,Electronics,Home & Kitchen",810
+1559,"Sports & Outdoors,Beauty & Personal Care",300
+1560,"Toys & Games,Sports & Outdoors,Books",433
+1561,"Toys & Games,Home & Kitchen",55
+1562,"Beauty & Personal Care,Home & Kitchen,Books",717
+1563,"Electronics,Sports & Outdoors",765
+1564,"Electronics,Books,Beauty & Personal Care",756
+1565,"Toys & Games,Fashion,Home & Kitchen",239
+1566,Grocery,622
+1567,"Fashion,Toys & Games",477
+1568,"Beauty & Personal Care,Toys & Games",451
+1569,"Grocery,Books,Home & Kitchen",871
+1570,"Fashion,Home & Kitchen,Grocery",583
+1571,Home & Kitchen,524
+1572,Sports & Outdoors,403
+1573,"Books,Fashion",223
+1574,Beauty & Personal Care,292
+1575,Beauty & Personal Care,785
+1576,"Fashion,Books",321
+1577,"Books,Beauty & Personal Care,Electronics",208
+1578,"Books,Beauty & Personal Care",571
+1579,"Grocery,Fashion",839
+1580,"Toys & Games,Beauty & Personal Care,Books",149
+1581,Electronics,757
+1582,Electronics,845
+1583,Toys & Games,865
+1584,"Grocery,Toys & Games",157
+1585,"Toys & Games,Beauty & Personal Care",198
+1586,Home & Kitchen,847
+1587,"Electronics,Toys & Games",729
+1588,Electronics,547
+1589,Electronics,383
+1590,"Sports & Outdoors,Beauty & Personal Care",283
+1591,"Sports & Outdoors,Home & Kitchen",579
+1592,"Beauty & Personal Care,Grocery,Home & Kitchen",292
+1593,Books,605
+1594,Books,92
+1595,"Books,Electronics",134
+1596,Books,338
+1597,"Toys & Games,Electronics,Books",539
+1598,"Home & Kitchen,Books",594
+1599,"Sports & Outdoors,Home & Kitchen",837
+1600,"Beauty & Personal Care,Toys & Games",691
+1601,"Fashion,Electronics",196
+1602,"Electronics,Home & Kitchen,Beauty & Personal Care",330
+1603,Books,786
+1604,Grocery,660
+1605,Toys & Games,395
+1606,"Electronics,Fashion",730
+1607,Fashion,558
+1608,"Beauty & Personal Care,Toys & Games,Sports & Outdoors",725
+1609,"Fashion,Beauty & Personal Care",240
+1610,"Sports & Outdoors,Electronics",660
+1611,"Fashion,Toys & Games",241
+1612,"Electronics,Books",617
+1613,Beauty & Personal Care,494
+1614,"Beauty & Personal Care,Toys & Games",291
+1615,Fashion,379
+1616,"Home & Kitchen,Sports & Outdoors",58
+1617,Electronics,210
+1618,"Sports & Outdoors,Grocery,Toys & Games",157
+1619,"Sports & Outdoors,Books",570
+1620,"Electronics,Beauty & Personal Care,Fashion",461
+1621,Home & Kitchen,135
+1622,"Books,Electronics,Fashion",697
+1623,"Home & Kitchen,Books,Grocery",93
+1624,"Toys & Games,Books",358
+1625,"Books,Home & Kitchen,Electronics",675
+1626,"Electronics,Beauty & Personal Care,Fashion",867
+1627,"Home & Kitchen,Grocery",417
+1628,Grocery,120
+1629,"Beauty & Personal Care,Electronics,Home & Kitchen",349
+1630,"Fashion,Toys & Games",87
+1631,"Sports & Outdoors,Toys & Games,Electronics",852
+1632,"Beauty & Personal Care,Fashion,Sports & Outdoors",601
+1633,"Grocery,Toys & Games,Beauty & Personal Care",741
+1634,"Sports & Outdoors,Grocery",728
+1635,Electronics,244
+1636,"Grocery,Books",653
+1637,"Toys & Games,Home & Kitchen",568
+1638,Beauty & Personal Care,515
+1639,"Toys & Games,Home & Kitchen",740
+1640,"Electronics,Home & Kitchen",716
+1641,"Books,Electronics",790
+1642,"Toys & Games,Electronics",713
+1643,"Grocery,Sports & Outdoors",173
+1644,"Electronics,Sports & Outdoors,Home & Kitchen",442
+1645,"Beauty & Personal Care,Grocery",279
+1646,"Toys & Games,Beauty & Personal Care,Sports & Outdoors",432
+1647,Fashion,62
+1648,"Toys & Games,Grocery",346
+1649,"Books,Electronics",787
+1650,"Sports & Outdoors,Electronics,Toys & Games",457
+1651,"Home & Kitchen,Toys & Games",853
+1652,Grocery,867
+1653,Books,723
+1654,"Sports & Outdoors,Fashion",476
+1655,"Toys & Games,Grocery",380
+1656,"Sports & Outdoors,Electronics",800
+1657,"Books,Beauty & Personal Care,Toys & Games",404
+1658,Books,422
+1659,"Fashion,Beauty & Personal Care,Sports & Outdoors",90
+1660,"Home & Kitchen,Toys & Games",161
+1661,"Home & Kitchen,Electronics,Books",318
+1662,Beauty & Personal Care,899
+1663,Home & Kitchen,377
+1664,"Beauty & Personal Care,Sports & Outdoors,Toys & Games",517
+1665,"Fashion,Beauty & Personal Care",64
+1666,"Home & Kitchen,Beauty & Personal Care,Electronics",502
+1667,Grocery,188
+1668,"Electronics,Beauty & Personal Care,Books",872
+1669,"Sports & Outdoors,Electronics,Home & Kitchen",540
+1670,"Home & Kitchen,Books",799
+1671,"Beauty & Personal Care,Sports & Outdoors",699
+1672,"Home & Kitchen,Sports & Outdoors,Books",526
+1673,"Toys & Games,Grocery,Beauty & Personal Care",768
+1674,"Beauty & Personal Care,Toys & Games,Grocery",869
+1675,"Sports & Outdoors,Fashion,Beauty & Personal Care",484
+1676,Grocery,748
+1677,"Beauty & Personal Care,Electronics",230
+1678,"Home & Kitchen,Grocery",895
+1679,"Toys & Games,Electronics,Beauty & Personal Care",374
+1680,"Grocery,Beauty & Personal Care",511
+1681,"Books,Beauty & Personal Care",288
+1682,Electronics,672
+1683,Home & Kitchen,822
+1684,"Beauty & Personal Care,Toys & Games",801
+1685,"Fashion,Beauty & Personal Care",643
+1686,Books,146
+1687,Home & Kitchen,229
+1688,"Beauty & Personal Care,Toys & Games,Home & Kitchen",673
+1689,Fashion,100
+1690,Books,844
+1691,"Grocery,Electronics",260
+1692,"Electronics,Fashion",274
+1693,"Electronics,Fashion",316
+1694,"Books,Home & Kitchen,Beauty & Personal Care",366
+1695,"Electronics,Home & Kitchen,Books",392
+1696,Sports & Outdoors,862
+1697,"Toys & Games,Home & Kitchen",764
+1698,"Electronics,Fashion",685
+1699,Books,890
+1700,"Fashion,Sports & Outdoors,Books",300
+1701,"Books,Grocery,Fashion",474
+1702,"Home & Kitchen,Books,Sports & Outdoors",236
+1703,"Home & Kitchen,Sports & Outdoors,Toys & Games",833
+1704,"Fashion,Electronics,Books",166
+1705,"Toys & Games,Home & Kitchen,Books",802
+1706,"Sports & Outdoors,Books,Grocery",180
+1707,Toys & Games,239
+1708,"Beauty & Personal Care,Books",344
+1709,Beauty & Personal Care,670
+1710,"Sports & Outdoors,Electronics",399
+1711,Books,147
+1712,"Home & Kitchen,Fashion",345
+1713,Beauty & Personal Care,870
+1714,"Electronics,Beauty & Personal Care,Toys & Games",618
+1715,"Grocery,Electronics,Fashion",162
+1716,"Fashion,Electronics",103
+1717,"Toys & Games,Fashion,Sports & Outdoors",515
+1718,Fashion,878
+1719,"Books,Fashion",633
+1720,"Home & Kitchen,Beauty & Personal Care,Toys & Games",178
+1721,"Fashion,Home & Kitchen,Electronics",108
+1722,Books,153
+1723,"Grocery,Sports & Outdoors",658
+1724,Fashion,125
+1725,"Books,Sports & Outdoors",328
+1726,Home & Kitchen,230
+1727,"Books,Fashion,Sports & Outdoors",763
+1728,"Toys & Games,Sports & Outdoors,Fashion",260
+1729,"Toys & Games,Books,Fashion",732
+1730,"Beauty & Personal Care,Toys & Games,Books",37
+1731,Grocery,152
+1732,"Books,Grocery,Home & Kitchen",646
+1733,"Sports & Outdoors,Toys & Games,Grocery",322
+1734,"Books,Beauty & Personal Care",640
+1735,Grocery,766
+1736,"Fashion,Grocery",45
+1737,"Sports & Outdoors,Fashion",484
+1738,Home & Kitchen,375
+1739,Grocery,343
+1740,"Beauty & Personal Care,Fashion",337
+1741,Beauty & Personal Care,537
+1742,Toys & Games,604
+1743,Sports & Outdoors,294
+1744,"Sports & Outdoors,Fashion",44
+1745,Fashion,456
+1746,Fashion,115
+1747,"Sports & Outdoors,Fashion,Electronics",800
+1748,Home & Kitchen,132
+1749,"Fashion,Electronics",881
+1750,"Books,Toys & Games",141
+1751,Sports & Outdoors,744
+1752,"Home & Kitchen,Grocery,Sports & Outdoors",165
+1753,"Home & Kitchen,Electronics,Grocery",434
+1754,"Books,Toys & Games",353
+1755,"Toys & Games,Sports & Outdoors",698
+1756,"Electronics,Fashion",246
+1757,Home & Kitchen,755
+1758,"Sports & Outdoors,Fashion,Beauty & Personal Care",83
+1759,Grocery,513
+1760,Grocery,748
+1761,"Books,Fashion",824
+1762,"Electronics,Toys & Games",673
+1763,"Electronics,Grocery",773
+1764,Sports & Outdoors,465
+1765,"Sports & Outdoors,Grocery",163
+1766,"Toys & Games,Fashion",456
+1767,"Fashion,Grocery",530
+1768,"Toys & Games,Electronics",238
+1769,"Sports & Outdoors,Fashion,Beauty & Personal Care",703
+1770,Toys & Games,337
+1771,Beauty & Personal Care,77
+1772,Books,517
+1773,"Beauty & Personal Care,Sports & Outdoors,Books",660
+1774,Home & Kitchen,148
+1775,"Sports & Outdoors,Books,Beauty & Personal Care",376
+1776,Home & Kitchen,307
+1777,"Toys & Games,Grocery,Fashion",332
+1778,Grocery,337
+1779,"Beauty & Personal Care,Fashion,Electronics",780
+1780,Toys & Games,109
+1781,Sports & Outdoors,437
+1782,"Sports & Outdoors,Electronics",780
+1783,"Fashion,Home & Kitchen,Grocery",824
+1784,"Fashion,Electronics",756
+1785,Home & Kitchen,770
+1786,Books,509
+1787,"Home & Kitchen,Beauty & Personal Care,Toys & Games",637
+1788,"Home & Kitchen,Books,Toys & Games",465
+1789,"Toys & Games,Sports & Outdoors",733
+1790,"Home & Kitchen,Fashion,Books",255
+1791,"Sports & Outdoors,Electronics,Books",875
+1792,"Electronics,Sports & Outdoors",517
+1793,"Grocery,Fashion",842
+1794,Fashion,333
+1795,Electronics,192
+1796,"Books,Sports & Outdoors,Fashion",321
+1797,"Grocery,Beauty & Personal Care,Toys & Games",194
+1798,"Books,Electronics",68
+1799,"Books,Grocery",832
+1800,"Toys & Games,Grocery",389
+1801,"Electronics,Home & Kitchen,Fashion",133
+1802,Sports & Outdoors,445
+1803,"Grocery,Beauty & Personal Care",442
+1804,"Grocery,Fashion",313
+1805,Fashion,266
+1806,"Beauty & Personal Care,Sports & Outdoors,Electronics",79
+1807,"Home & Kitchen,Grocery",109
+1808,Sports & Outdoors,393
+1809,"Home & Kitchen,Fashion,Electronics",669
+1810,Toys & Games,481
+1811,"Home & Kitchen,Toys & Games",714
+1812,Toys & Games,747
+1813,"Sports & Outdoors,Grocery,Home & Kitchen",440
+1814,"Grocery,Sports & Outdoors",179
+1815,Toys & Games,431
+1816,"Toys & Games,Beauty & Personal Care",178
+1817,"Fashion,Books,Home & Kitchen",763
+1818,Toys & Games,86
+1819,Grocery,139
+1820,Fashion,549
+1821,Home & Kitchen,313
+1822,"Fashion,Beauty & Personal Care",429
+1823,"Home & Kitchen,Beauty & Personal Care",711
+1824,Home & Kitchen,151
+1825,"Fashion,Sports & Outdoors,Toys & Games",694
+1826,"Home & Kitchen,Beauty & Personal Care",641
+1827,"Home & Kitchen,Toys & Games,Books",821
+1828,"Books,Beauty & Personal Care,Fashion",880
+1829,"Toys & Games,Sports & Outdoors,Grocery",289
+1830,Grocery,564
+1831,"Books,Home & Kitchen,Toys & Games",306
+1832,"Fashion,Electronics",165
+1833,Electronics,78
+1834,"Beauty & Personal Care,Fashion,Electronics",682
+1835,"Books,Grocery",701
+1836,"Home & Kitchen,Toys & Games,Grocery",121
+1837,"Grocery,Sports & Outdoors",731
+1838,Home & Kitchen,632
+1839,Toys & Games,839
+1840,Home & Kitchen,94
+1841,"Sports & Outdoors,Fashion,Books",456
+1842,"Electronics,Home & Kitchen,Books",499
+1843,"Beauty & Personal Care,Home & Kitchen",286
+1844,"Toys & Games,Home & Kitchen,Books",268
+1845,"Books,Fashion",388
+1846,Beauty & Personal Care,52
+1847,"Toys & Games,Books",403
+1848,"Home & Kitchen,Beauty & Personal Care,Grocery",865
+1849,"Home & Kitchen,Electronics,Toys & Games",338
+1850,Toys & Games,223
+1851,"Electronics,Grocery",615
+1852,Electronics,458
+1853,"Books,Home & Kitchen,Toys & Games",623
+1854,"Electronics,Grocery,Books",341
+1855,Toys & Games,300
+1856,"Fashion,Books,Home & Kitchen",63
+1857,Electronics,252
+1858,Beauty & Personal Care,51
+1859,"Electronics,Toys & Games,Grocery",704
+1860,"Grocery,Beauty & Personal Care,Sports & Outdoors",137
+1861,"Sports & Outdoors,Toys & Games,Home & Kitchen",96
+1862,"Toys & Games,Beauty & Personal Care,Books",670
+1863,"Sports & Outdoors,Electronics,Grocery",878
+1864,Beauty & Personal Care,634
+1865,"Home & Kitchen,Electronics,Toys & Games",268
+1866,"Beauty & Personal Care,Grocery",481
+1867,"Beauty & Personal Care,Toys & Games,Grocery",727
+1868,"Grocery,Fashion,Home & Kitchen",33
+1869,"Sports & Outdoors,Books,Home & Kitchen",296
+1870,"Fashion,Sports & Outdoors,Books",261
+1871,"Grocery,Home & Kitchen,Beauty & Personal Care",391
+1872,Sports & Outdoors,525
+1873,Beauty & Personal Care,590
+1874,Grocery,779
+1875,"Electronics,Sports & Outdoors",49
+1876,"Books,Electronics,Fashion",700
+1877,"Sports & Outdoors,Grocery",700
+1878,Fashion,81
+1879,"Electronics,Grocery,Sports & Outdoors",481
+1880,"Home & Kitchen,Fashion",717
+1881,"Books,Grocery",596
+1882,Home & Kitchen,402
+1883,"Books,Sports & Outdoors,Home & Kitchen",724
+1884,"Home & Kitchen,Sports & Outdoors",270
+1885,Books,363
+1886,Electronics,778
+1887,"Grocery,Sports & Outdoors",845
+1888,"Toys & Games,Books,Beauty & Personal Care",866
+1889,Books,839
+1890,"Home & Kitchen,Toys & Games",503
+1891,Beauty & Personal Care,405
+1892,Beauty & Personal Care,163
+1893,"Home & Kitchen,Books,Beauty & Personal Care",169
+1894,"Sports & Outdoors,Books",754
+1895,Grocery,644
+1896,Fashion,814
+1897,"Toys & Games,Books",624
+1898,"Fashion,Toys & Games",608
+1899,"Home & Kitchen,Beauty & Personal Care",868
+1900,"Books,Toys & Games,Home & Kitchen",783
+1901,Grocery,558
+1902,"Grocery,Fashion,Beauty & Personal Care",212
+1903,"Grocery,Fashion,Home & Kitchen",699
+1904,"Grocery,Home & Kitchen,Beauty & Personal Care",361
+1905,"Beauty & Personal Care,Books",697
+1906,Fashion,768
+1907,"Electronics,Toys & Games,Home & Kitchen",584
+1908,Toys & Games,117
+1909,"Electronics,Sports & Outdoors",723
+1910,Home & Kitchen,33
+1911,"Electronics,Home & Kitchen",216
+1912,Toys & Games,706
+1913,Toys & Games,437
+1914,Grocery,323
+1915,Fashion,801
+1916,Sports & Outdoors,238
+1917,"Home & Kitchen,Sports & Outdoors,Beauty & Personal Care",848
+1918,"Books,Fashion,Electronics",212
+1919,"Books,Home & Kitchen,Fashion",550
+1920,"Fashion,Beauty & Personal Care,Electronics",153
+1921,Beauty & Personal Care,670
+1922,"Toys & Games,Fashion",647
+1923,Grocery,276
+1924,"Books,Sports & Outdoors,Home & Kitchen",382
+1925,Sports & Outdoors,150
+1926,"Grocery,Fashion",537
+1927,"Grocery,Home & Kitchen",381
+1928,"Beauty & Personal Care,Books,Home & Kitchen",519
+1929,Sports & Outdoors,703
+1930,Fashion,551
+1931,"Books,Home & Kitchen,Beauty & Personal Care",373
+1932,"Electronics,Books,Toys & Games",292
+1933,"Home & Kitchen,Fashion,Books",733
+1934,"Beauty & Personal Care,Home & Kitchen,Toys & Games",612
+1935,"Beauty & Personal Care,Fashion",137
+1936,"Toys & Games,Home & Kitchen",34
+1937,"Beauty & Personal Care,Fashion",174
+1938,"Fashion,Toys & Games,Beauty & Personal Care",381
+1939,"Home & Kitchen,Electronics,Toys & Games",137
+1940,"Books,Grocery,Home & Kitchen",263
+1941,Sports & Outdoors,388
+1942,"Fashion,Sports & Outdoors",679
+1943,Fashion,553
+1944,Fashion,296
+1945,"Books,Grocery",812
+1946,"Toys & Games,Home & Kitchen",737
+1947,"Sports & Outdoors,Home & Kitchen,Toys & Games",867
+1948,"Electronics,Grocery",401
+1949,Sports & Outdoors,551
+1950,Home & Kitchen,432
+1951,"Electronics,Beauty & Personal Care,Sports & Outdoors",888
+1952,Sports & Outdoors,335
+1953,"Toys & Games,Books,Grocery",434
+1954,"Sports & Outdoors,Fashion,Grocery",112
+1955,Sports & Outdoors,509
+1956,"Home & Kitchen,Fashion",70
+1957,"Electronics,Sports & Outdoors,Beauty & Personal Care",443
+1958,"Electronics,Fashion,Beauty & Personal Care",358
+1959,Grocery,521
+1960,Fashion,757
+1961,"Toys & Games,Electronics,Books",796
+1962,"Books,Fashion",534
+1963,Beauty & Personal Care,748
+1964,"Grocery,Home & Kitchen,Toys & Games",815
+1965,"Grocery,Fashion,Toys & Games",572
+1966,"Grocery,Toys & Games,Electronics",570
+1967,"Beauty & Personal Care,Home & Kitchen,Books",352
+1968,"Home & Kitchen,Grocery,Fashion",535
+1969,"Beauty & Personal Care,Home & Kitchen,Toys & Games",816
+1970,Fashion,843
+1971,"Electronics,Beauty & Personal Care",38
+1972,"Grocery,Electronics,Sports & Outdoors",358
+1973,Sports & Outdoors,415
+1974,"Books,Toys & Games",226
+1975,"Grocery,Electronics",637
+1976,"Home & Kitchen,Books",855
+1977,"Electronics,Toys & Games,Sports & Outdoors",39
+1978,"Sports & Outdoors,Grocery,Home & Kitchen",579
+1979,"Home & Kitchen,Electronics",161
+1980,Beauty & Personal Care,653
+1981,"Toys & Games,Beauty & Personal Care,Books",79
+1982,"Home & Kitchen,Books,Toys & Games",326
+1983,"Electronics,Home & Kitchen,Beauty & Personal Care",799
+1984,"Books,Grocery",673
+1985,"Sports & Outdoors,Home & Kitchen",646
+1986,"Electronics,Sports & Outdoors",202
+1987,"Beauty & Personal Care,Books,Grocery",799
+1988,"Electronics,Grocery,Toys & Games",660
+1989,Books,216
+1990,Grocery,70
+1991,"Electronics,Toys & Games,Home & Kitchen",239
+1992,"Home & Kitchen,Sports & Outdoors,Electronics",278
+1993,"Sports & Outdoors,Home & Kitchen,Fashion",574
+1994,Electronics,140
+1995,"Toys & Games,Sports & Outdoors,Fashion",446
+1996,Sports & Outdoors,779
+1997,"Grocery,Toys & Games,Beauty & Personal Care",702
+1998,Sports & Outdoors,824
+1999,Toys & Games,842
+2000,"Grocery,Sports & Outdoors",424

@@ -1,0 +1,801 @@
+product_id,brand,display_title,features,n_ratings,avg_rating,n_purchases
+1,ASUS,ASUS Dual-Band Wi-Fi Router (Grey),"Dual-band Wi-Fi for streaming and gaming | Compact, travel-friendly design | Modern, sleek look",0,,0
+2,TRESemme,TRESemme Daily Care Shampoo,"Gentle cleansing for everyday use | Suitable for daily use | Pleasant, mild feel",0,,0
+3,Kellogg's,Kellogg's Oats Granola Bars,"Oats-based snack for busy days | Sealed pack for freshness | Store in a cool, dry place",0,,0
+4,Allen Solly,Allen Solly Soft Winter Scarf (Green),Soft fabric that is easy to style | Stylish everyday design | Comfortable fit,0,,0
+5,JBL,JBL Portable Bluetooth Speaker (Green),Portable design with wireless Bluetooth audio | Comes with user manual | Easy to set up and use,1,5.0,2
+6,Funskool,Funskool Family Board Game (Grey),Fun for family game night | Encourages learning through play | Great gift for kids,0,,0
+7,DK,DK Home Cooking Cookbook,Step-by-step recipes for home cooks | Easy to carry | Popular with readers,0,,0
+8,The Ordinary,The Ordinary Face Serum,"Lightweight formula for daily skincare | Suitable for daily use | Pleasant, mild feel",4,3.5,10
+9,Coleman,Coleman Camping Tent for Outdoors (Grey),"Easy to set up, water-resistant | Lightweight design | Suitable for beginners",0,,1
+10,Maisto,Maisto Remote Control Car (Navy Blue),Easy remote control for kids | Great gift for kids | Encourages learning through play,0,,0
+11,Havells,Havells Hair Dryer,Multiple heat settings for quick drying | Dermatologically tested | Travel-friendly pack,0,,0
+12,New Era,New Era Sports Cap (Red),Adjustable fit and lightweight fabric | Available in multiple sizes | Comfortable fit,0,,0
+13,Cello,Cello Storage Organizer (Silver),"Keeps your space neat and tidy | Sturdy, long-lasting build | Space-saving design",0,,0
+14,Raymond Home,Raymond Home Cotton Bedsheet Set (Blue),"Soft cotton that keeps its colour after washes | Space-saving design | Sturdy, long-lasting build",0,,0
+15,Anker,Anker Power Bank for Mobile Phones (Silver),"Charge your phone on the go | Comes with user manual | Modern, sleek look",0,,5
+16,Sony,Sony Portable Bluetooth Speaker (Red),"Portable design with wireless Bluetooth audio | Modern, sleek look | Compact, travel-friendly design",1,1.0,1
+17,Borosil,Borosil Ceramic Tea Set,"Elegant set for serving tea | Good for the whole family | Store in a cool, dry place",0,,0
+18,Lakme,Lakme Matte Lipstick,"Smooth, long-lasting colour | Suitable for daily use | Pleasant, mild feel",1,4.0,1
+19,Wipro,Wipro LED Table Lamp (Red),Energy-saving LED light | Designed for daily home use | Space-saving design,1,5.0,1
+20,HarperCollins,HarperCollins Inspiring Biography Book,"True life story, engaging to read | Great for gifting | Easy to carry",0,,0
+21,Cetaphil,Cetaphil Moisturizing Cream,Keeps skin soft and hydrated | Travel-friendly pack | Dermatologically tested,0,,0
+22,L'Oreal Paris,L'Oreal Paris Daily Care Shampoo,"Gentle cleansing for everyday use | Pleasant, mild feel | Suitable for daily use",65,4.0,112
+23,Philips,Philips Digital Air Fryer (Black),"Cooks with little or no oil | Sturdy, long-lasting build | Designed for daily home use",0,,0
+24,Corsair,Corsair Wireless Keyboard (Grey),"Comfortable, quiet keys for daily typing | Modern, sleek look | Easy to set up and use",0,,0
+25,Borges,Borges Extra Virgin Olive Oil,Cold-pressed oil for cooking and salads | No added artificial colours | Sealed pack for freshness,0,,0
+26,Acer,Acer Full HD LED Monitor (Navy Blue),"Full HD display with wide viewing angle | Comes with user manual | Compact, travel-friendly design",1,3.0,1
+27,Funskool,Funskool Family Board Game (Black),"Fun for family game night | Safe, child-friendly materials | Encourages learning through play",0,,0
+28,MDH,MDH Ground Spice Mix,Adds authentic flavour to dishes | Good for the whole family | No added artificial colours,0,,0
+29,Puma,Puma Sports Cap (Silver),Adjustable fit and lightweight fabric | Available in multiple sizes | Stylish everyday design,0,,0
+30,Fossil,Fossil Leather Wallet (Black),Multiple card slots and a coin pocket | Comfortable fit | Available in multiple sizes,0,,0
+31,Nespresso,Nespresso Coffee Maker Machine (Red),"Brews fresh coffee in minutes | Designed for daily home use | Sturdy, long-lasting build",0,,0
+32,Levi's,Levi's Cotton Round Neck T-Shirt (Silver),Breathable cotton fabric | Available in multiple sizes | Comfortable fit,796,3.9,1387
+33,Axe,Axe Eau de Parfum Perfume,"Fresh long-lasting fragrance | Suitable for daily use | Pleasant, mild feel",3,4.3,4
+34,Nike,Nike Laptop Backpack (Black),Padded compartment fits a laptop | Available in multiple sizes | Comfortable fit,0,,0
+35,Samsung,Samsung Full HD LED Monitor (Black),"Full HD display with wide viewing angle | Modern, sleek look | Compact, travel-friendly design",0,,0
+36,Mega Bloks,Mega Bloks Building Blocks Set (Grey),"Encourages creativity and building skills | Great gift for kids | Safe, child-friendly materials",0,,0
+37,Nike,Nike Casual Sneakers (Blue),Cushioned sole for all-day comfort | Stylish everyday design | Comfortable fit,0,,0
+38,L'Oreal Paris,L'Oreal Paris Daily Care Shampoo,Gentle cleansing for everyday use | Suitable for daily use | Dermatologically tested,1,4.0,2
+39,Panasonic,Panasonic Hair Dryer,"Multiple heat settings for quick drying | Travel-friendly pack | Pleasant, mild feel",1,5.0,3
+40,Hamleys,Hamleys Soft Plush Toy (Red),"Soft, huggable and safe for children | Encourages learning through play | Safe, child-friendly materials",0,,0
+41,Syska,Syska Hair Dryer,Multiple heat settings for quick drying | Suitable for daily use | Travel-friendly pack,0,,0
+42,ASICS,ASICS Running Shoes (Black),Lightweight with good grip | Lightweight design | Suitable for beginners,0,,0
+43,Nike,Nike Casual Sneakers (Red),Cushioned sole for all-day comfort | Comfortable fit | Easy to wash and maintain,0,,0
+44,Faber & Faber,Faber & Faber Poetry Collection Book,A curated collection of poems | Easy to carry | Good print quality,0,,0
+45,Borges,Borges Extra Virgin Olive Oil,"Cold-pressed oil for cooking and salads | Store in a cool, dry place | Good for the whole family",0,,0
+46,Wild Stone,Wild Stone Eau de Parfum Perfume,Fresh long-lasting fragrance | Travel-friendly pack | Suitable for daily use,0,,1
+47,boAt,boAt Wireless Bluetooth Headphones with Mic (Black),"Bluetooth wireless connection with built-in microphone | Comes with user manual | Modern, sleek look",0,,0
+48,Everest,Everest Ground Spice Mix,Adds authentic flavour to dishes | No added artificial colours | Sealed pack for freshness,0,,0
+49,Columbia,Columbia Men's Casual Jacket (Black),"Warm, durable fabric for daily wear | Easy to wash and maintain | Comfortable fit",0,,0
+50,Bloomsbury,Bloomsbury Bestselling Fiction Novel (Paperback),"Paperback edition, easy to read | Easy to carry | Popular with readers",3,4.3,9
+51,Tommy Hilfiger,Tommy Hilfiger Leather Belt (Grey),Strong buckle with a durable finish | Comfortable fit | Stylish everyday design,0,,0
+52,Wildcraft,Wildcraft Camping Tent for Outdoors (Silver),"Easy to set up, water-resistant | Durable and easy to carry | Lightweight design",0,,0
+53,Dell,Dell Full HD LED Monitor (Navy Blue),Full HD display with wide viewing angle | Easy to set up and use | Comes with user manual,0,,0
+54,Levi's,Levi's Leather Wallet (White),Multiple card slots and a coin pocket | Available in multiple sizes | Easy to wash and maintain,0,,0
+55,Decathlon,Decathlon Camping Tent for Outdoors (Silver),"Easy to set up, water-resistant | Suitable for beginners | Lightweight design",0,,0
+56,ASUS,ASUS Full HD LED Monitor (White),"Full HD display with wide viewing angle | Compact, travel-friendly design | Comes with user manual",0,,0
+57,Tata Coffee,Tata Coffee Roasted Coffee Beans,"Freshly roasted, rich aroma | Sealed pack for freshness | Store in a cool, dry place",1,4.0,1
+58,Coleman,Coleman Camping Tent for Outdoors (Red),"Easy to set up, water-resistant | Built for regular training | Suitable for beginners",1,3.0,2
+59,ASICS,ASICS Running Shoes (Navy Blue),Lightweight with good grip | Durable and easy to carry | Suitable for beginners,1,3.0,2
+60,LEGO,LEGO Building Blocks Set (Blue),"Encourages creativity and building skills | Great gift for kids | Safe, child-friendly materials",83,4.0,164
+61,Penguin Random House,Penguin Random House Poetry Collection Book,A curated collection of poems | Great for gifting | Popular with readers,0,,1
+62,Wildcraft,Wildcraft Camping Tent for Outdoors (Grey),"Easy to set up, water-resistant | Durable and easy to carry | Suitable for beginners",1,5.0,1
+63,24 Mantra Organic,24 Mantra Organic Healthy Snack Pack,"Tasty, ready-to-eat snacks | No added artificial colours | Store in a cool, dry place",0,,0
+64,Starbucks,Starbucks Roasted Coffee Beans,"Freshly roasted, rich aroma | No added artificial colours | Good for the whole family",0,,0
+65,Mattel,Mattel Collectible Action Figure (Blue),"Detailed collectible figure | Safe, child-friendly materials | Encourages learning through play",0,,0
+66,Cello,Cello Storage Organizer (Silver),"Keeps your space neat and tidy | Sturdy, long-lasting build | Designed for daily home use",0,,0
+67,Ravensburger,Ravensburger Family Board Game (Navy Blue),Fun for family game night | Encourages learning through play | Great gift for kids,2,3.0,2
+68,Mattel,Mattel Collectible Action Figure (Grey),Detailed collectible figure | Great gift for kids | Encourages learning through play,0,,0
+69,Tata Sampann,Tata Sampann Ground Spice Mix,"Adds authentic flavour to dishes | Sealed pack for freshness | Store in a cool, dry place",0,,0
+70,Neutrogena,Neutrogena Face Serum,Lightweight formula for daily skincare | Travel-friendly pack | Suitable for daily use,1,4.0,2
+71,Del Monte,Del Monte Extra Virgin Olive Oil,"Cold-pressed oil for cooking and salads | No added artificial colours | Store in a cool, dry place",1,5.0,2
+72,Reebok,Reebok Running Shoes (Silver),Lightweight with good grip | Lightweight design | Suitable for beginners,3,3.0,5
+73,Philips,Philips LED Table Lamp (Navy Blue),Energy-saving LED light | Space-saving design | Designed for daily home use,0,,0
+74,Apple,Apple True Wireless Earbuds (Blue),"True wireless design with charging case | Comes with user manual | Compact, travel-friendly design",0,,0
+75,Funskool,Funskool Remote Control Car (Green),"Easy remote control for kids | Durable build | Safe, child-friendly materials",0,,0
+76,Garmin,Garmin Smartwatch with Fitness Tracking (Red),"Tracks steps, heart rate and sleep | Comes with user manual | Compact, travel-friendly design",0,,1
+77,Nivea,Nivea Moisturizing Cream,Keeps skin soft and hydrated | Dermatologically tested | Travel-friendly pack,0,,0
+78,ASUS,ASUS Dual-Band Wi-Fi Router (Green),"Dual-band Wi-Fi for streaming and gaming | Compact, travel-friendly design | Easy to set up and use",1,5.0,1
+79,Fossil,Fossil Leather Wallet (Black),Multiple card slots and a coin pocket | Comfortable fit | Stylish everyday design,1,4.0,2
+80,boAt,boAt True Wireless Earbuds (Silver),True wireless design with charging case | Easy to set up and use | Comes with user manual,0,,0
+81,Del Monte,Del Monte Extra Virgin Olive Oil,Cold-pressed oil for cooking and salads | No added artificial colours | Sealed pack for freshness,1,3.0,1
+82,Boldfit,Boldfit Anti-Slip Yoga Mat (Green),Anti-slip surface with good cushioning | Suitable for beginners | Lightweight design,0,,0
+83,Anker,Anker Power Bank for Mobile Phones (Green),Charge your phone on the go | Comes with user manual | Easy to set up and use,9,3.9,15
+84,Ravensburger,Ravensburger Jigsaw Puzzle (Green),"Builds focus and patience | Encourages learning through play | Safe, child-friendly materials",0,,0
+85,Penguin Random House,Penguin Random House Bestselling Fiction Novel (Paperback),"Paperback edition, easy to read | Easy to carry | Good print quality",0,,0
+86,Razer,Razer Full HD Webcam with Microphone (Silver),"Full HD video for online classes and calls | Easy to set up and use | Compact, travel-friendly design",228,4.1,395
+87,Converse,Converse Casual Sneakers (Red),Cushioned sole for all-day comfort | Easy to wash and maintain | Available in multiple sizes,13,4.0,26
+88,Funskool,Funskool Jigsaw Puzzle (Red),"Builds focus and patience | Safe, child-friendly materials | Durable build",0,,1
+89,Wild Stone,Wild Stone Eau de Parfum Perfume,"Fresh long-lasting fragrance | Travel-friendly pack | Pleasant, mild feel",0,,0
+90,Skechers,Skechers Casual Sneakers (Green),Cushioned sole for all-day comfort | Easy to wash and maintain | Available in multiple sizes,0,,0
+91,Decathlon,Decathlon Anti-Slip Yoga Mat (Green),Anti-slip surface with good cushioning | Built for regular training | Durable and easy to carry,0,,1
+92,Tefal,Tefal Non-Stick Cookware Set (Grey),"Non-stick coating, easy to clean | Space-saving design | Designed for daily home use",0,,0
+93,Mattel,Mattel Collectible Action Figure (Silver),Detailed collectible figure | Encourages learning through play | Durable build,0,,0
+94,Prestige,Prestige Non-Stick Cookware Set (Black),"Non-stick coating, easy to clean | Easy to clean | Space-saving design",0,,0
+95,Borges,Borges Extra Virgin Olive Oil,"Cold-pressed oil for cooking and salads | Store in a cool, dry place | No added artificial colours",0,,0
+96,Raymond Home,Raymond Home Cotton Bedsheet Set (Navy Blue),"Soft cotton that keeps its colour after washes | Sturdy, long-lasting build | Space-saving design",0,,0
+97,Woodland,Woodland Leather Belt (Blue),Strong buckle with a durable finish | Available in multiple sizes | Stylish everyday design,0,,0
+98,Penguin Random House,Penguin Random House Home Cooking Cookbook,Step-by-step recipes for home cooks | Great for gifting | Popular with readers,0,,0
+99,Raymond Home,Raymond Home Cotton Bedsheet Set (Silver),Soft cotton that keeps its colour after washes | Designed for daily home use | Space-saving design,1,4.0,1
+100,Quaker,Quaker Oats Granola Bars,"Oats-based snack for busy days | Good for the whole family | Store in a cool, dry place",1,1.0,1
+101,Anker,Anker Power Bank for Mobile Phones (White),"Charge your phone on the go | Modern, sleek look | Comes with user manual",0,,0
+102,Raymond,Raymond Soft Winter Scarf (Grey),Soft fabric that is easy to style | Available in multiple sizes | Stylish everyday design,0,,0
+103,Dyson,Dyson Vacuum Cleaner for Home (Red),Strong suction for dust and pet hair | Space-saving design | Easy to clean,0,,0
+104,Cetaphil,Cetaphil Moisturizing Cream,"Keeps skin soft and hydrated | Travel-friendly pack | Pleasant, mild feel",1,5.0,1
+105,Braun,Braun Razor for Men,"Smooth, close shave | Dermatologically tested | Pleasant, mild feel",6,4.0,9
+106,Havells,Havells Mixer Blender (Red),"Powerful motor for smoothies and chutneys | Designed for daily home use | Sturdy, long-lasting build",1,5.0,1
+107,Hidesign,Hidesign Leather Wallet (Black),Multiple card slots and a coin pocket | Comfortable fit | Easy to wash and maintain,0,,0
+108,Spaces,Spaces Cotton Bedsheet Set (Black),"Soft cotton that keeps its colour after washes | Sturdy, long-lasting build | Space-saving design",2,4.5,3
+109,Syska,Syska Hair Dryer,"Multiple heat settings for quick drying | Pleasant, mild feel | Suitable for daily use",1,4.0,1
+110,LEGO,LEGO Building Blocks Set (Red),Encourages creativity and building skills | Encourages learning through play | Durable build,0,,0
+111,Puma,Puma Running Shoes (Grey),Lightweight with good grip | Suitable for beginners | Built for regular training,4,4.8,6
+112,Boldfit,Boldfit Dumbbell Set for Home Workout (Blue),Durable build for home workouts | Built for regular training | Lightweight design,1,5.0,2
+113,Karcher,Karcher Vacuum Cleaner for Home (White),Strong suction for dust and pet hair | Space-saving design | Easy to clean,0,,0
+114,Cello,Cello Ceramic Tea Set,"Elegant set for serving tea | Sealed pack for freshness | Store in a cool, dry place",0,,0
+115,Microsoft,Microsoft Full HD Webcam with Microphone (Green),Full HD video for online classes and calls | Comes with user manual | Easy to set up and use,0,,0
+116,Faber & Faber,Faber & Faber Poetry Collection Book,A curated collection of poems | Good print quality | Popular with readers,0,,2
+117,HarperCollins,HarperCollins Poetry Collection Book,A curated collection of poems | Popular with readers | Good print quality,0,,0
+118,Bombay Dyeing,Bombay Dyeing Cotton Bedsheet Set (Grey),"Soft cotton that keeps its colour after washes | Sturdy, long-lasting build | Space-saving design",0,,1
+119,Penguin Random House,Penguin Random House Poetry Collection Book,A curated collection of poems | Great for gifting | Popular with readers,100,4.0,168
+120,New Era,New Era Sports Cap (White),Adjustable fit and lightweight fabric | Available in multiple sizes | Stylish everyday design,0,,0
+121,Calvin Klein,Calvin Klein Eau de Parfum Perfume,"Fresh long-lasting fragrance | Pleasant, mild feel | Dermatologically tested",3,3.7,4
+122,Decathlon,Decathlon Camping Tent for Outdoors (Navy Blue),"Easy to set up, water-resistant | Built for regular training | Suitable for beginners",0,,0
+123,Hot Wheels,Hot Wheels Remote Control Car (Black),Easy remote control for kids | Durable build | Encourages learning through play,175,4.0,328
+124,Disney,Disney Soft Plush Toy (Silver),"Soft, huggable and safe for children | Encourages learning through play | Durable build",0,,0
+125,Nescafe,Nescafe Roasted Coffee Beans,"Freshly roasted, rich aroma | Good for the whole family | No added artificial colours",1,5.0,1
+126,Maybelline New York,Maybelline New York Matte Lipstick,"Smooth, long-lasting colour | Travel-friendly pack | Dermatologically tested",0,,1
+127,Hasbro,Hasbro Jigsaw Puzzle (Red),"Builds focus and patience | Encourages learning through play | Safe, child-friendly materials",2,3.5,2
+128,Del Monte,Del Monte Extra Virgin Olive Oil,"Cold-pressed oil for cooking and salads | Store in a cool, dry place | Good for the whole family",0,,0
+129,Decathlon,Decathlon Dumbbell Set for Home Workout (Red),Durable build for home workouts | Built for regular training | Durable and easy to carry,0,,1
+130,Funko,Funko Collectible Action Figure (Green),Detailed collectible figure | Durable build | Great gift for kids,0,,0
+131,L'Oreal Paris,L'Oreal Paris Daily Care Shampoo,"Gentle cleansing for everyday use | Pleasant, mild feel | Suitable for daily use",0,,0
+132,Samsung,Samsung True Wireless Earbuds (Navy Blue),"True wireless design with charging case | Easy to set up and use | Modern, sleek look",0,,0
+133,Coleman,Coleman Camping Tent for Outdoors (Red),"Easy to set up, water-resistant | Suitable for beginners | Built for regular training",0,,0
+134,Lavazza,Lavazza Roasted Coffee Beans,"Freshly roasted, rich aroma | Good for the whole family | Store in a cool, dry place",0,,0
+135,HarperCollins,HarperCollins Poetry Collection Book,A curated collection of poems | Great for gifting | Easy to carry,0,,0
+136,Nike,Nike Sports Cap (Silver),Adjustable fit and lightweight fabric | Stylish everyday design | Available in multiple sizes,0,,0
+137,Realme,Realme Power Bank for Mobile Phones (Grey),Charge your phone on the go | Easy to set up and use | Comes with user manual,1,4.0,4
+138,Funskool,Funskool Building Blocks Set (Green),Encourages creativity and building skills | Great gift for kids | Encourages learning through play,0,,1
+139,Wildcraft,Wildcraft Leather Wallet (Grey),Multiple card slots and a coin pocket | Easy to wash and maintain | Comfortable fit,0,,0
+140,Marshall,Marshall Portable Bluetooth Speaker (Green),"Portable design with wireless Bluetooth audio | Comes with user manual | Modern, sleek look",0,,0
+141,Puma,Puma Sports Cap (Grey),Adjustable fit and lightweight fabric | Stylish everyday design | Comfortable fit,0,,0
+142,Adidas,Adidas Running Shoes (Black),Lightweight with good grip | Suitable for beginners | Built for regular training,8,4.6,13
+143,Havells,Havells LED Table Lamp (Silver),"Energy-saving LED light | Designed for daily home use | Sturdy, long-lasting build",0,,0
+144,Penguin Random House,Penguin Random House Inspiring Biography Book,"True life story, engaging to read | Popular with readers | Good print quality",0,,0
+145,Ravensburger,Ravensburger Family Board Game (Red),"Fun for family game night | Safe, child-friendly materials | Great gift for kids",0,,0
+146,Sony,Sony Portable Bluetooth Speaker (Silver),"Portable design with wireless Bluetooth audio | Compact, travel-friendly design | Comes with user manual",0,,0
+147,Boldfit,Boldfit Dumbbell Set for Home Workout (Black),Durable build for home workouts | Suitable for beginners | Durable and easy to carry,0,,0
+148,ASUS,ASUS Dual-Band Wi-Fi Router (Black),"Dual-band Wi-Fi for streaming and gaming | Compact, travel-friendly design | Modern, sleek look",3,4.3,4
+149,Vaseline,Vaseline Moisturizing Cream,Keeps skin soft and hydrated | Dermatologically tested | Travel-friendly pack,1,5.0,1
+150,Catch,Catch Ground Spice Mix,Adds authentic flavour to dishes | No added artificial colours | Sealed pack for freshness,0,,0
+151,Puma,Puma Casual Sneakers (Green),Cushioned sole for all-day comfort | Comfortable fit | Easy to wash and maintain,0,,0
+152,Nature Valley,Nature Valley Oats Granola Bars,"Oats-based snack for busy days | Sealed pack for freshness | Store in a cool, dry place",0,,0
+153,Borosil,Borosil Ceramic Tea Set,"Elegant set for serving tea | Store in a cool, dry place | Good for the whole family",2,2.5,2
+154,Wildcraft,Wildcraft Camping Tent for Outdoors (White),"Easy to set up, water-resistant | Durable and easy to carry | Suitable for beginners",0,,0
+155,Realme,Realme True Wireless Earbuds (Black),"True wireless design with charging case | Easy to set up and use | Modern, sleek look",0,,0
+156,HarperCollins,HarperCollins Home Cooking Cookbook,Step-by-step recipes for home cooks | Good print quality | Easy to carry,0,,0
+157,boAt,boAt Portable Bluetooth Speaker (Black),"Portable design with wireless Bluetooth audio | Easy to set up and use | Modern, sleek look",1,5.0,1
+158,Coleman,Coleman Camping Tent for Outdoors (Grey),"Easy to set up, water-resistant | Suitable for beginners | Built for regular training",3,3.3,6
+159,Hidesign,Hidesign Leather Wallet (Silver),Multiple card slots and a coin pocket | Stylish everyday design | Easy to wash and maintain,0,,0
+160,Lonely Planet,Lonely Planet Travel Guidebook,Maps and tips for planning your trip | Easy to carry | Good print quality,1,1.0,1
+161,ASICS,ASICS Running Shoes (Silver),Lightweight with good grip | Durable and easy to carry | Suitable for beginners,1,5.0,1
+162,LG,LG Full HD LED Monitor (Red),"Full HD display with wide viewing angle | Modern, sleek look | Easy to set up and use",0,,0
+163,Nilkamal,Nilkamal Storage Organizer (Grey),"Keeps your space neat and tidy | Easy to clean | Sturdy, long-lasting build",0,,0
+164,Bertolli,Bertolli Extra Virgin Olive Oil,Cold-pressed oil for cooking and salads | Sealed pack for freshness | No added artificial colours,0,,0
+165,Bandai,Bandai Collectible Action Figure (Red),Detailed collectible figure | Great gift for kids | Durable build,0,,0
+166,Nature Valley,Nature Valley Oats Granola Bars,"Oats-based snack for busy days | Good for the whole family | Store in a cool, dry place",0,,0
+167,MDH,MDH Ground Spice Mix,"Adds authentic flavour to dishes | Store in a cool, dry place | Sealed pack for freshness",0,,0
+168,L'Oreal Paris,L'Oreal Paris Daily Care Shampoo,Gentle cleansing for everyday use | Travel-friendly pack | Suitable for daily use,1,3.0,1
+169,Mattel,Mattel Family Board Game (Silver),Fun for family game night | Great gift for kids | Encourages learning through play,0,,0
+170,Oakley,Oakley UV Protection Sunglasses (Navy Blue),UV protection lenses | Stylish everyday design | Comfortable fit,0,,0
+171,HarperCollins,HarperCollins Home Cooking Cookbook,Step-by-step recipes for home cooks | Easy to carry | Good print quality,1,4.0,3
+172,Havells,Havells Hair Dryer,Multiple heat settings for quick drying | Suitable for daily use | Dermatologically tested,3,4.0,3
+173,Raymond,Raymond Soft Winter Scarf (Navy Blue),Soft fabric that is easy to style | Available in multiple sizes | Stylish everyday design,0,,0
+174,OnePlus,OnePlus True Wireless Earbuds (White),True wireless design with charging case | Comes with user manual | Easy to set up and use,0,,0
+175,Everest,Everest Ground Spice Mix,"Adds authentic flavour to dishes | Good for the whole family | Store in a cool, dry place",0,,0
+176,Yoga Bar,Yoga Bar Oats Granola Bars,Oats-based snack for busy days | Sealed pack for freshness | Good for the whole family,0,,0
+177,Bandai,Bandai Collectible Action Figure (Green),Detailed collectible figure | Durable build | Great gift for kids,0,,0
+178,Skechers,Skechers Running Shoes (Red),Lightweight with good grip | Built for regular training | Suitable for beginners,0,,0
+179,Skybags,Skybags Laptop Backpack (Silver),Padded compartment fits a laptop | Stylish everyday design | Available in multiple sizes,0,,0
+180,Tupperware,Tupperware Insulated Water Bottle (Blue),"Leak-proof lid, easy to carry | Durable and easy to carry | Suitable for beginners",6,4.2,11
+181,Maybelline New York,Maybelline New York Matte Lipstick,"Smooth, long-lasting colour | Pleasant, mild feel | Travel-friendly pack",2,5.0,2
+182,Bandai,Bandai Collectible Action Figure (Navy Blue),"Detailed collectible figure | Durable build | Safe, child-friendly materials",0,,0
+183,Spaces,Spaces Cotton Bedsheet Set (Silver),"Soft cotton that keeps its colour after washes | Sturdy, long-lasting build | Space-saving design",0,,0
+184,Garnier,Garnier Face Serum,Lightweight formula for daily skincare | Dermatologically tested | Suitable for daily use,0,,1
+185,Ravensburger,Ravensburger Family Board Game (White),"Fun for family game night | Safe, child-friendly materials | Durable build",1,2.0,1
+186,Bose,Bose Portable Bluetooth Speaker (Black),"Portable design with wireless Bluetooth audio | Compact, travel-friendly design | Easy to set up and use",0,,0
+187,L'Oreal Paris,L'Oreal Paris Matte Lipstick,"Smooth, long-lasting colour | Suitable for daily use | Travel-friendly pack",0,,2
+188,Minimalist,Minimalist Face Serum,Lightweight formula for daily skincare | Suitable for daily use | Dermatologically tested,1,5.0,2
+189,Tata Coffee,Tata Coffee Roasted Coffee Beans,"Freshly roasted, rich aroma | No added artificial colours | Good for the whole family",4,4.2,5
+190,Karcher,Karcher Vacuum Cleaner for Home (White),Strong suction for dust and pet hair | Easy to clean | Designed for daily home use,0,,0
+191,Lavazza,Lavazza Roasted Coffee Beans,"Freshly roasted, rich aroma | Good for the whole family | Sealed pack for freshness",0,,0
+192,Puma,Puma Cotton Round Neck T-Shirt (Navy Blue),Breathable cotton fabric | Easy to wash and maintain | Available in multiple sizes,0,,0
+193,Raymond,Raymond Soft Winter Scarf (Green),Soft fabric that is easy to style | Comfortable fit | Easy to wash and maintain,0,,0
+194,American Tourister,American Tourister Laptop Backpack (Silver),Padded compartment fits a laptop | Stylish everyday design | Available in multiple sizes,0,,0
+195,Nilkamal,Nilkamal Storage Organizer (White),Keeps your space neat and tidy | Space-saving design | Easy to clean,0,,0
+196,Lavie,Lavie Women's Handbag (White),Spacious interior with secure zip | Easy to wash and maintain | Stylish everyday design,48,4.1,82
+197,Adidas,Adidas Anti-Slip Yoga Mat (Silver),Anti-slip surface with good cushioning | Suitable for beginners | Lightweight design,0,,0
+198,Mega Bloks,Mega Bloks Building Blocks Set (Grey),Encourages creativity and building skills | Encourages learning through play | Durable build,0,,0
+199,Hamleys,Hamleys Soft Plush Toy (Grey),"Soft, huggable and safe for children | Encourages learning through play | Durable build",0,,0
+200,Mattel,Mattel Family Board Game (Black),"Fun for family game night | Great gift for kids | Safe, child-friendly materials",0,,0
+201,Allen Solly,Allen Solly Soft Winter Scarf (White),Soft fabric that is easy to style | Stylish everyday design | Available in multiple sizes,0,,1
+202,Hasbro,Hasbro Jigsaw Puzzle (Blue),Builds focus and patience | Durable build | Great gift for kids,0,,0
+203,Neutrogena,Neutrogena Moisturizing Cream,Keeps skin soft and hydrated | Dermatologically tested | Travel-friendly pack,0,,0
+204,Funskool,Funskool Remote Control Car (Green),Easy remote control for kids | Great gift for kids | Durable build,1,5.0,1
+205,Axe,Axe Eau de Parfum Perfume,Fresh long-lasting fragrance | Suitable for daily use | Travel-friendly pack,0,,0
+206,Disney,Disney Soft Plush Toy (Red),"Soft, huggable and safe for children | Durable build | Encourages learning through play",1,3.0,1
+207,Nike,Nike Casual Sneakers (Black),Cushioned sole for all-day comfort | Easy to wash and maintain | Available in multiple sizes,0,,0
+208,Reebok,Reebok Anti-Slip Yoga Mat (Silver),Anti-slip surface with good cushioning | Suitable for beginners | Lightweight design,0,,0
+209,Converse,Converse Casual Sneakers (Green),Cushioned sole for all-day comfort | Available in multiple sizes | Stylish everyday design,0,,0
+210,Funskool,Funskool Soft Plush Toy (White),"Soft, huggable and safe for children | Encourages learning through play | Durable build",0,,1
+211,Starbucks,Starbucks Roasted Coffee Beans,"Freshly roasted, rich aroma | No added artificial colours | Sealed pack for freshness",0,,1
+212,DK Eyewitness,DK Eyewitness Travel Guidebook,Maps and tips for planning your trip | Good print quality | Easy to carry,1,3.0,1
+213,Clementoni,Clementoni Jigsaw Puzzle (Blue),Builds focus and patience | Great gift for kids | Durable build,0,,0
+214,Calvin Klein,Calvin Klein Eau de Parfum Perfume,Fresh long-lasting fragrance | Travel-friendly pack | Dermatologically tested,0,,0
+215,Bell,Bell Cycling Helmet (Navy Blue),Lightweight shell with adjustable fit | Built for regular training | Suitable for beginners,0,,0
+216,Maisto,Maisto Remote Control Car (Silver),"Easy remote control for kids | Encourages learning through play | Safe, child-friendly materials",0,,0
+217,Neutrogena,Neutrogena Moisturizing Cream,"Keeps skin soft and hydrated | Pleasant, mild feel | Travel-friendly pack",1,4.0,1
+218,Philips,Philips Coffee Maker Machine (Red),"Brews fresh coffee in minutes | Sturdy, long-lasting build | Space-saving design",0,,0
+219,Dyson,Dyson Hair Dryer,"Multiple heat settings for quick drying | Dermatologically tested | Pleasant, mild feel",0,,0
+220,Mattel,Mattel Family Board Game (Navy Blue),Fun for family game night | Durable build | Encourages learning through play,1,3.0,1
+221,Ravensburger,Ravensburger Jigsaw Puzzle (White),Builds focus and patience | Durable build | Great gift for kids,0,,0
+222,Hasbro,Hasbro Jigsaw Puzzle (Grey),Builds focus and patience | Great gift for kids | Durable build,1,5.0,1
+223,Funskool,Funskool Soft Plush Toy (White),"Soft, huggable and safe for children | Durable build | Encourages learning through play",0,,0
+224,Hasbro,Hasbro Family Board Game (Navy Blue),Fun for family game night | Encourages learning through play | Great gift for kids,0,,0
+225,New Era,New Era Sports Cap (Navy Blue),Adjustable fit and lightweight fabric | Stylish everyday design | Easy to wash and maintain,0,,0
+226,Pigeon,Pigeon Digital Air Fryer (Silver),"Cooks with little or no oil | Sturdy, long-lasting build | Space-saving design",0,,0
+227,D-Link,D-Link Dual-Band Wi-Fi Router (Grey),"Dual-band Wi-Fi for streaming and gaming | Modern, sleek look | Compact, travel-friendly design",0,,0
+228,Nike,Nike Cotton Round Neck T-Shirt (Green),Breathable cotton fabric | Stylish everyday design | Easy to wash and maintain,0,,0
+229,Funskool,Funskool Soft Plush Toy (Red),"Soft, huggable and safe for children | Encourages learning through play | Great gift for kids",0,,0
+230,Lakme,Lakme Matte Lipstick,"Smooth, long-lasting colour | Suitable for daily use | Dermatologically tested",2,3.0,5
+231,Giro,Giro Cycling Helmet (Blue),Lightweight shell with adjustable fit | Durable and easy to carry | Built for regular training,0,,1
+232,Baggit,Baggit Women's Handbag (Green),Spacious interior with secure zip | Easy to wash and maintain | Comfortable fit,0,,0
+233,Acer,Acer Full HD LED Monitor (Black),"Full HD display with wide viewing angle | Easy to set up and use | Modern, sleek look",0,,0
+234,Garnier,Garnier Face Serum,Lightweight formula for daily skincare | Travel-friendly pack | Suitable for daily use,2,3.0,3
+235,Mega Bloks,Mega Bloks Building Blocks Set (Green),Encourages creativity and building skills | Durable build | Great gift for kids,0,,0
+236,Archies,Archies Ruled Notebook Journal,Ruled pages for notes and daily writing | Great for gifting | Popular with readers,0,,0
+237,Wild Stone,Wild Stone Eau de Parfum Perfume,"Fresh long-lasting fragrance | Suitable for daily use | Pleasant, mild feel",4,4.5,5
+238,Neutrogena,Neutrogena Face Serum,Lightweight formula for daily skincare | Travel-friendly pack | Suitable for daily use,3,5.0,4
+239,Samsung,Samsung Full HD LED Monitor (Navy Blue),"Full HD display with wide viewing angle | Modern, sleek look | Easy to set up and use",0,,0
+240,Pearson,Pearson College Textbook,Clear explanations with practice questions | Popular with readers | Easy to carry,0,,0
+241,Dell,Dell Wireless Keyboard (Grey),"Comfortable, quiet keys for daily typing | Modern, sleek look | Easy to set up and use",0,,0
+242,Dell,Dell Full HD LED Monitor (Green),"Full HD display with wide viewing angle | Easy to set up and use | Compact, travel-friendly design",4,3.5,5
+243,Bertolli,Bertolli Extra Virgin Olive Oil,"Cold-pressed oil for cooking and salads | Store in a cool, dry place | No added artificial colours",0,,0
+244,Adidas,Adidas Casual Sneakers (Silver),Cushioned sole for all-day comfort | Stylish everyday design | Available in multiple sizes,0,,0
+245,Reebok,Reebok Running Shoes (Silver),Lightweight with good grip | Lightweight design | Durable and easy to carry,0,,0
+246,Dyson,Dyson Vacuum Cleaner for Home (Green),"Strong suction for dust and pet hair | Sturdy, long-lasting build | Easy to clean",0,,0
+247,Tata Sampann,Tata Sampann Ground Spice Mix,Adds authentic flavour to dishes | Good for the whole family | Sealed pack for freshness,0,,0
+248,Logitech,Logitech Full HD Webcam with Microphone (Red),"Full HD video for online classes and calls | Compact, travel-friendly design | Modern, sleek look",0,,1
+249,Cello,Cello Ceramic Tea Set,"Elegant set for serving tea | Store in a cool, dry place | Good for the whole family",0,,0
+250,Nature Valley,Nature Valley Healthy Snack Pack,"Tasty, ready-to-eat snacks | No added artificial colours | Sealed pack for freshness",0,,0
+251,Logitech,Logitech Wireless Keyboard (Black),"Comfortable, quiet keys for daily typing | Compact, travel-friendly design | Modern, sleek look",1,5.0,1
+252,JBL,JBL Portable Bluetooth Speaker (Navy Blue),"Portable design with wireless Bluetooth audio | Compact, travel-friendly design | Modern, sleek look",1,5.0,1
+253,24 Mantra Organic,24 Mantra Organic Healthy Snack Pack,"Tasty, ready-to-eat snacks | Good for the whole family | No added artificial colours",0,,0
+254,Yoga Bar,Yoga Bar Oats Granola Bars,Oats-based snack for busy days | Sealed pack for freshness | No added artificial colours,0,,0
+255,LEGO,LEGO Building Blocks Set (Blue),Encourages creativity and building skills | Durable build | Encourages learning through play,0,,0
+256,Hamleys,Hamleys Soft Plush Toy (Grey),"Soft, huggable and safe for children | Encourages learning through play | Durable build",0,,0
+257,Catch,Catch Ground Spice Mix,"Adds authentic flavour to dishes | Good for the whole family | Store in a cool, dry place",0,,0
+258,Bloomsbury,Bloomsbury Inspiring Biography Book,"True life story, engaging to read | Great for gifting | Popular with readers",0,,0
+259,L'Oreal Paris,L'Oreal Paris Face Serum,"Lightweight formula for daily skincare | Pleasant, mild feel | Dermatologically tested",0,,0
+260,Borosil,Borosil Ceramic Tea Set,"Elegant set for serving tea | Good for the whole family | Store in a cool, dry place",5,4.0,7
+261,Minimalist,Minimalist Face Serum,Lightweight formula for daily skincare | Suitable for daily use | Travel-friendly pack,1,4.0,3
+262,Corelle,Corelle Ceramic Tea Set,"Elegant set for serving tea | Store in a cool, dry place | Good for the whole family",0,,0
+263,Dove,Dove Daily Care Shampoo,"Gentle cleansing for everyday use | Suitable for daily use | Pleasant, mild feel",2,3.5,4
+264,Reebok,Reebok Anti-Slip Yoga Mat (Black),Anti-slip surface with good cushioning | Suitable for beginners | Durable and easy to carry,1,5.0,2
+265,Bertolli,Bertolli Extra Virgin Olive Oil,"Cold-pressed oil for cooking and salads | Store in a cool, dry place | No added artificial colours",0,,0
+266,DK Eyewitness,DK Eyewitness Travel Guidebook,Maps and tips for planning your trip | Good print quality | Great for gifting,0,,0
+267,Samsung,Samsung Smartwatch with Fitness Tracking (Red),"Tracks steps, heart rate and sleep | Modern, sleek look | Compact, travel-friendly design",0,,0
+268,Mi,Mi Power Bank for Mobile Phones (Green),Charge your phone on the go | Comes with user manual | Easy to set up and use,0,,0
+269,Decathlon,Decathlon Anti-Slip Yoga Mat (Silver),Anti-slip surface with good cushioning | Suitable for beginners | Built for regular training,0,,0
+270,Neutrogena,Neutrogena Face Serum,Lightweight formula for daily skincare | Suitable for daily use | Travel-friendly pack,1,3.0,1
+271,Head & Shoulders,Head & Shoulders Daily Care Shampoo,"Gentle cleansing for everyday use | Pleasant, mild feel | Travel-friendly pack",33,3.9,71
+272,Bose,Bose Wireless Bluetooth Headphones with Mic (Black),"Bluetooth wireless connection with built-in microphone | Easy to set up and use | Compact, travel-friendly design",0,,0
+273,Allen Solly,Allen Solly Soft Winter Scarf (Blue),Soft fabric that is easy to style | Available in multiple sizes | Easy to wash and maintain,0,,0
+274,Funskool,Funskool Building Blocks Set (Red),"Encourages creativity and building skills | Safe, child-friendly materials | Encourages learning through play",0,,0
+275,Figaro,Figaro Extra Virgin Olive Oil,Cold-pressed oil for cooking and salads | Sealed pack for freshness | Good for the whole family,0,,0
+276,Reebok,Reebok Dumbbell Set for Home Workout (Green),Durable build for home workouts | Durable and easy to carry | Suitable for beginners,151,3.9,271
+277,Tupperware,Tupperware Storage Organizer (Black),Keeps your space neat and tidy | Space-saving design | Designed for daily home use,0,,0
+278,Fogg,Fogg Eau de Parfum Perfume,"Fresh long-lasting fragrance | Pleasant, mild feel | Suitable for daily use",0,,0
+279,Cello,Cello Insulated Water Bottle (Red),"Leak-proof lid, easy to carry | Built for regular training | Suitable for beginners",0,,0
+280,Bose,Bose Portable Bluetooth Speaker (Grey),"Portable design with wireless Bluetooth audio | Comes with user manual | Compact, travel-friendly design",0,,0
+281,Nike,Nike Laptop Backpack (Red),Padded compartment fits a laptop | Easy to wash and maintain | Comfortable fit,0,,0
+282,Funko,Funko Collectible Action Figure (Navy Blue),Detailed collectible figure | Durable build | Great gift for kids,0,,0
+283,Corelle,Corelle Ceramic Tea Set,"Elegant set for serving tea | Sealed pack for freshness | Store in a cool, dry place",0,,0
+284,Organic India,Organic India Healthy Snack Pack,"Tasty, ready-to-eat snacks | Store in a cool, dry place | Sealed pack for freshness",0,,0
+285,Microsoft,Microsoft Full HD Webcam with Microphone (Green),"Full HD video for online classes and calls | Compact, travel-friendly design | Easy to set up and use",2,1.0,5
+286,Nike,Nike Running Shoes (White),Lightweight with good grip | Durable and easy to carry | Built for regular training,0,,0
+287,ASUS,ASUS Dual-Band Wi-Fi Router (Silver),"Dual-band Wi-Fi for streaming and gaming | Comes with user manual | Modern, sleek look",0,,0
+288,Boldfit,Boldfit Anti-Slip Yoga Mat (Blue),Anti-slip surface with good cushioning | Durable and easy to carry | Suitable for beginners,4,3.5,4
+289,Head & Shoulders,Head & Shoulders Daily Care Shampoo,Gentle cleansing for everyday use | Travel-friendly pack | Suitable for daily use,0,,1
+290,Penguin Random House,Penguin Random House Home Cooking Cookbook,Step-by-step recipes for home cooks | Great for gifting | Good print quality,1,3.0,1
+291,Corelle,Corelle Ceramic Tea Set,Elegant set for serving tea | Good for the whole family | Sealed pack for freshness,0,,0
+292,Braun,Braun Razor for Men,"Smooth, close shave | Travel-friendly pack | Pleasant, mild feel",5,3.4,12
+293,Pearson,Pearson College Textbook,Clear explanations with practice questions | Good print quality | Easy to carry,0,,1
+294,Gillette,Gillette Razor for Men,"Smooth, close shave | Pleasant, mild feel | Dermatologically tested",4,4.8,5
+295,Starbucks,Starbucks Roasted Coffee Beans,"Freshly roasted, rich aroma | Good for the whole family | Sealed pack for freshness",0,,0
+296,Puma,Puma Men's Casual Jacket (Black),"Warm, durable fabric for daily wear | Available in multiple sizes | Easy to wash and maintain",0,,0
+297,Samsung,Samsung True Wireless Earbuds (Blue),True wireless design with charging case | Comes with user manual | Easy to set up and use,0,,0
+298,Hidesign,Hidesign Leather Belt (Grey),Strong buckle with a durable finish | Easy to wash and maintain | Stylish everyday design,0,,0
+299,ASUS,ASUS Full HD LED Monitor (Navy Blue),Full HD display with wide viewing angle | Easy to set up and use | Comes with user manual,0,,3
+300,Razer,Razer Full HD Webcam with Microphone (Black),"Full HD video for online classes and calls | Comes with user manual | Modern, sleek look",0,,0
+301,Philips,Philips Razor for Men,"Smooth, close shave | Suitable for daily use | Dermatologically tested",1,1.0,1
+302,Borosil,Borosil Insulated Water Bottle (Navy Blue),"Leak-proof lid, easy to carry | Suitable for beginners | Lightweight design",4,4.5,8
+303,Mattel,Mattel Family Board Game (Grey),"Fun for family game night | Durable build | Safe, child-friendly materials",1,4.0,1
+304,Raymond Home,Raymond Home Cotton Bedsheet Set (Navy Blue),Soft cotton that keeps its colour after washes | Designed for daily home use | Space-saving design,0,,0
+305,Dove,Dove Daily Care Shampoo,"Gentle cleansing for everyday use | Dermatologically tested | Pleasant, mild feel",1,5.0,1
+306,Garnier,Garnier Face Serum,"Lightweight formula for daily skincare | Dermatologically tested | Pleasant, mild feel",0,,0
+307,Nilkamal,Nilkamal Storage Organizer (Silver),Keeps your space neat and tidy | Designed for daily home use | Space-saving design,0,,0
+308,Corsair,Corsair Wireless Keyboard (Green),"Comfortable, quiet keys for daily typing | Comes with user manual | Modern, sleek look",0,,0
+309,Philips,Philips Hair Dryer,Multiple heat settings for quick drying | Dermatologically tested | Suitable for daily use,0,,0
+310,HarperCollins,HarperCollins Bestselling Fiction Novel (Paperback),"Paperback edition, easy to read | Easy to carry | Good print quality",4,4.2,7
+311,Kore,Kore Dumbbell Set for Home Workout (White),Durable build for home workouts | Built for regular training | Lightweight design,19,3.6,39
+312,Anker,Anker Fast Charger Adapter (Black),"Fast charging with overheat protection | Modern, sleek look | Compact, travel-friendly design",0,,0
+313,Raymond,Raymond Soft Winter Scarf (White),Soft fabric that is easy to style | Available in multiple sizes | Easy to wash and maintain,0,,0
+314,Inalsa,Inalsa Digital Air Fryer (Grey),"Cooks with little or no oil | Sturdy, long-lasting build | Space-saving design",0,,0
+315,Hidesign,Hidesign Leather Belt (Green),Strong buckle with a durable finish | Stylish everyday design | Available in multiple sizes,0,,0
+316,Penguin Random House,Penguin Random House Bestselling Fiction Novel (Paperback),"Paperback edition, easy to read | Popular with readers | Good print quality",0,,0
+317,Morphy Richards,Morphy Richards Coffee Maker Machine (Blue),"Brews fresh coffee in minutes | Space-saving design | Sturdy, long-lasting build",0,,0
+318,Borosil,Borosil Ceramic Tea Set,Elegant set for serving tea | Sealed pack for freshness | Good for the whole family,0,,0
+319,Hasbro,Hasbro Family Board Game (Silver),"Fun for family game night | Safe, child-friendly materials | Durable build",1,2.0,2
+320,Philips,Philips LED Table Lamp (White),"Energy-saving LED light | Sturdy, long-lasting build | Designed for daily home use",0,,0
+321,Milton,Milton Insulated Water Bottle (Grey),"Leak-proof lid, easy to carry | Durable and easy to carry | Built for regular training",0,,2
+322,Puma,Puma Cotton Round Neck T-Shirt (Black),Breathable cotton fabric | Easy to wash and maintain | Available in multiple sizes,0,,0
+323,Coleman,Coleman Camping Tent for Outdoors (Navy Blue),"Easy to set up, water-resistant | Built for regular training | Suitable for beginners",3,3.7,3
+324,Clementoni,Clementoni Jigsaw Puzzle (Grey),"Builds focus and patience | Safe, child-friendly materials | Great gift for kids",0,,0
+325,Reebok,Reebok Dumbbell Set for Home Workout (Black),Durable build for home workouts | Suitable for beginners | Durable and easy to carry,1,4.0,1
+326,Wildcraft,Wildcraft Laptop Backpack (Blue),Padded compartment fits a laptop | Available in multiple sizes | Comfortable fit,0,,0
+327,Funskool,Funskool Building Blocks Set (Grey),Encourages creativity and building skills | Encourages learning through play | Great gift for kids,0,,0
+328,HP,HP Full HD Webcam with Microphone (White),"Full HD video for online classes and calls | Compact, travel-friendly design | Comes with user manual",0,,0
+329,H&M,H&M Men's Casual Jacket (Green),"Warm, durable fabric for daily wear | Comfortable fit | Available in multiple sizes",0,,0
+330,Yoga Bar,Yoga Bar Oats Granola Bars,Oats-based snack for busy days | Good for the whole family | No added artificial colours,1,4.0,1
+331,Hidesign,Hidesign Leather Belt (Black),Strong buckle with a durable finish | Comfortable fit | Easy to wash and maintain,0,,0
+332,Moleskine,Moleskine Ruled Notebook Journal,Ruled pages for notes and daily writing | Good print quality | Great for gifting,38,4.3,85
+333,Organic India,Organic India Healthy Snack Pack,"Tasty, ready-to-eat snacks | Good for the whole family | Sealed pack for freshness",0,,0
+334,Bertolli,Bertolli Extra Virgin Olive Oil,Cold-pressed oil for cooking and salads | Good for the whole family | No added artificial colours,0,,1
+335,Funko,Funko Collectible Action Figure (Blue),"Detailed collectible figure | Durable build | Safe, child-friendly materials",0,,0
+336,Levi's,Levi's Leather Belt (Grey),Strong buckle with a durable finish | Comfortable fit | Stylish everyday design,42,4.0,72
+337,Adidas,Adidas Cotton Round Neck T-Shirt (White),Breathable cotton fabric | Comfortable fit | Available in multiple sizes,1,2.0,3
+338,Bose,Bose Portable Bluetooth Speaker (Red),"Portable design with wireless Bluetooth audio | Comes with user manual | Modern, sleek look",0,,0
+339,Bandai,Bandai Collectible Action Figure (Black),"Detailed collectible figure | Safe, child-friendly materials | Encourages learning through play",0,,0
+340,Borosil,Borosil Ceramic Tea Set,Elegant set for serving tea | Good for the whole family | Sealed pack for freshness,0,,0
+341,Bose,Bose Portable Bluetooth Speaker (Silver),"Portable design with wireless Bluetooth audio | Easy to set up and use | Compact, travel-friendly design",0,,0
+342,boAt,boAt Portable Bluetooth Speaker (Navy Blue),"Portable design with wireless Bluetooth audio | Comes with user manual | Compact, travel-friendly design",0,,0
+343,Decathlon,Decathlon Dumbbell Set for Home Workout (Black),Durable build for home workouts | Lightweight design | Suitable for beginners,0,,0
+344,Skechers,Skechers Casual Sneakers (Blue),Cushioned sole for all-day comfort | Available in multiple sizes | Stylish everyday design,0,,0
+345,Razer,Razer Wireless Keyboard (White),"Comfortable, quiet keys for daily typing | Easy to set up and use | Compact, travel-friendly design",0,,0
+346,Eureka Forbes,Eureka Forbes Vacuum Cleaner for Home (Red),"Strong suction for dust and pet hair | Easy to clean | Sturdy, long-lasting build",0,,2
+347,Nescafe,Nescafe Roasted Coffee Beans,"Freshly roasted, rich aroma | No added artificial colours | Store in a cool, dry place",0,,0
+348,Adidas,Adidas Sports Cap (Blue),Adjustable fit and lightweight fabric | Available in multiple sizes | Stylish everyday design,0,,0
+349,Ravensburger,Ravensburger Family Board Game (Navy Blue),"Fun for family game night | Great gift for kids | Safe, child-friendly materials",0,,0
+350,Giro,Giro Cycling Helmet (White),Lightweight shell with adjustable fit | Lightweight design | Suitable for beginners,1,5.0,1
+351,Hot Wheels,Hot Wheels Remote Control Car (Red),"Easy remote control for kids | Great gift for kids | Safe, child-friendly materials",0,,0
+352,Hasbro,Hasbro Jigsaw Puzzle (White),"Builds focus and patience | Safe, child-friendly materials | Durable build",0,,0
+353,Vaseline,Vaseline Moisturizing Cream,Keeps skin soft and hydrated | Travel-friendly pack | Dermatologically tested,0,,0
+354,Reebok,Reebok Running Shoes (Green),Lightweight with good grip | Built for regular training | Durable and easy to carry,1,5.0,1
+355,HarperCollins,HarperCollins Bestselling Fiction Novel (Paperback),"Paperback edition, easy to read | Good print quality | Great for gifting",0,,1
+356,Dove,Dove Daily Care Shampoo,Gentle cleansing for everyday use | Suitable for daily use | Dermatologically tested,6,4.2,7
+357,Fogg,Fogg Eau de Parfum Perfume,Fresh long-lasting fragrance | Travel-friendly pack | Suitable for daily use,1,5.0,2
+358,Reebok,Reebok Anti-Slip Yoga Mat (Green),Anti-slip surface with good cushioning | Durable and easy to carry | Suitable for beginners,0,,0
+359,Bose,Bose Wireless Bluetooth Headphones with Mic (Grey),"Bluetooth wireless connection with built-in microphone | Compact, travel-friendly design | Easy to set up and use",0,,0
+360,Reebok,Reebok Dumbbell Set for Home Workout (Silver),Durable build for home workouts | Suitable for beginners | Lightweight design,0,,0
+361,MAC,MAC Matte Lipstick,"Smooth, long-lasting colour | Pleasant, mild feel | Suitable for daily use",0,,0
+362,24 Mantra Organic,24 Mantra Organic Healthy Snack Pack,"Tasty, ready-to-eat snacks | Sealed pack for freshness | Store in a cool, dry place",0,,0
+363,Havells,Havells Digital Air Fryer (Black),"Cooks with little or no oil | Sturdy, long-lasting build | Easy to clean",0,,0
+364,Tupperware,Tupperware Storage Organizer (Red),Keeps your space neat and tidy | Easy to clean | Space-saving design,0,,0
+365,Borosil,Borosil Coffee Maker Machine (Black),"Brews fresh coffee in minutes | Sturdy, long-lasting build | Space-saving design",0,,0
+366,Hasbro,Hasbro Family Board Game (Black),"Fun for family game night | Safe, child-friendly materials | Durable build",0,,0
+367,Philips,Philips Coffee Maker Machine (Green),Brews fresh coffee in minutes | Designed for daily home use | Space-saving design,0,,0
+368,Netgear,Netgear Dual-Band Wi-Fi Router (Silver),Dual-band Wi-Fi for streaming and gaming | Easy to set up and use | Comes with user manual,0,,0
+369,Microsoft,Microsoft Full HD Webcam with Microphone (Navy Blue),"Full HD video for online classes and calls | Modern, sleek look | Comes with user manual",0,,0
+370,Classmate,Classmate Ruled Notebook Journal,Ruled pages for notes and daily writing | Great for gifting | Popular with readers,0,,0
+371,Boldfit,Boldfit Dumbbell Set for Home Workout (Silver),Durable build for home workouts | Built for regular training | Durable and easy to carry,0,,0
+372,American Tourister,American Tourister Laptop Backpack (Red),Padded compartment fits a laptop | Stylish everyday design | Comfortable fit,0,,0
+373,Bell,Bell Cycling Helmet (Red),Lightweight shell with adjustable fit | Suitable for beginners | Lightweight design,0,,0
+374,ASUS,ASUS Full HD LED Monitor (Navy Blue),"Full HD display with wide viewing angle | Easy to set up and use | Compact, travel-friendly design",0,,0
+375,Decathlon,Decathlon Dumbbell Set for Home Workout (White),Durable build for home workouts | Suitable for beginners | Lightweight design,0,,0
+376,Nike,Nike Sports Cap (White),Adjustable fit and lightweight fabric | Easy to wash and maintain | Comfortable fit,0,,0
+377,Levi's,Levi's Men's Casual Jacket (Navy Blue),"Warm, durable fabric for daily wear | Comfortable fit | Available in multiple sizes",0,,0
+378,Nilkamal,Nilkamal Storage Organizer (Green),Keeps your space neat and tidy | Space-saving design | Designed for daily home use,266,4.0,511
+379,Cello,Cello Storage Organizer (Green),"Keeps your space neat and tidy | Designed for daily home use | Sturdy, long-lasting build",0,,0
+380,Hot Wheels,Hot Wheels Remote Control Car (Red),"Easy remote control for kids | Encourages learning through play | Safe, child-friendly materials",0,,0
+381,Mi,Mi Fast Charger Adapter (Navy Blue),"Fast charging with overheat protection | Comes with user manual | Modern, sleek look",3,3.0,3
+382,Blue Tokai,Blue Tokai Roasted Coffee Beans,"Freshly roasted, rich aroma | Sealed pack for freshness | No added artificial colours",12,3.5,19
+383,MDH,MDH Ground Spice Mix,Adds authentic flavour to dishes | Sealed pack for freshness | Good for the whole family,0,,0
+384,Bloomsbury,Bloomsbury Bestselling Fiction Novel (Paperback),"Paperback edition, easy to read | Great for gifting | Good print quality",0,,1
+385,Ambrane,Ambrane Power Bank for Mobile Phones (Silver),"Charge your phone on the go | Easy to set up and use | Modern, sleek look",0,,0
+386,Cello,Cello Ceramic Tea Set,Elegant set for serving tea | No added artificial colours | Sealed pack for freshness,0,,0
+387,LEGO,LEGO Building Blocks Set (White),Encourages creativity and building skills | Durable build | Great gift for kids,3,4.7,4
+388,Tupperware,Tupperware Storage Organizer (Grey),Keeps your space neat and tidy | Easy to clean | Space-saving design,0,,0
+389,Bell,Bell Cycling Helmet (Blue),Lightweight shell with adjustable fit | Built for regular training | Suitable for beginners,8,4.2,15
+390,Tupperware,Tupperware Insulated Water Bottle (Green),"Leak-proof lid, easy to carry | Durable and easy to carry | Built for regular training",2,3.5,4
+391,Lonely Planet,Lonely Planet Travel Guidebook,Maps and tips for planning your trip | Popular with readers | Good print quality,0,,0
+392,Inalsa,Inalsa Digital Air Fryer (Silver),Cooks with little or no oil | Designed for daily home use | Easy to clean,0,,0
+393,Funskool,Funskool Jigsaw Puzzle (Green),Builds focus and patience | Durable build | Great gift for kids,0,,0
+394,Borges,Borges Extra Virgin Olive Oil,Cold-pressed oil for cooking and salads | Sealed pack for freshness | Good for the whole family,0,,0
+395,Prestige,Prestige Digital Air Fryer (Grey),Cooks with little or no oil | Easy to clean | Space-saving design,0,,0
+396,Braun,Braun Razor for Men,"Smooth, close shave | Travel-friendly pack | Suitable for daily use",0,,1
+397,Microsoft,Microsoft Full HD Webcam with Microphone (Silver),"Full HD video for online classes and calls | Compact, travel-friendly design | Modern, sleek look",1,5.0,3
+398,Hasbro,Hasbro Collectible Action Figure (Silver),Detailed collectible figure | Durable build | Encourages learning through play,0,,0
+399,Pantene,Pantene Daily Care Shampoo,"Gentle cleansing for everyday use | Travel-friendly pack | Pleasant, mild feel",0,,0
+400,Bloomsbury,Bloomsbury Inspiring Biography Book,"True life story, engaging to read | Good print quality | Easy to carry",1,5.0,3
+401,New Era,New Era Sports Cap (Grey),Adjustable fit and lightweight fabric | Available in multiple sizes | Stylish everyday design,0,,0
+402,Ambrane,Ambrane Fast Charger Adapter (Green),"Fast charging with overheat protection | Easy to set up and use | Modern, sleek look",0,,0
+403,Ambrane,Ambrane Power Bank for Mobile Phones (Green),"Charge your phone on the go | Easy to set up and use | Modern, sleek look",0,,0
+404,HP,HP Full HD Webcam with Microphone (Silver),Full HD video for online classes and calls | Comes with user manual | Easy to set up and use,9,4.2,14
+405,Neutrogena,Neutrogena Face Serum,Lightweight formula for daily skincare | Travel-friendly pack | Suitable for daily use,1,4.0,3
+406,Syska,Syska LED Table Lamp (Navy Blue),Energy-saving LED light | Space-saving design | Easy to clean,0,,0
+407,Nike,Nike Cotton Round Neck T-Shirt (Blue),Breathable cotton fabric | Stylish everyday design | Available in multiple sizes,0,,0
+408,Faber & Faber,Faber & Faber Poetry Collection Book,A curated collection of poems | Easy to carry | Great for gifting,8,4.0,17
+409,HarperCollins,HarperCollins Inspiring Biography Book,"True life story, engaging to read | Good print quality | Great for gifting",13,4.3,25
+410,Wild Stone,Wild Stone Eau de Parfum Perfume,Fresh long-lasting fragrance | Suitable for daily use | Travel-friendly pack,8,4.5,17
+411,Dyson,Dyson Hair Dryer,Multiple heat settings for quick drying | Travel-friendly pack | Dermatologically tested,3,3.7,5
+412,Mi,Mi Power Bank for Mobile Phones (Navy Blue),"Charge your phone on the go | Comes with user manual | Modern, sleek look",3,4.7,3
+413,Marshall,Marshall Portable Bluetooth Speaker (White),Portable design with wireless Bluetooth audio | Comes with user manual | Easy to set up and use,0,,0
+414,Skechers,Skechers Running Shoes (Silver),Lightweight with good grip | Durable and easy to carry | Lightweight design,2,3.0,2
+415,Woodland,Woodland Leather Belt (White),Strong buckle with a durable finish | Stylish everyday design | Comfortable fit,0,,0
+416,Corelle,Corelle Ceramic Tea Set,Elegant set for serving tea | No added artificial colours | Sealed pack for freshness,1,1.0,1
+417,Philips,Philips LED Table Lamp (Blue),"Energy-saving LED light | Easy to clean | Sturdy, long-lasting build",0,,0
+418,Calvin Klein,Calvin Klein Eau de Parfum Perfume,Fresh long-lasting fragrance | Travel-friendly pack | Suitable for daily use,0,,0
+419,Bloomsbury,Bloomsbury Inspiring Biography Book,"True life story, engaging to read | Easy to carry | Popular with readers",1,4.0,1
+420,Funskool,Funskool Jigsaw Puzzle (Red),"Builds focus and patience | Encourages learning through play | Safe, child-friendly materials",0,,0
+421,Bloomsbury,Bloomsbury Bestselling Fiction Novel (Paperback),"Paperback edition, easy to read | Popular with readers | Good print quality",0,,0
+422,Fastrack,Fastrack UV Protection Sunglasses (White),UV protection lenses | Easy to wash and maintain | Available in multiple sizes,0,,1
+423,Philips,Philips Digital Air Fryer (Red),"Cooks with little or no oil | Designed for daily home use | Sturdy, long-lasting build",0,,0
+424,Figaro,Figaro Extra Virgin Olive Oil,"Cold-pressed oil for cooking and salads | Store in a cool, dry place | Sealed pack for freshness",0,,0
+425,Kore,Kore Dumbbell Set for Home Workout (Blue),Durable build for home workouts | Lightweight design | Built for regular training,6,4.2,9
+426,Ravensburger,Ravensburger Jigsaw Puzzle (Black),Builds focus and patience | Durable build | Great gift for kids,0,,0
+427,Hasbro,Hasbro Family Board Game (Silver),Fun for family game night | Great gift for kids | Durable build,0,,0
+428,HarperCollins,HarperCollins Home Cooking Cookbook,Step-by-step recipes for home cooks | Easy to carry | Good print quality,7,4.3,9
+429,Anker,Anker Power Bank for Mobile Phones (Black),"Charge your phone on the go | Modern, sleek look | Compact, travel-friendly design",0,,0
+430,The Ordinary,The Ordinary Face Serum,"Lightweight formula for daily skincare | Pleasant, mild feel | Dermatologically tested",3,5.0,6
+431,Adidas,Adidas Men's Casual Jacket (Navy Blue),"Warm, durable fabric for daily wear | Available in multiple sizes | Stylish everyday design",0,,0
+432,The Ordinary,The Ordinary Face Serum,"Lightweight formula for daily skincare | Travel-friendly pack | Pleasant, mild feel",2,5.0,2
+433,Maisto,Maisto Remote Control Car (White),"Easy remote control for kids | Great gift for kids | Safe, child-friendly materials",1,5.0,1
+434,Mega Bloks,Mega Bloks Building Blocks Set (Silver),"Encourages creativity and building skills | Safe, child-friendly materials | Encourages learning through play",0,,0
+435,Milton,Milton Insulated Water Bottle (Green),"Leak-proof lid, easy to carry | Lightweight design | Suitable for beginners",0,,0
+436,Tupperware,Tupperware Storage Organizer (Navy Blue),"Keeps your space neat and tidy | Sturdy, long-lasting build | Easy to clean",0,,0
+437,Levi's,Levi's Leather Belt (Red),Strong buckle with a durable finish | Available in multiple sizes | Comfortable fit,0,,0
+438,Hasbro,Hasbro Collectible Action Figure (Silver),Detailed collectible figure | Encourages learning through play | Durable build,0,,0
+439,L'Oreal Paris,L'Oreal Paris Face Serum,Lightweight formula for daily skincare | Suitable for daily use | Travel-friendly pack,0,,0
+440,DK Eyewitness,DK Eyewitness Travel Guidebook,Maps and tips for planning your trip | Good print quality | Popular with readers,0,,0
+441,Cello,Cello Insulated Water Bottle (Red),"Leak-proof lid, easy to carry | Built for regular training | Lightweight design",0,,1
+442,Figaro,Figaro Extra Virgin Olive Oil,Cold-pressed oil for cooking and salads | No added artificial colours | Good for the whole family,0,,0
+443,Borosil,Borosil Insulated Water Bottle (Blue),"Leak-proof lid, easy to carry | Lightweight design | Built for regular training",1,4.0,5
+444,Netgear,Netgear Dual-Band Wi-Fi Router (Green),"Dual-band Wi-Fi for streaming and gaming | Modern, sleek look | Comes with user manual",0,,0
+445,Penguin Random House,Penguin Random House Inspiring Biography Book,"True life story, engaging to read | Good print quality | Easy to carry",3,4.0,3
+446,Wildcraft,Wildcraft Camping Tent for Outdoors (Black),"Easy to set up, water-resistant | Suitable for beginners | Built for regular training",1,5.0,2
+447,Cetaphil,Cetaphil Moisturizing Cream,"Keeps skin soft and hydrated | Pleasant, mild feel | Suitable for daily use",0,,0
+448,Syska,Syska LED Table Lamp (Navy Blue),Energy-saving LED light | Space-saving design | Easy to clean,0,,0
+449,Decathlon,Decathlon Dumbbell Set for Home Workout (Navy Blue),Durable build for home workouts | Durable and easy to carry | Suitable for beginners,1,3.0,1
+450,Maisto,Maisto Remote Control Car (Black),Easy remote control for kids | Durable build | Great gift for kids,0,,0
+451,Oakley,Oakley UV Protection Sunglasses (Green),UV protection lenses | Comfortable fit | Easy to wash and maintain,0,,0
+452,OnePlus,OnePlus True Wireless Earbuds (Red),"True wireless design with charging case | Compact, travel-friendly design | Comes with user manual",0,,1
+453,MAC,MAC Matte Lipstick,"Smooth, long-lasting colour | Pleasant, mild feel | Dermatologically tested",0,,0
+454,Lonely Planet,Lonely Planet Travel Guidebook,Maps and tips for planning your trip | Great for gifting | Good print quality,0,,0
+455,Lonely Planet,Lonely Planet Travel Guidebook,Maps and tips for planning your trip | Great for gifting | Easy to carry,0,,0
+456,Tupperware,Tupperware Insulated Water Bottle (White),"Leak-proof lid, easy to carry | Lightweight design | Durable and easy to carry",0,,0
+457,Philips,Philips Razor for Men,"Smooth, close shave | Suitable for daily use | Dermatologically tested",0,,2
+458,Caprese,Caprese Women's Handbag (White),Spacious interior with secure zip | Stylish everyday design | Easy to wash and maintain,0,,0
+459,Calvin Klein,Calvin Klein Eau de Parfum Perfume,Fresh long-lasting fragrance | Travel-friendly pack | Suitable for daily use,1,5.0,3
+460,Fastrack,Fastrack UV Protection Sunglasses (Blue),UV protection lenses | Available in multiple sizes | Stylish everyday design,0,,0
+461,Funskool,Funskool Family Board Game (Silver),Fun for family game night | Durable build | Encourages learning through play,0,,0
+462,Adidas,Adidas Sports Cap (Green),Adjustable fit and lightweight fabric | Available in multiple sizes | Stylish everyday design,0,,0
+463,LG,LG Full HD LED Monitor (Green),"Full HD display with wide viewing angle | Compact, travel-friendly design | Comes with user manual",0,,0
+464,Logitech,Logitech Full HD Webcam with Microphone (Blue),"Full HD video for online classes and calls | Modern, sleek look | Compact, travel-friendly design",0,,0
+465,Sony,Sony Wireless Bluetooth Headphones with Mic (White),Bluetooth wireless connection with built-in microphone | Easy to set up and use | Comes with user manual,0,,1
+466,Dell,Dell Wireless Keyboard (Red),"Comfortable, quiet keys for daily typing | Comes with user manual | Easy to set up and use",0,,0
+467,Adidas,Adidas Running Shoes (Blue),Lightweight with good grip | Durable and easy to carry | Lightweight design,53,4.2,98
+468,Corelle,Corelle Ceramic Tea Set,Elegant set for serving tea | Good for the whole family | Sealed pack for freshness,0,,0
+469,Blue Tokai,Blue Tokai Roasted Coffee Beans,"Freshly roasted, rich aroma | Store in a cool, dry place | Sealed pack for freshness",0,,1
+470,Lonely Planet,Lonely Planet Travel Guidebook,Maps and tips for planning your trip | Great for gifting | Easy to carry,0,,0
+471,Funko,Funko Collectible Action Figure (White),Detailed collectible figure | Durable build | Great gift for kids,0,,0
+472,Ray-Ban,Ray-Ban UV Protection Sunglasses (White),UV protection lenses | Comfortable fit | Easy to wash and maintain,0,,0
+473,Adidas,Adidas Sports Cap (White),Adjustable fit and lightweight fabric | Easy to wash and maintain | Stylish everyday design,33,4.0,57
+474,Razer,Razer Full HD Webcam with Microphone (White),"Full HD video for online classes and calls | Compact, travel-friendly design | Comes with user manual",0,,0
+475,Nature Valley,Nature Valley Healthy Snack Pack,"Tasty, ready-to-eat snacks | Sealed pack for freshness | No added artificial colours",0,,0
+476,Philips,Philips Mixer Blender (Navy Blue),Powerful motor for smoothies and chutneys | Designed for daily home use | Easy to clean,0,,1
+477,Penguin Random House,Penguin Random House Bestselling Fiction Novel (Paperback),"Paperback edition, easy to read | Popular with readers | Great for gifting",1,5.0,1
+478,Archies,Archies Ruled Notebook Journal,Ruled pages for notes and daily writing | Good print quality | Great for gifting,3,4.7,5
+479,Coleman,Coleman Camping Tent for Outdoors (Green),"Easy to set up, water-resistant | Built for regular training | Lightweight design",3,3.7,3
+480,Inalsa,Inalsa Digital Air Fryer (Navy Blue),"Cooks with little or no oil | Sturdy, long-lasting build | Easy to clean",0,,0
+481,Head & Shoulders,Head & Shoulders Daily Care Shampoo,Gentle cleansing for everyday use | Travel-friendly pack | Suitable for daily use,3,4.3,3
+482,Pantene,Pantene Daily Care Shampoo,"Gentle cleansing for everyday use | Pleasant, mild feel | Dermatologically tested",0,,0
+483,Archies,Archies Ruled Notebook Journal,Ruled pages for notes and daily writing | Popular with readers | Good print quality,1,5.0,1
+484,Bloomsbury,Bloomsbury Bestselling Fiction Novel (Paperback),"Paperback edition, easy to read | Easy to carry | Good print quality",0,,0
+485,DK,DK Home Cooking Cookbook,Step-by-step recipes for home cooks | Popular with readers | Easy to carry,0,,3
+486,Anker,Anker Fast Charger Adapter (White),"Fast charging with overheat protection | Comes with user manual | Compact, travel-friendly design",0,,0
+487,Moleskine,Moleskine Ruled Notebook Journal,Ruled pages for notes and daily writing | Easy to carry | Great for gifting,0,,0
+488,Moleskine,Moleskine Ruled Notebook Journal,Ruled pages for notes and daily writing | Easy to carry | Good print quality,0,,0
+489,Figaro,Figaro Extra Virgin Olive Oil,"Cold-pressed oil for cooking and salads | Store in a cool, dry place | Good for the whole family",0,,1
+490,boAt,boAt Wireless Bluetooth Headphones with Mic (Red),"Bluetooth wireless connection with built-in microphone | Compact, travel-friendly design | Easy to set up and use",2,4.5,5
+491,Classmate,Classmate Ruled Notebook Journal,Ruled pages for notes and daily writing | Popular with readers | Great for gifting,0,,1
+492,Adidas,Adidas Anti-Slip Yoga Mat (Silver),Anti-slip surface with good cushioning | Durable and easy to carry | Lightweight design,0,,0
+493,Penguin Random House,Penguin Random House Home Cooking Cookbook,Step-by-step recipes for home cooks | Easy to carry | Popular with readers,0,,0
+494,Nespresso,Nespresso Coffee Maker Machine (Red),"Brews fresh coffee in minutes | Sturdy, long-lasting build | Space-saving design",0,,0
+495,Calvin Klein,Calvin Klein Eau de Parfum Perfume,"Fresh long-lasting fragrance | Dermatologically tested | Pleasant, mild feel",0,,0
+496,Logitech,Logitech Full HD Webcam with Microphone (Blue),"Full HD video for online classes and calls | Modern, sleek look | Comes with user manual",1,4.0,1
+497,Penguin Random House,Penguin Random House Bestselling Fiction Novel (Paperback),"Paperback edition, easy to read | Great for gifting | Good print quality",0,,2
+498,Hot Wheels,Hot Wheels Remote Control Car (Grey),Easy remote control for kids | Encourages learning through play | Great gift for kids,2,3.5,6
+499,Hidesign,Hidesign Leather Belt (Navy Blue),Strong buckle with a durable finish | Easy to wash and maintain | Stylish everyday design,0,,0
+500,Wiley,Wiley College Textbook,Clear explanations with practice questions | Easy to carry | Great for gifting,1,2.0,1
+501,Kellogg's,Kellogg's Healthy Snack Pack,"Tasty, ready-to-eat snacks | Good for the whole family | Store in a cool, dry place",0,,0
+502,Schick,Schick Razor for Men,"Smooth, close shave | Travel-friendly pack | Dermatologically tested",0,,0
+503,Bloomsbury,Bloomsbury Bestselling Fiction Novel (Paperback),"Paperback edition, easy to read | Good print quality | Great for gifting",0,,0
+504,Philips,Philips Digital Air Fryer (Silver),Cooks with little or no oil | Space-saving design | Easy to clean,0,,0
+505,Sennheiser,Sennheiser Wireless Bluetooth Headphones with Mic (Navy Blue),"Bluetooth wireless connection with built-in microphone | Comes with user manual | Compact, travel-friendly design",0,,1
+506,Catch,Catch Ground Spice Mix,Adds authentic flavour to dishes | Good for the whole family | No added artificial colours,1,5.0,2
+507,Everest,Everest Ground Spice Mix,"Adds authentic flavour to dishes | No added artificial colours | Store in a cool, dry place",0,,0
+508,Hot Wheels,Hot Wheels Remote Control Car (Red),"Easy remote control for kids | Safe, child-friendly materials | Encourages learning through play",0,,0
+509,Puma,Puma Sports Cap (Silver),Adjustable fit and lightweight fabric | Easy to wash and maintain | Stylish everyday design,0,,0
+510,Pearson,Pearson College Textbook,Clear explanations with practice questions | Easy to carry | Good print quality,0,,1
+511,TRESemme,TRESemme Daily Care Shampoo,"Gentle cleansing for everyday use | Pleasant, mild feel | Travel-friendly pack",1,3.0,1
+512,Reebok,Reebok Dumbbell Set for Home Workout (White),Durable build for home workouts | Built for regular training | Suitable for beginners,0,,0
+513,Nike,Nike Laptop Backpack (Silver),Padded compartment fits a laptop | Comfortable fit | Easy to wash and maintain,0,,0
+514,Hidesign,Hidesign Women's Handbag (Silver),Spacious interior with secure zip | Stylish everyday design | Easy to wash and maintain,0,,0
+515,Hawkins,Hawkins Non-Stick Cookware Set (Blue),"Non-stick coating, easy to clean | Space-saving design | Designed for daily home use",0,,0
+516,Kore,Kore Dumbbell Set for Home Workout (Blue),Durable build for home workouts | Built for regular training | Suitable for beginners,0,,0
+517,Bombay Dyeing,Bombay Dyeing Cotton Bedsheet Set (Red),"Soft cotton that keeps its colour after washes | Space-saving design | Sturdy, long-lasting build",4,4.5,6
+518,24 Mantra Organic,24 Mantra Organic Healthy Snack Pack,"Tasty, ready-to-eat snacks | Sealed pack for freshness | Good for the whole family",3,4.7,4
+519,Prestige,Prestige Mixer Blender (Green),Powerful motor for smoothies and chutneys | Designed for daily home use | Easy to clean,0,,0
+520,TRESemme,TRESemme Daily Care Shampoo,Gentle cleansing for everyday use | Dermatologically tested | Suitable for daily use,1,3.0,2
+521,DK Eyewitness,DK Eyewitness Travel Guidebook,Maps and tips for planning your trip | Good print quality | Popular with readers,0,,0
+522,Figaro,Figaro Extra Virgin Olive Oil,Cold-pressed oil for cooking and salads | Sealed pack for freshness | No added artificial colours,0,,0
+523,Catch,Catch Ground Spice Mix,Adds authentic flavour to dishes | Sealed pack for freshness | Good for the whole family,17,3.8,34
+524,Hasbro,Hasbro Collectible Action Figure (Black),"Detailed collectible figure | Safe, child-friendly materials | Durable build",0,,0
+525,American Tourister,American Tourister Laptop Backpack (Green),Padded compartment fits a laptop | Comfortable fit | Stylish everyday design,0,,0
+526,Pigeon,Pigeon Mixer Blender (Red),Powerful motor for smoothies and chutneys | Space-saving design | Designed for daily home use,0,,0
+527,Lakme,Lakme Moisturizing Cream,"Keeps skin soft and hydrated | Travel-friendly pack | Pleasant, mild feel",1,5.0,1
+528,Everest,Everest Ground Spice Mix,Adds authentic flavour to dishes | Good for the whole family | Sealed pack for freshness,0,,0
+529,Bertolli,Bertolli Extra Virgin Olive Oil,Cold-pressed oil for cooking and salads | Sealed pack for freshness | Good for the whole family,0,,2
+530,Havells,Havells LED Table Lamp (White),"Energy-saving LED light | Sturdy, long-lasting build | Designed for daily home use",0,,0
+531,Adidas,Adidas Sports Cap (Red),Adjustable fit and lightweight fabric | Stylish everyday design | Available in multiple sizes,0,,0
+532,Bombay Dyeing,Bombay Dyeing Cotton Bedsheet Set (Navy Blue),"Soft cotton that keeps its colour after washes | Sturdy, long-lasting build | Easy to clean",0,,2
+533,Nilkamal,Nilkamal Storage Organizer (Red),Keeps your space neat and tidy | Designed for daily home use | Space-saving design,0,,0
+534,LEGO,LEGO Building Blocks Set (Green),"Encourages creativity and building skills | Great gift for kids | Safe, child-friendly materials",0,,0
+535,Bajaj,Bajaj Mixer Blender (White),"Powerful motor for smoothies and chutneys | Easy to clean | Sturdy, long-lasting build",0,,0
+536,HarperCollins,HarperCollins Bestselling Fiction Novel (Paperback),"Paperback edition, easy to read | Good print quality | Easy to carry",0,,0
+537,Philips,Philips Razor for Men,"Smooth, close shave | Dermatologically tested | Suitable for daily use",5,3.0,7
+538,Cello,Cello Ceramic Tea Set,"Elegant set for serving tea | Store in a cool, dry place | Sealed pack for freshness",0,,0
+539,Vincent Chase,Vincent Chase UV Protection Sunglasses (White),UV protection lenses | Stylish everyday design | Available in multiple sizes,1,4.0,1
+540,Decathlon,Decathlon Camping Tent for Outdoors (White),"Easy to set up, water-resistant | Lightweight design | Built for regular training",2,2.5,3
+541,Clementoni,Clementoni Jigsaw Puzzle (White),"Builds focus and patience | Safe, child-friendly materials | Encourages learning through play",0,,0
+542,HarperCollins,HarperCollins Poetry Collection Book,A curated collection of poems | Easy to carry | Popular with readers,0,,0
+543,JBL,JBL Wireless Bluetooth Headphones with Mic (Navy Blue),"Bluetooth wireless connection with built-in microphone | Compact, travel-friendly design | Easy to set up and use",0,,0
+544,Revlon,Revlon Matte Lipstick,"Smooth, long-lasting colour | Dermatologically tested | Suitable for daily use",0,,0
+545,24 Mantra Organic,24 Mantra Organic Healthy Snack Pack,"Tasty, ready-to-eat snacks | No added artificial colours | Sealed pack for freshness",0,,0
+546,Philips,Philips Coffee Maker Machine (White),"Brews fresh coffee in minutes | Sturdy, long-lasting build | Space-saving design",0,,0
+547,Bloomsbury,Bloomsbury Bestselling Fiction Novel (Paperback),"Paperback edition, easy to read | Good print quality | Popular with readers",0,,0
+548,Funskool,Funskool Remote Control Car (White),"Easy remote control for kids | Safe, child-friendly materials | Durable build",0,,0
+549,Dyson,Dyson Hair Dryer,Multiple heat settings for quick drying | Dermatologically tested | Suitable for daily use,3,4.3,6
+550,Quaker,Quaker Oats Granola Bars,"Oats-based snack for busy days | Store in a cool, dry place | No added artificial colours",1,5.0,2
+551,Pantene,Pantene Daily Care Shampoo,Gentle cleansing for everyday use | Travel-friendly pack | Dermatologically tested,0,,0
+552,Nike,Nike Running Shoes (Black),Lightweight with good grip | Lightweight design | Built for regular training,1,5.0,1
+553,TP-Link,TP-Link Dual-Band Wi-Fi Router (Green),"Dual-band Wi-Fi for streaming and gaming | Comes with user manual | Modern, sleek look",0,,1
+554,DK,DK Home Cooking Cookbook,Step-by-step recipes for home cooks | Great for gifting | Popular with readers,0,,0
+555,Boldfit,Boldfit Anti-Slip Yoga Mat (Grey),Anti-slip surface with good cushioning | Lightweight design | Built for regular training,4,4.5,5
+556,Wipro,Wipro LED Table Lamp (Grey),"Energy-saving LED light | Easy to clean | Sturdy, long-lasting build",0,,0
+557,Revlon,Revlon Matte Lipstick,"Smooth, long-lasting colour | Suitable for daily use | Travel-friendly pack",50,4.2,93
+558,DK Eyewitness,DK Eyewitness Travel Guidebook,Maps and tips for planning your trip | Great for gifting | Easy to carry,69,3.9,112
+559,Ravensburger,Ravensburger Jigsaw Puzzle (Blue),Builds focus and patience | Encourages learning through play | Great gift for kids,0,,0
+560,Allen Solly,Allen Solly Soft Winter Scarf (Navy Blue),Soft fabric that is easy to style | Stylish everyday design | Easy to wash and maintain,0,,0
+561,Corelle,Corelle Ceramic Tea Set,"Elegant set for serving tea | Store in a cool, dry place | Sealed pack for freshness",0,,0
+562,HarperCollins,HarperCollins Poetry Collection Book,A curated collection of poems | Easy to carry | Good print quality,33,3.8,70
+563,Apple,Apple Smartwatch with Fitness Tracking (Blue),"Tracks steps, heart rate and sleep | Easy to set up and use | Modern, sleek look",1,2.0,1
+564,Penguin Random House,Penguin Random House Inspiring Biography Book,"True life story, engaging to read | Good print quality | Easy to carry",0,,1
+565,Microsoft,Microsoft Full HD Webcam with Microphone (Green),"Full HD video for online classes and calls | Compact, travel-friendly design | Modern, sleek look",0,,0
+566,Tata Sampann,Tata Sampann Ground Spice Mix,Adds authentic flavour to dishes | No added artificial colours | Good for the whole family,0,,0
+567,Panasonic,Panasonic Hair Dryer,"Multiple heat settings for quick drying | Dermatologically tested | Pleasant, mild feel",3,4.7,6
+568,Classmate,Classmate Ruled Notebook Journal,Ruled pages for notes and daily writing | Popular with readers | Easy to carry,1,4.0,1
+569,L'Oreal Paris,L'Oreal Paris Matte Lipstick,"Smooth, long-lasting colour | Dermatologically tested | Travel-friendly pack",0,,1
+570,Decathlon,Decathlon Camping Tent for Outdoors (Blue),"Easy to set up, water-resistant | Built for regular training | Suitable for beginners",0,,1
+571,Adidas,Adidas Casual Sneakers (Silver),Cushioned sole for all-day comfort | Easy to wash and maintain | Stylish everyday design,0,,0
+572,HarperCollins,HarperCollins Bestselling Fiction Novel (Paperback),"Paperback edition, easy to read | Great for gifting | Easy to carry",1,5.0,3
+573,Yoga Bar,Yoga Bar Oats Granola Bars,"Oats-based snack for busy days | Store in a cool, dry place | Sealed pack for freshness",0,,0
+574,Schick,Schick Razor for Men,"Smooth, close shave | Dermatologically tested | Pleasant, mild feel",0,,1
+575,Organic India,Organic India Healthy Snack Pack,"Tasty, ready-to-eat snacks | Store in a cool, dry place | Sealed pack for freshness",0,,0
+576,Lakme,Lakme Moisturizing Cream,Keeps skin soft and hydrated | Dermatologically tested | Travel-friendly pack,0,,0
+577,Hot Wheels,Hot Wheels Remote Control Car (Grey),Easy remote control for kids | Durable build | Great gift for kids,0,,0
+578,Decathlon,Decathlon Anti-Slip Yoga Mat (Navy Blue),Anti-slip surface with good cushioning | Lightweight design | Durable and easy to carry,1,5.0,1
+579,Decathlon,Decathlon Cycling Helmet (Silver),Lightweight shell with adjustable fit | Built for regular training | Lightweight design,2,3.0,2
+580,DK Eyewitness,DK Eyewitness Travel Guidebook,Maps and tips for planning your trip | Good print quality | Popular with readers,0,,0
+581,Sony,Sony Wireless Bluetooth Headphones with Mic (Black),"Bluetooth wireless connection with built-in microphone | Easy to set up and use | Compact, travel-friendly design",0,,0
+582,Maybelline New York,Maybelline New York Matte Lipstick,"Smooth, long-lasting colour | Pleasant, mild feel | Dermatologically tested",1,4.0,2
+583,Vincent Chase,Vincent Chase UV Protection Sunglasses (White),UV protection lenses | Comfortable fit | Available in multiple sizes,0,,0
+584,DK Eyewitness,DK Eyewitness Travel Guidebook,Maps and tips for planning your trip | Good print quality | Popular with readers,0,,0
+585,Borosil,Borosil Insulated Water Bottle (Black),"Leak-proof lid, easy to carry | Built for regular training | Lightweight design",2,4.0,3
+586,DK,DK Home Cooking Cookbook,Step-by-step recipes for home cooks | Easy to carry | Good print quality,0,,0
+587,Bandai,Bandai Collectible Action Figure (Silver),"Detailed collectible figure | Durable build | Safe, child-friendly materials",1,5.0,1
+588,HarperCollins,HarperCollins Poetry Collection Book,A curated collection of poems | Good print quality | Popular with readers,0,,0
+589,Wonderchef,Wonderchef Non-Stick Cookware Set (Grey),"Non-stick coating, easy to clean | Sturdy, long-lasting build | Designed for daily home use",9,3.7,15
+590,Head & Shoulders,Head & Shoulders Daily Care Shampoo,"Gentle cleansing for everyday use | Pleasant, mild feel | Suitable for daily use",0,,0
+591,Maisto,Maisto Remote Control Car (Black),"Easy remote control for kids | Encourages learning through play | Safe, child-friendly materials",0,,0
+592,Nike,Nike Sports Cap (White),Adjustable fit and lightweight fabric | Stylish everyday design | Available in multiple sizes,0,,0
+593,MAC,MAC Matte Lipstick,"Smooth, long-lasting colour | Travel-friendly pack | Pleasant, mild feel",0,,1
+594,Fabindia,Fabindia Soft Winter Scarf (Red),Soft fabric that is easy to style | Easy to wash and maintain | Available in multiple sizes,0,,0
+595,Mattel,Mattel Collectible Action Figure (Navy Blue),Detailed collectible figure | Great gift for kids | Encourages learning through play,1,2.0,2
+596,Bajaj,Bajaj Mixer Blender (Green),"Powerful motor for smoothies and chutneys | Sturdy, long-lasting build | Designed for daily home use",0,,0
+597,Ravensburger,Ravensburger Family Board Game (Green),Fun for family game night | Encourages learning through play | Durable build,0,,0
+598,Hasbro,Hasbro Collectible Action Figure (Black),Detailed collectible figure | Encourages learning through play | Great gift for kids,0,,1
+599,Funskool,Funskool Family Board Game (Silver),Fun for family game night | Encourages learning through play | Durable build,0,,0
+600,Sony,Sony Portable Bluetooth Speaker (White),Portable design with wireless Bluetooth audio | Comes with user manual | Easy to set up and use,0,,0
+601,Philips,Philips Vacuum Cleaner for Home (White),"Strong suction for dust and pet hair | Space-saving design | Sturdy, long-lasting build",1,4.0,3
+602,Borosil,Borosil Insulated Water Bottle (Blue),"Leak-proof lid, easy to carry | Built for regular training | Lightweight design",2,4.5,3
+603,Bose,Bose Wireless Bluetooth Headphones with Mic (Black),"Bluetooth wireless connection with built-in microphone | Compact, travel-friendly design | Easy to set up and use",0,,0
+604,Schick,Schick Razor for Men,"Smooth, close shave | Travel-friendly pack | Dermatologically tested",2,4.0,2
+605,Cello,Cello Insulated Water Bottle (Blue),"Leak-proof lid, easy to carry | Built for regular training | Lightweight design",3,4.3,4
+606,Logitech,Logitech Wireless Keyboard (Green),"Comfortable, quiet keys for daily typing | Comes with user manual | Compact, travel-friendly design",0,,0
+607,Milton,Milton Insulated Water Bottle (Silver),"Leak-proof lid, easy to carry | Durable and easy to carry | Suitable for beginners",0,,1
+608,Reebok,Reebok Dumbbell Set for Home Workout (White),Durable build for home workouts | Durable and easy to carry | Lightweight design,0,,0
+609,Wildcraft,Wildcraft Laptop Backpack (Silver),Padded compartment fits a laptop | Comfortable fit | Stylish everyday design,0,,1
+610,boAt,boAt Portable Bluetooth Speaker (Grey),"Portable design with wireless Bluetooth audio | Modern, sleek look | Compact, travel-friendly design",0,,0
+611,Columbia,Columbia Men's Casual Jacket (Navy Blue),"Warm, durable fabric for daily wear | Stylish everyday design | Easy to wash and maintain",0,,0
+612,Realme,Realme Power Bank for Mobile Phones (Green),"Charge your phone on the go | Compact, travel-friendly design | Easy to set up and use",0,,0
+613,Philips,Philips Coffee Maker Machine (White),"Brews fresh coffee in minutes | Sturdy, long-lasting build | Space-saving design",0,,0
+614,Cello,Cello Storage Organizer (Green),Keeps your space neat and tidy | Space-saving design | Easy to clean,0,,0
+615,JBL,JBL Wireless Bluetooth Headphones with Mic (Navy Blue),"Bluetooth wireless connection with built-in microphone | Compact, travel-friendly design | Comes with user manual",1,5.0,1
+616,L'Oreal Paris,L'Oreal Paris Matte Lipstick,"Smooth, long-lasting colour | Suitable for daily use | Travel-friendly pack",0,,0
+617,Del Monte,Del Monte Extra Virgin Olive Oil,Cold-pressed oil for cooking and salads | Sealed pack for freshness | No added artificial colours,0,,0
+618,Funskool,Funskool Soft Plush Toy (Blue),"Soft, huggable and safe for children | Great gift for kids | Durable build",0,,0
+619,Funskool,Funskool Remote Control Car (White),"Easy remote control for kids | Encourages learning through play | Safe, child-friendly materials",0,,0
+620,Oxford University Press,Oxford University Press College Textbook,Clear explanations with practice questions | Easy to carry | Popular with readers,0,,1
+621,Adidas,Adidas Anti-Slip Yoga Mat (White),Anti-slip surface with good cushioning | Suitable for beginners | Durable and easy to carry,7,4.0,10
+622,Borosil,Borosil Coffee Maker Machine (White),Brews fresh coffee in minutes | Designed for daily home use | Easy to clean,0,,0
+623,Mattel,Mattel Family Board Game (Navy Blue),"Fun for family game night | Safe, child-friendly materials | Encourages learning through play",0,,0
+624,Pigeon,Pigeon Digital Air Fryer (White),Cooks with little or no oil | Space-saving design | Easy to clean,0,,0
+625,Penguin Random House,Penguin Random House Poetry Collection Book,A curated collection of poems | Popular with readers | Great for gifting,1,4.0,1
+626,Nespresso,Nespresso Coffee Maker Machine (Navy Blue),Brews fresh coffee in minutes | Designed for daily home use | Easy to clean,0,,0
+627,Oxford University Press,Oxford University Press College Textbook,Clear explanations with practice questions | Good print quality | Easy to carry,0,,0
+628,Raymond,Raymond Soft Winter Scarf (Black),Soft fabric that is easy to style | Stylish everyday design | Comfortable fit,0,,0
+629,Giro,Giro Cycling Helmet (Green),Lightweight shell with adjustable fit | Lightweight design | Suitable for beginners,0,,0
+630,Lonely Planet,Lonely Planet Travel Guidebook,Maps and tips for planning your trip | Easy to carry | Great for gifting,0,,0
+631,Sennheiser,Sennheiser Wireless Bluetooth Headphones with Mic (Blue),"Bluetooth wireless connection with built-in microphone | Modern, sleek look | Comes with user manual",0,,0
+632,Nature Valley,Nature Valley Healthy Snack Pack,"Tasty, ready-to-eat snacks | Sealed pack for freshness | No added artificial colours",1,4.0,1
+633,Boldfit,Boldfit Dumbbell Set for Home Workout (Green),Durable build for home workouts | Built for regular training | Durable and easy to carry,3,4.0,4
+634,Tommy Hilfiger,Tommy Hilfiger Leather Belt (White),Strong buckle with a durable finish | Stylish everyday design | Comfortable fit,0,,0
+635,Tupperware,Tupperware Storage Organizer (Green),"Keeps your space neat and tidy | Designed for daily home use | Sturdy, long-lasting build",0,,0
+636,JBL,JBL Portable Bluetooth Speaker (Blue),"Portable design with wireless Bluetooth audio | Comes with user manual | Compact, travel-friendly design",0,,0
+637,Razer,Razer Full HD Webcam with Microphone (Blue),"Full HD video for online classes and calls | Easy to set up and use | Compact, travel-friendly design",1,5.0,1
+638,Ray-Ban,Ray-Ban UV Protection Sunglasses (Navy Blue),UV protection lenses | Available in multiple sizes | Easy to wash and maintain,1,5.0,1
+639,Revlon,Revlon Matte Lipstick,"Smooth, long-lasting colour | Travel-friendly pack | Pleasant, mild feel",0,,0
+640,Reebok,Reebok Anti-Slip Yoga Mat (Silver),Anti-slip surface with good cushioning | Durable and easy to carry | Lightweight design,0,,0
+641,Mattel,Mattel Family Board Game (Navy Blue),"Fun for family game night | Safe, child-friendly materials | Great gift for kids",1,2.0,3
+642,Borges,Borges Extra Virgin Olive Oil,"Cold-pressed oil for cooking and salads | Sealed pack for freshness | Store in a cool, dry place",0,,0
+643,Samsung,Samsung Fast Charger Adapter (Red),"Fast charging with overheat protection | Modern, sleek look | Easy to set up and use",92,4.0,180
+644,Wiley,Wiley College Textbook,Clear explanations with practice questions | Great for gifting | Easy to carry,2,5.0,2
+645,Decathlon,Decathlon Dumbbell Set for Home Workout (Blue),Durable build for home workouts | Built for regular training | Durable and easy to carry,1,4.0,1
+646,Pantene,Pantene Daily Care Shampoo,Gentle cleansing for everyday use | Suitable for daily use | Travel-friendly pack,1,3.0,1
+647,Reebok,Reebok Dumbbell Set for Home Workout (Black),Durable build for home workouts | Lightweight design | Durable and easy to carry,0,,0
+648,Faber & Faber,Faber & Faber Poetry Collection Book,A curated collection of poems | Easy to carry | Good print quality,0,,0
+649,Disney,Disney Soft Plush Toy (Green),"Soft, huggable and safe for children | Encourages learning through play | Safe, child-friendly materials",0,,1
+650,Adidas,Adidas Anti-Slip Yoga Mat (Silver),Anti-slip surface with good cushioning | Durable and easy to carry | Suitable for beginners,0,,4
+651,Kellogg's,Kellogg's Healthy Snack Pack,"Tasty, ready-to-eat snacks | Sealed pack for freshness | Store in a cool, dry place",1,5.0,1
+652,HarperCollins,HarperCollins Home Cooking Cookbook,Step-by-step recipes for home cooks | Easy to carry | Great for gifting,0,,2
+653,McGraw Hill,McGraw Hill College Textbook,Clear explanations with practice questions | Good print quality | Great for gifting,0,,0
+654,H&M,H&M Cotton Round Neck T-Shirt (White),Breathable cotton fabric | Available in multiple sizes | Comfortable fit,0,,0
+655,McGraw Hill,McGraw Hill College Textbook,Clear explanations with practice questions | Good print quality | Great for gifting,0,,0
+656,Decathlon,Decathlon Cycling Helmet (Black),Lightweight shell with adjustable fit | Built for regular training | Suitable for beginners,0,,0
+657,Braun,Braun Razor for Men,"Smooth, close shave | Dermatologically tested | Travel-friendly pack",10,3.5,16
+658,Mi,Mi Power Bank for Mobile Phones (Grey),Charge your phone on the go | Comes with user manual | Easy to set up and use,0,,0
+659,Nature Valley,Nature Valley Healthy Snack Pack,"Tasty, ready-to-eat snacks | Sealed pack for freshness | Store in a cool, dry place",0,,0
+660,HarperCollins,HarperCollins Bestselling Fiction Novel (Paperback),"Paperback edition, easy to read | Popular with readers | Great for gifting",0,,0
+661,Funskool,Funskool Remote Control Car (Black),"Easy remote control for kids | Safe, child-friendly materials | Great gift for kids",0,,0
+662,Funskool,Funskool Family Board Game (Grey),"Fun for family game night | Great gift for kids | Safe, child-friendly materials",3,4.0,6
+663,Skybags,Skybags Laptop Backpack (Silver),Padded compartment fits a laptop | Comfortable fit | Available in multiple sizes,0,,0
+664,Lakme,Lakme Moisturizing Cream,Keeps skin soft and hydrated | Travel-friendly pack | Suitable for daily use,18,3.9,43
+665,Lonely Planet,Lonely Planet Travel Guidebook,Maps and tips for planning your trip | Great for gifting | Easy to carry,3,4.0,6
+666,Hamleys,Hamleys Soft Plush Toy (Silver),"Soft, huggable and safe for children | Encourages learning through play | Great gift for kids",24,3.8,37
+667,Bertolli,Bertolli Extra Virgin Olive Oil,Cold-pressed oil for cooking and salads | No added artificial colours | Sealed pack for freshness,0,,0
+668,Logitech,Logitech Full HD Webcam with Microphone (Red),"Full HD video for online classes and calls | Compact, travel-friendly design | Modern, sleek look",0,,0
+669,Hamleys,Hamleys Soft Plush Toy (Silver),"Soft, huggable and safe for children | Durable build | Safe, child-friendly materials",0,,0
+670,Bloomsbury,Bloomsbury Inspiring Biography Book,"True life story, engaging to read | Good print quality | Popular with readers",4,4.5,6
+671,Faber & Faber,Faber & Faber Poetry Collection Book,A curated collection of poems | Good print quality | Great for gifting,0,,0
+672,HarperCollins,HarperCollins Poetry Collection Book,A curated collection of poems | Easy to carry | Popular with readers,0,,0
+673,Hidesign,Hidesign Women's Handbag (Silver),Spacious interior with secure zip | Stylish everyday design | Comfortable fit,0,,0
+674,Kellogg's,Kellogg's Oats Granola Bars,"Oats-based snack for busy days | Store in a cool, dry place | No added artificial colours",0,,0
+675,HarperCollins,HarperCollins Home Cooking Cookbook,Step-by-step recipes for home cooks | Great for gifting | Good print quality,1,5.0,2
+676,Gillette,Gillette Razor for Men,"Smooth, close shave | Suitable for daily use | Dermatologically tested",0,,0
+677,Mega Bloks,Mega Bloks Building Blocks Set (White),"Encourages creativity and building skills | Safe, child-friendly materials | Durable build",0,,1
+678,HP,HP Wireless Keyboard (Green),"Comfortable, quiet keys for daily typing | Compact, travel-friendly design | Easy to set up and use",0,,0
+679,Kellogg's,Kellogg's Oats Granola Bars,Oats-based snack for busy days | Good for the whole family | No added artificial colours,1,4.0,1
+680,Wiley,Wiley College Textbook,Clear explanations with practice questions | Good print quality | Easy to carry,3,4.7,5
+681,Hasbro,Hasbro Family Board Game (Green),"Fun for family game night | Safe, child-friendly materials | Great gift for kids",0,,0
+682,Havells,Havells Digital Air Fryer (Navy Blue),Cooks with little or no oil | Designed for daily home use | Space-saving design,0,,0
+683,L'Oreal Paris,L'Oreal Paris Daily Care Shampoo,"Gentle cleansing for everyday use | Travel-friendly pack | Pleasant, mild feel",2,4.5,4
+684,Penguin Random House,Penguin Random House Home Cooking Cookbook,Step-by-step recipes for home cooks | Easy to carry | Good print quality,33,4.1,63
+685,Lavazza,Lavazza Roasted Coffee Beans,"Freshly roasted, rich aroma | Store in a cool, dry place | Good for the whole family",0,,0
+686,Disney,Disney Soft Plush Toy (Silver),"Soft, huggable and safe for children | Great gift for kids | Durable build",0,,0
+687,MDH,MDH Ground Spice Mix,"Adds authentic flavour to dishes | Store in a cool, dry place | Sealed pack for freshness",0,,0
+688,Ravensburger,Ravensburger Family Board Game (Black),"Fun for family game night | Durable build | Safe, child-friendly materials",0,,0
+689,Razer,Razer Full HD Webcam with Microphone (White),Full HD video for online classes and calls | Easy to set up and use | Comes with user manual,1,5.0,2
+690,Mattel,Mattel Collectible Action Figure (Green),"Detailed collectible figure | Encourages learning through play | Safe, child-friendly materials",0,,0
+691,Havells,Havells LED Table Lamp (White),"Energy-saving LED light | Designed for daily home use | Sturdy, long-lasting build",0,,0
+692,Apple,Apple True Wireless Earbuds (Green),"True wireless design with charging case | Modern, sleek look | Easy to set up and use",0,,0
+693,Adidas,Adidas Anti-Slip Yoga Mat (Navy Blue),Anti-slip surface with good cushioning | Durable and easy to carry | Suitable for beginners,1,2.0,1
+694,Clementoni,Clementoni Jigsaw Puzzle (Silver),"Builds focus and patience | Great gift for kids | Safe, child-friendly materials",10,4.2,18
+695,Panasonic,Panasonic Hair Dryer,Multiple heat settings for quick drying | Travel-friendly pack | Dermatologically tested,1,4.0,1
+696,Philips,Philips Mixer Blender (Grey),Powerful motor for smoothies and chutneys | Easy to clean | Designed for daily home use,0,,0
+697,Minimalist,Minimalist Face Serum,"Lightweight formula for daily skincare | Pleasant, mild feel | Dermatologically tested",1,2.0,1
+698,Philips,Philips Vacuum Cleaner for Home (Navy Blue),Strong suction for dust and pet hair | Designed for daily home use | Easy to clean,102,4.2,194
+699,Nivea,Nivea Moisturizing Cream,"Keeps skin soft and hydrated | Pleasant, mild feel | Travel-friendly pack",3,3.0,4
+700,Puma,Puma Casual Sneakers (Blue),Cushioned sole for all-day comfort | Stylish everyday design | Available in multiple sizes,31,3.9,52
+701,Penguin Random House,Penguin Random House Poetry Collection Book,A curated collection of poems | Good print quality | Popular with readers,0,,0
+702,Borosil,Borosil Coffee Maker Machine (Black),Brews fresh coffee in minutes | Space-saving design | Easy to clean,0,,0
+703,McGraw Hill,McGraw Hill College Textbook,Clear explanations with practice questions | Easy to carry | Great for gifting,0,,0
+704,Axe,Axe Eau de Parfum Perfume,Fresh long-lasting fragrance | Travel-friendly pack | Suitable for daily use,0,,0
+705,Axe,Axe Eau de Parfum Perfume,Fresh long-lasting fragrance | Dermatologically tested | Suitable for daily use,1,5.0,1
+706,Hot Wheels,Hot Wheels Remote Control Car (Navy Blue),"Easy remote control for kids | Durable build | Safe, child-friendly materials",0,,0
+707,Marshall,Marshall Portable Bluetooth Speaker (White),"Portable design with wireless Bluetooth audio | Compact, travel-friendly design | Modern, sleek look",0,,0
+708,Dell,Dell Full HD LED Monitor (Grey),"Full HD display with wide viewing angle | Compact, travel-friendly design | Modern, sleek look",0,,0
+709,Disney,Disney Soft Plush Toy (Navy Blue),"Soft, huggable and safe for children | Encourages learning through play | Durable build",0,,0
+710,The Ordinary,The Ordinary Face Serum,Lightweight formula for daily skincare | Suitable for daily use | Dermatologically tested,1,4.0,1
+711,Logitech,Logitech Full HD Webcam with Microphone (White),"Full HD video for online classes and calls | Modern, sleek look | Compact, travel-friendly design",1,4.0,2
+712,Nike,Nike Cotton Round Neck T-Shirt (Black),Breathable cotton fabric | Stylish everyday design | Easy to wash and maintain,0,,0
+713,HP,HP Full HD Webcam with Microphone (Grey),"Full HD video for online classes and calls | Comes with user manual | Compact, travel-friendly design",1,4.0,1
+714,HP,HP Full HD Webcam with Microphone (Silver),"Full HD video for online classes and calls | Modern, sleek look | Compact, travel-friendly design",0,,0
+715,Nike,Nike Sports Cap (White),Adjustable fit and lightweight fabric | Comfortable fit | Available in multiple sizes,0,,0
+716,Wildcraft,Wildcraft Laptop Backpack (Grey),Padded compartment fits a laptop | Stylish everyday design | Comfortable fit,0,,0
+717,Organic India,Organic India Healthy Snack Pack,"Tasty, ready-to-eat snacks | Store in a cool, dry place | Sealed pack for freshness",3,4.7,7
+718,Fabindia,Fabindia Soft Winter Scarf (Green),Soft fabric that is easy to style | Comfortable fit | Stylish everyday design,0,,0
+719,Tata Sampann,Tata Sampann Ground Spice Mix,"Adds authentic flavour to dishes | Store in a cool, dry place | No added artificial colours",209,4.0,372
+720,Havells,Havells Digital Air Fryer (Silver),Cooks with little or no oil | Space-saving design | Easy to clean,0,,0
+721,Nespresso,Nespresso Coffee Maker Machine (Red),"Brews fresh coffee in minutes | Sturdy, long-lasting build | Designed for daily home use",0,,0
+722,Tefal,Tefal Non-Stick Cookware Set (Grey),"Non-stick coating, easy to clean | Designed for daily home use | Easy to clean",0,,0
+723,Samsung,Samsung Fast Charger Adapter (Green),"Fast charging with overheat protection | Modern, sleek look | Easy to set up and use",0,,0
+724,HarperCollins,HarperCollins Inspiring Biography Book,"True life story, engaging to read | Good print quality | Popular with readers",0,,0
+725,Borosil,Borosil Ceramic Tea Set,"Elegant set for serving tea | Store in a cool, dry place | Sealed pack for freshness",0,,0
+726,Penguin Random House,Penguin Random House Bestselling Fiction Novel (Paperback),"Paperback edition, easy to read | Great for gifting | Good print quality",0,,0
+727,Realme,Realme Power Bank for Mobile Phones (Black),"Charge your phone on the go | Compact, travel-friendly design | Modern, sleek look",2,3.0,2
+728,Ray-Ban,Ray-Ban UV Protection Sunglasses (Green),UV protection lenses | Stylish everyday design | Easy to wash and maintain,0,,0
+729,DK,DK Home Cooking Cookbook,Step-by-step recipes for home cooks | Good print quality | Easy to carry,0,,0
+730,TRESemme,TRESemme Daily Care Shampoo,Gentle cleansing for everyday use | Dermatologically tested | Suitable for daily use,1,5.0,1
+731,Fabindia,Fabindia Soft Winter Scarf (Red),Soft fabric that is easy to style | Easy to wash and maintain | Comfortable fit,0,,0
+732,Decathlon,Decathlon Anti-Slip Yoga Mat (Black),Anti-slip surface with good cushioning | Built for regular training | Durable and easy to carry,0,,0
+733,Lonely Planet,Lonely Planet Travel Guidebook,Maps and tips for planning your trip | Good print quality | Easy to carry,0,,0
+734,Nature Valley,Nature Valley Oats Granola Bars,"Oats-based snack for busy days | Store in a cool, dry place | Sealed pack for freshness",1,4.0,1
+735,Penguin Random House,Penguin Random House Poetry Collection Book,A curated collection of poems | Good print quality | Great for gifting,0,,0
+736,Levi's,Levi's Leather Belt (White),Strong buckle with a durable finish | Easy to wash and maintain | Stylish everyday design,0,,0
+737,Philips,Philips Hair Dryer,Multiple heat settings for quick drying | Suitable for daily use | Dermatologically tested,0,,2
+738,Kore,Kore Dumbbell Set for Home Workout (Red),Durable build for home workouts | Durable and easy to carry | Suitable for beginners,0,,1
+739,Morphy Richards,Morphy Richards Coffee Maker Machine (Silver),"Brews fresh coffee in minutes | Sturdy, long-lasting build | Space-saving design",0,,0
+740,Tommy Hilfiger,Tommy Hilfiger Leather Belt (Blue),Strong buckle with a durable finish | Available in multiple sizes | Easy to wash and maintain,0,,0
+741,Quaker,Quaker Oats Granola Bars,Oats-based snack for busy days | No added artificial colours | Sealed pack for freshness,82,4.1,160
+742,Dove,Dove Daily Care Shampoo,"Gentle cleansing for everyday use | Pleasant, mild feel | Suitable for daily use",0,,1
+743,Netgear,Netgear Dual-Band Wi-Fi Router (Red),"Dual-band Wi-Fi for streaming and gaming | Modern, sleek look | Easy to set up and use",0,,1
+744,Adidas,Adidas Cotton Round Neck T-Shirt (Silver),Breathable cotton fabric | Easy to wash and maintain | Comfortable fit,0,,0
+745,Milton,Milton Insulated Water Bottle (Green),"Leak-proof lid, easy to carry | Durable and easy to carry | Lightweight design",1,3.0,2
+746,Del Monte,Del Monte Extra Virgin Olive Oil,"Cold-pressed oil for cooking and salads | No added artificial colours | Store in a cool, dry place",0,,0
+747,Levi's,Levi's Cotton Round Neck T-Shirt (Black),Breathable cotton fabric | Easy to wash and maintain | Comfortable fit,1,4.0,1
+748,Prestige,Prestige Digital Air Fryer (Red),"Cooks with little or no oil | Sturdy, long-lasting build | Designed for daily home use",0,,0
+749,Nike,Nike Laptop Backpack (Blue),Padded compartment fits a laptop | Comfortable fit | Stylish everyday design,0,,0
+750,Spaces,Spaces Cotton Bedsheet Set (Red),"Soft cotton that keeps its colour after washes | Designed for daily home use | Sturdy, long-lasting build",0,,0
+751,Havells,Havells Mixer Blender (Silver),Powerful motor for smoothies and chutneys | Designed for daily home use | Easy to clean,0,,0
+752,Oakley,Oakley UV Protection Sunglasses (White),UV protection lenses | Stylish everyday design | Comfortable fit,0,,0
+753,Cello,Cello Storage Organizer (White),Keeps your space neat and tidy | Space-saving design | Easy to clean,0,,0
+754,Sony,Sony Portable Bluetooth Speaker (Grey),"Portable design with wireless Bluetooth audio | Compact, travel-friendly design | Comes with user manual",0,,0
+755,Moleskine,Moleskine Ruled Notebook Journal,Ruled pages for notes and daily writing | Great for gifting | Easy to carry,0,,0
+756,Hamleys,Hamleys Soft Plush Toy (Red),"Soft, huggable and safe for children | Durable build | Safe, child-friendly materials",1,5.0,1
+757,TP-Link,TP-Link Dual-Band Wi-Fi Router (Silver),"Dual-band Wi-Fi for streaming and gaming | Compact, travel-friendly design | Comes with user manual",0,,0
+758,Giro,Giro Cycling Helmet (Green),Lightweight shell with adjustable fit | Built for regular training | Suitable for beginners,4,3.8,6
+759,Funskool,Funskool Soft Plush Toy (Green),"Soft, huggable and safe for children | Encourages learning through play | Safe, child-friendly materials",0,,0
+760,Bandai,Bandai Collectible Action Figure (Blue),Detailed collectible figure | Durable build | Encourages learning through play,0,,0
+761,Tata Sampann,Tata Sampann Ground Spice Mix,"Adds authentic flavour to dishes | Good for the whole family | Store in a cool, dry place",0,,0
+762,Levi's,Levi's Men's Casual Jacket (Grey),"Warm, durable fabric for daily wear | Comfortable fit | Available in multiple sizes",0,,0
+763,Tupperware,Tupperware Insulated Water Bottle (Silver),"Leak-proof lid, easy to carry | Durable and easy to carry | Suitable for beginners",4,3.8,7
+764,Maisto,Maisto Remote Control Car (Green),Easy remote control for kids | Encourages learning through play | Great gift for kids,2,4.0,5
+765,D-Link,D-Link Dual-Band Wi-Fi Router (Silver),"Dual-band Wi-Fi for streaming and gaming | Modern, sleek look | Compact, travel-friendly design",0,,0
+766,Noise,Noise Smartwatch with Fitness Tracking (Navy Blue),"Tracks steps, heart rate and sleep | Easy to set up and use | Modern, sleek look",0,,1
+767,Fogg,Fogg Eau de Parfum Perfume,"Fresh long-lasting fragrance | Suitable for daily use | Pleasant, mild feel",1,4.0,1
+768,Tupperware,Tupperware Storage Organizer (Green),"Keeps your space neat and tidy | Sturdy, long-lasting build | Space-saving design",0,,0
+769,Kellogg's,Kellogg's Healthy Snack Pack,"Tasty, ready-to-eat snacks | Good for the whole family | No added artificial colours",1,5.0,1
+770,Dyson,Dyson Vacuum Cleaner for Home (Navy Blue),"Strong suction for dust and pet hair | Sturdy, long-lasting build | Easy to clean",0,,0
+771,Eureka Forbes,Eureka Forbes Vacuum Cleaner for Home (Red),Strong suction for dust and pet hair | Space-saving design | Designed for daily home use,0,,0
+772,Cello,Cello Ceramic Tea Set,Elegant set for serving tea | Good for the whole family | Sealed pack for freshness,0,,0
+773,LEGO,LEGO Building Blocks Set (Navy Blue),"Encourages creativity and building skills | Safe, child-friendly materials | Durable build",8,4.4,9
+774,Nilkamal,Nilkamal Storage Organizer (Green),Keeps your space neat and tidy | Easy to clean | Designed for daily home use,0,,0
+775,Razer,Razer Wireless Keyboard (Silver),"Comfortable, quiet keys for daily typing | Easy to set up and use | Comes with user manual",12,3.9,19
+776,Kore,Kore Dumbbell Set for Home Workout (Green),Durable build for home workouts | Built for regular training | Lightweight design,2,3.5,4
+777,Boldfit,Boldfit Dumbbell Set for Home Workout (Silver),Durable build for home workouts | Lightweight design | Durable and easy to carry,11,4.2,19
+778,Adidas,Adidas Running Shoes (Silver),Lightweight with good grip | Suitable for beginners | Built for regular training,6,3.3,8
+779,L'Oreal Paris,L'Oreal Paris Face Serum,"Lightweight formula for daily skincare | Suitable for daily use | Pleasant, mild feel",2,4.5,6
+780,HarperCollins,HarperCollins Bestselling Fiction Novel (Paperback),"Paperback edition, easy to read | Easy to carry | Great for gifting",0,,1
+781,Wildcraft,Wildcraft Camping Tent for Outdoors (Navy Blue),"Easy to set up, water-resistant | Suitable for beginners | Durable and easy to carry",0,,1
+782,Kellogg's,Kellogg's Oats Granola Bars,Oats-based snack for busy days | Sealed pack for freshness | Good for the whole family,0,,0
+783,Corelle,Corelle Ceramic Tea Set,"Elegant set for serving tea | Sealed pack for freshness | Store in a cool, dry place",0,,0
+784,Fogg,Fogg Eau de Parfum Perfume,"Fresh long-lasting fragrance | Suitable for daily use | Pleasant, mild feel",2,3.5,2
+785,Nike,Nike Running Shoes (Green),Lightweight with good grip | Durable and easy to carry | Suitable for beginners,0,,0
+786,Ravensburger,Ravensburger Family Board Game (White),Fun for family game night | Durable build | Encourages learning through play,0,,0
+787,TP-Link,TP-Link Dual-Band Wi-Fi Router (Navy Blue),"Dual-band Wi-Fi for streaming and gaming | Compact, travel-friendly design | Easy to set up and use",0,,0
+788,Hasbro,Hasbro Family Board Game (Red),"Fun for family game night | Safe, child-friendly materials | Durable build",0,,0
+789,Hasbro,Hasbro Collectible Action Figure (Red),"Detailed collectible figure | Durable build | Safe, child-friendly materials",0,,0
+790,Funskool,Funskool Building Blocks Set (Black),Encourages creativity and building skills | Encourages learning through play | Durable build,0,,0
+791,Nature Valley,Nature Valley Oats Granola Bars,Oats-based snack for busy days | Good for the whole family | Sealed pack for freshness,0,,0
+792,Belkin,Belkin Fast Charger Adapter (Navy Blue),"Fast charging with overheat protection | Modern, sleek look | Compact, travel-friendly design",1,5.0,2
+793,Puma,Puma Running Shoes (Red),Lightweight with good grip | Durable and easy to carry | Built for regular training,0,,0
+794,Realme,Realme True Wireless Earbuds (Silver),"True wireless design with charging case | Compact, travel-friendly design | Modern, sleek look",0,,0
+795,Prestige,Prestige Digital Air Fryer (Navy Blue),Cooks with little or no oil | Easy to clean | Designed for daily home use,0,,0
+796,Decathlon,Decathlon Camping Tent for Outdoors (Blue),"Easy to set up, water-resistant | Suitable for beginners | Durable and easy to carry",7,4.1,17
+797,Ambrane,Ambrane Power Bank for Mobile Phones (Silver),"Charge your phone on the go | Modern, sleek look | Compact, travel-friendly design",2,3.5,2
+798,Decathlon,Decathlon Cycling Helmet (Grey),Lightweight shell with adjustable fit | Built for regular training | Lightweight design,0,,2
+799,Disney,Disney Soft Plush Toy (Grey),"Soft, huggable and safe for children | Great gift for kids | Durable build",0,,0
+800,Morphy Richards,Morphy Richards Coffee Maker Machine (Black),"Brews fresh coffee in minutes | Sturdy, long-lasting build | Designed for daily home use",0,,0

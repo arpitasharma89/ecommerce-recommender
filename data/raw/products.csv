@@ -1,0 +1,801 @@
+product_id,title,category,brand,price,description,tags
+1,Pro Router,Electronics,Voltix,189.23,This pro router combines quality and value for electronics shoppers.,"new,bestseller,Router"
+2,Portable Shampoo,Beauty & Personal Care,AromaBloom,22.25,"portable shampoo built to last, loved by thousands of buyers.",Shampoo
+3,Lightweight Granola Bars,Grocery,FreshField,11.08,Experience the lightweight granola bars - a customer favorite in grocery.,"Granola Bars,bestseller"
+4,Smart Scarf,Fashion,Lunaire,50.92,A smart scarf designed for everyday fashion needs.,"new,Fashion"
+5,Handcrafted Speaker,Electronics,Sonik,51.16,This handcrafted speaker combines quality and value for electronics shoppers.,Handcrafted
+6,Ultra Board Game,Toys & Games,Brickbound,14.96,Experience the ultra board game - a customer favorite in toys & games.,bestseller
+7,Lightweight Cookbook,Books,Inkwell Press,18.74,"lightweight cookbook built to last, loved by thousands of buyers.",Cookbook
+8,Everyday Face Serum,Beauty & Personal Care,AromaBloom,53.92,A everyday face serum designed for everyday beauty & personal care needs.,bestseller
+9,Everyday Camping Tent,Sports & Outdoors,IronCore,79.35,A everyday camping tent designed for everyday sports & outdoors needs.,"Sports,Camping Tent"
+10,Eco-Friendly Remote Car,Toys & Games,FunForge,35.89,A eco-friendly remote car designed for everyday toys & games needs.,"bestseller,new"
+11,Deluxe Hair Dryer,Beauty & Personal Care,PureSkin,16.06,Experience the deluxe hair dryer - a customer favorite in beauty & personal care.,bestseller
+12,Smart Hat,Fashion,Velure,52.07,A smart hat designed for everyday fashion needs.,"Hat,Fashion,new"
+13,Portable Organizer,Home & Kitchen,HearthCo,24.07,Experience the portable organizer - a customer favorite in home & kitchen.,"Portable,bestseller,Organizer"
+14,Compact Bedding Set,Home & Kitchen,HearthCo,89.08,"compact bedding set built to last, loved by thousands of buyers.","Compact,Bedding Set"
+15,Smart Power Bank,Electronics,Voltix,103.46,Upgrade your routine with this smart power bank.,"bestseller,Power Bank"
+16,Smart Speaker,Electronics,TechNova,130.8,Experience the smart speaker - a customer favorite in electronics.,new
+17,Deluxe Tea Set,Grocery,GreenHarvest,10.77,Upgrade your routine with this deluxe tea set.,"new,Deluxe"
+18,Smart Lipstick,Beauty & Personal Care,AromaBloom,9.26,"smart lipstick built to last, loved by thousands of buyers.","new,Lipstick"
+19,Portable Lamp,Home & Kitchen,HearthCo,45.22,A portable lamp designed for everyday home & kitchen needs.,"Portable,new,Home"
+20,Handcrafted Biography,Books,Quill & Co,10.34,A handcrafted biography designed for everyday books needs.,"Books,new"
+21,Signature Moisturizer,Beauty & Personal Care,Verdant,27.77,Experience the signature moisturizer - a customer favorite in beauty & personal care.,"bestseller,Moisturizer,Signature"
+22,Signature Shampoo,Beauty & Personal Care,Verdant,56.39,"signature shampoo built to last, loved by thousands of buyers.","Beauty,Signature"
+23,Deluxe Air Fryer,Home & Kitchen,PrimeHaus,132.25,"deluxe air fryer built to last, loved by thousands of buyers.",Deluxe
+24,Lightweight Keyboard,Electronics,TechNova,75.85,A lightweight keyboard designed for everyday electronics needs.,Electronics
+25,Classic Olive Oil,Grocery,DailyBasket,11.26,This classic olive oil combines quality and value for grocery shoppers.,"Classic,bestseller"
+26,Smart Monitor,Electronics,Sonik,35.32,Upgrade your routine with this smart monitor.,bestseller
+27,Deluxe Board Game,Toys & Games,FunForge,17.46,This deluxe board game combines quality and value for toys & games shoppers.,"Board Game,bestseller,Deluxe"
+28,Premium Spice Mix,Grocery,PantryPlus,14.44,This premium spice mix combines quality and value for grocery shoppers.,new
+29,Wireless Hat,Fashion,,10.15,Upgrade your routine with this wireless hat.,"bestseller,Wireless,Fashion"
+30,Smart Wallet,Fashion,Lunaire,25.21,Upgrade your routine with this smart wallet.,"new,Wallet,Fashion"
+31,Signature Coffee Maker,Home & Kitchen,HearthCo,254.0,"signature coffee maker built to last, loved by thousands of buyers.","Home,bestseller,Signature"
+32,All-in-One T-Shirt,Fashion,Velure,28.6,A all-in-one t-shirt designed for everyday fashion needs.,"bestseller,All-in-One,new"
+33,Smart Perfume,Beauty & Personal Care,AromaBloom,27.16,"smart perfume built to last, loved by thousands of buyers.","Smart,Perfume"
+34,Eco-Friendly Backpack,Fashion,Velure,101.19,Experience the eco-friendly backpack - a customer favorite in fashion.,"Eco-Friendly,bestseller,Fashion"
+35,Deluxe Monitor,Electronics,TechNova,187.75,Upgrade your routine with this deluxe monitor.,Monitor
+36,Pro Building Blocks,Toys & Games,Brickbound,23.57,Upgrade your routine with this pro building blocks.,"Toys,bestseller,new"
+37,Premium Sneakers,Fashion,Lunaire,48.1,This premium sneakers combines quality and value for fashion shoppers.,"Fashion,Sneakers"
+38,Ultra Shampoo,Beauty & Personal Care,GlowLab,48.48,Experience the ultra shampoo - a customer favorite in beauty & personal care.,"Shampoo,new"
+39,Eco-Friendly Hair Dryer,Beauty & Personal Care,AromaBloom,22.26,This eco-friendly hair dryer combines quality and value for beauty & personal care shoppers.,"Hair Dryer,bestseller"
+40,Compact Plush Toy,Toys & Games,Wonderkit,42.16,Upgrade your routine with this compact plush toy.,"new,bestseller,Compact"
+41,Deluxe Hair Dryer,Beauty & Personal Care,AromaBloom,9.05,"deluxe hair dryer built to last, loved by thousands of buyers.","Hair Dryer,Deluxe,Beauty"
+42,Everyday Running Shoes,Sports & Outdoors,PeakForm,57.85,This everyday running shoes combines quality and value for sports & outdoors shoppers.,Running Shoes
+43,Lightweight Sneakers,Fashion,Velure,96.06,Upgrade your routine with this lightweight sneakers.,Fashion
+44,Portable Poetry Collection,Books,Chapter House,18.05,"portable poetry collection built to last, loved by thousands of buyers.",Portable
+45,Compact Olive Oil,Grocery,FreshField,11.6,This compact olive oil combines quality and value for grocery shoppers.,"Grocery,bestseller"
+46,Portable Perfume,Beauty & Personal Care,GlowLab,37.49,"portable perfume built to last, loved by thousands of buyers.","Beauty,new,Portable"
+47,Everyday Headphones,Electronics,PixelPro,23.01,A everyday headphones designed for everyday electronics needs.,"Everyday,Electronics"
+48,Handcrafted Spice Mix,Grocery,GreenHarvest,8.82,A handcrafted spice mix designed for everyday grocery needs.,bestseller
+49,Pro Jacket,Fashion,Northgear,54.99,Upgrade your routine with this pro jacket.,"Pro,Jacket,new"
+50,Premium Novel,Books,Quill & Co,26.55,A premium novel designed for everyday books needs.,new
+51,Ultra Belt,Fashion,UrbanThread,43.98,"ultra belt built to last, loved by thousands of buyers.","new,Ultra,Fashion"
+52,Handcrafted Camping Tent,Sports & Outdoors,IronCore,23.51,Upgrade your routine with this handcrafted camping tent.,Sports
+53,Smart Monitor,Electronics,PixelPro,133.99,Upgrade your routine with this smart monitor.,"bestseller,Electronics"
+54,Compact Wallet,Fashion,Lunaire,15.41,A compact wallet designed for everyday fashion needs.,"Compact,bestseller,Fashion"
+55,Deluxe Camping Tent,Sports & Outdoors,TrailBlaze,36.24,This deluxe camping tent combines quality and value for sports & outdoors shoppers.,"new,Camping Tent,Sports"
+56,Wireless Monitor,Electronics,Voltix,204.93,Experience the wireless monitor - a customer favorite in electronics.,"Wireless,Electronics,Monitor"
+57,Pro Coffee Beans,Grocery,GreenHarvest,10.19,"pro coffee beans built to last, loved by thousands of buyers.",Grocery
+58,Ultra Camping Tent,Sports & Outdoors,IronCore,53.29,Upgrade your routine with this ultra camping tent.,Camping Tent
+59,Smart Running Shoes,Sports & Outdoors,IronCore,114.73,"smart running shoes built to last, loved by thousands of buyers.","new,Running Shoes"
+60,Classic Building Blocks,Toys & Games,FunForge,39.98,"classic building blocks built to last, loved by thousands of buyers.","Building Blocks,Toys"
+61,Premium Poetry Collection,Books,Nova Publishing,3.0,"premium poetry collection built to last, loved by thousands of buyers.",Books
+62,Compact Camping Tent,Sports & Outdoors,IronCore,30.46,Experience the compact camping tent - a customer favorite in sports & outdoors.,"Compact,Camping Tent,bestseller"
+63,Portable Organic Snack Pack,Grocery,GreenHarvest,16.22,Upgrade your routine with this portable organic snack pack.,new
+64,Everyday Coffee Beans,Grocery,DailyBasket,29.67,"everyday coffee beans built to last, loved by thousands of buyers.",Everyday
+65,Premium Action Figure,Toys & Games,Wonderkit,19.29,This premium action figure combines quality and value for toys & games shoppers.,"Toys,Action Figure"
+66,Smart Organizer,Home & Kitchen,HearthCo,3.66,This smart organizer combines quality and value for home & kitchen shoppers.,"Home,bestseller,Organizer"
+67,Pro Board Game,Toys & Games,Wonderkit,41.03,Upgrade your routine with this pro board game.,"Board Game,bestseller"
+68,Smart Action Figure,Toys & Games,PlayNest,13.84,"smart action figure built to last, loved by thousands of buyers.","Action Figure,Smart,Toys"
+69,Pro Spice Mix,Grocery,,23.09,Experience the pro spice mix - a customer favorite in grocery.,bestseller
+70,Classic Face Serum,Beauty & Personal Care,PureSkin,20.17,This classic face serum combines quality and value for beauty & personal care shoppers.,"bestseller,Face Serum,new"
+71,Pro Olive Oil,Grocery,DailyBasket,4.71,This pro olive oil combines quality and value for grocery shoppers.,"Grocery,new,Olive Oil"
+72,Pro Running Shoes,Sports & Outdoors,SwiftStride,16.13,"pro running shoes built to last, loved by thousands of buyers.","Pro,Sports"
+73,Smart Lamp,Home & Kitchen,HearthCo,87.59,"smart lamp built to last, loved by thousands of buyers.","Smart,bestseller"
+74,Everyday Earbuds,Electronics,TechNova,147.7,"everyday earbuds built to last, loved by thousands of buyers.","Everyday,Electronics,new"
+75,Pro Remote Car,Toys & Games,Brickbound,8.26,A pro remote car designed for everyday toys & games needs.,"Remote Car,Pro,Toys"
+76,Smart Smartwatch,Electronics,Voltix,141.12,Upgrade your routine with this smart smartwatch.,Electronics
+77,Smart Moisturizer,Beauty & Personal Care,Verdant,15.52,Upgrade your routine with this smart moisturizer.,"new,bestseller,Beauty"
+78,Portable Router,Electronics,PixelPro,163.32,Upgrade your routine with this portable router.,"Portable,new"
+79,Lightweight Wallet,Fashion,Velure,42.96,Upgrade your routine with this lightweight wallet.,"Fashion,Lightweight"
+80,Eco-Friendly Earbuds,Electronics,Sonik,49.82,A eco-friendly earbuds designed for everyday electronics needs.,"Earbuds,new,bestseller"
+81,Portable Olive Oil,Grocery,PantryPlus,3.0,Experience the portable olive oil - a customer favorite in grocery.,Grocery
+82,Pro Yoga Mat,Sports & Outdoors,IronCore,14.59,Experience the pro yoga mat - a customer favorite in sports & outdoors.,Sports
+83,Eco-Friendly Power Bank,Electronics,PixelPro,175.62,This eco-friendly power bank combines quality and value for electronics shoppers.,"bestseller,Eco-Friendly,new"
+84,Wireless Puzzle,Toys & Games,PlayNest,64.82,This wireless puzzle combines quality and value for toys & games shoppers.,"Toys,Wireless,new"
+85,Classic Novel,Books,Inkwell Press,6.83,A classic novel designed for everyday books needs.,Classic
+86,Compact Webcam,Electronics,Voltix,201.73,Experience the compact webcam - a customer favorite in electronics.,"new,Electronics"
+87,Classic Sneakers,Fashion,UrbanThread,37.85,This classic sneakers combines quality and value for fashion shoppers.,"bestseller,Fashion,Sneakers"
+88,Eco-Friendly Puzzle,Toys & Games,Brickbound,3.0,Experience the eco-friendly puzzle - a customer favorite in toys & games.,"new,Eco-Friendly,bestseller"
+89,Lightweight Perfume,Beauty & Personal Care,PureSkin,30.92,,new
+90,Premium Sneakers,Fashion,Velure,3.52,A premium sneakers designed for everyday fashion needs.,"Premium,Fashion,Sneakers"
+91,Deluxe Yoga Mat,Sports & Outdoors,IronCore,22.32,"deluxe yoga mat built to last, loved by thousands of buyers.","bestseller,Yoga Mat,new"
+92,Lightweight Cookware Set,Home & Kitchen,PrimeHaus,78.66,Experience the lightweight cookware set - a customer favorite in home & kitchen.,"new,Home"
+93,Handcrafted Action Figure,Toys & Games,FunForge,16.43,Experience the handcrafted action figure - a customer favorite in toys & games.,new
+94,All-in-One Cookware Set,Home & Kitchen,HearthCo,51.36,This all-in-one cookware set combines quality and value for home & kitchen shoppers.,"All-in-One,new,Home"
+95,Everyday Olive Oil,Grocery,FreshField,12.83,This everyday olive oil combines quality and value for grocery shoppers.,"bestseller,Everyday"
+96,Premium Bedding Set,Home & Kitchen,PrimeHaus,72.43,,Bedding Set
+97,Lightweight Belt,Fashion,UrbanThread,19.1,"lightweight belt built to last, loved by thousands of buyers.",Belt
+98,Everyday Cookbook,Books,Quill & Co,5.16,,bestseller
+99,Deluxe Bedding Set,Home & Kitchen,PrimeHaus,63.42,"deluxe bedding set built to last, loved by thousands of buyers.",Home
+100,Wireless Granola Bars,Grocery,PantryPlus,4.68,A wireless granola bars designed for everyday grocery needs.,"Grocery,Granola Bars"
+101,Pro Power Bank,Electronics,PixelPro,268.14,This pro power bank combines quality and value for electronics shoppers.,"bestseller,new,Power Bank"
+102,Handcrafted Scarf,Fashion,Lunaire,120.0,A handcrafted scarf designed for everyday fashion needs.,"bestseller,Fashion"
+103,Everyday Vacuum Cleaner,Home & Kitchen,PrimeHaus,96.22,Experience the everyday vacuum cleaner - a customer favorite in home & kitchen.,"new,Home"
+104,Compact Moisturizer,Beauty & Personal Care,Verdant,28.52,A compact moisturizer designed for everyday beauty & personal care needs.,Compact
+105,Everyday Razor,Beauty & Personal Care,Verdant,36.91,Experience the everyday razor - a customer favorite in beauty & personal care.,Razor
+106,Premium Blender,Home & Kitchen,HearthCo,82.95,This premium blender combines quality and value for home & kitchen shoppers.,Home
+107,Classic Wallet,Fashion,Lunaire,44.84,Experience the classic wallet - a customer favorite in fashion.,"Wallet,Classic,Fashion"
+108,Everyday Bedding Set,Home & Kitchen,HearthCo,10.15,A everyday bedding set designed for everyday home & kitchen needs.,Home
+109,Compact Hair Dryer,Beauty & Personal Care,GlowLab,10.44,Experience the compact hair dryer - a customer favorite in beauty & personal care.,"bestseller,Compact"
+110,Eco-Friendly Building Blocks,Toys & Games,FunForge,86.37,"eco-friendly building blocks built to last, loved by thousands of buyers.",new
+111,Pro Running Shoes,Sports & Outdoors,PeakForm,28.48,A pro running shoes designed for everyday sports & outdoors needs.,"Running Shoes,Sports"
+112,Eco-Friendly Dumbbell Set,Sports & Outdoors,IronCore,36.63,Experience the eco-friendly dumbbell set - a customer favorite in sports & outdoors.,Dumbbell Set
+113,Deluxe Vacuum Cleaner,Home & Kitchen,CozyNest,42.74,Experience the deluxe vacuum cleaner - a customer favorite in home & kitchen.,"Deluxe,Vacuum Cleaner"
+114,Wireless Tea Set,Grocery,FreshField,4.73,This wireless tea set combines quality and value for grocery shoppers.,new
+115,All-in-One Webcam,Electronics,Sonik,124.94,A all-in-one webcam designed for everyday electronics needs.,"All-in-One,new"
+116,Smart Poetry Collection,Books,Nova Publishing,21.26,A smart poetry collection designed for everyday books needs.,bestseller
+117,Premium Poetry Collection,Books,Chapter House,41.41,Upgrade your routine with this premium poetry collection.,"Premium,Poetry Collection,new"
+118,Premium Bedding Set,Home & Kitchen,Kindle & Wick,52.21,This premium bedding set combines quality and value for home & kitchen shoppers.,new
+119,Deluxe Poetry Collection,Books,Nova Publishing,11.11,Upgrade your routine with this deluxe poetry collection.,"Poetry Collection,Books"
+120,Ultra Hat,Fashion,UrbanThread,58.71,"ultra hat built to last, loved by thousands of buyers.",new
+121,Handcrafted Perfume,Beauty & Personal Care,AromaBloom,53.46,A handcrafted perfume designed for everyday beauty & personal care needs.,new
+122,Ultra Camping Tent,Sports & Outdoors,PeakForm,51.28,This ultra camping tent combines quality and value for sports & outdoors shoppers.,"bestseller,Camping Tent,Sports"
+123,Classic Remote Car,Toys & Games,FunForge,42.3,A classic remote car designed for everyday toys & games needs.,"Classic,bestseller"
+124,Eco-Friendly Plush Toy,Toys & Games,Wonderkit,26.44,Upgrade your routine with this eco-friendly plush toy.,bestseller
+125,Handcrafted Coffee Beans,Grocery,DailyBasket,3.0,"handcrafted coffee beans built to last, loved by thousands of buyers.","Coffee Beans,new"
+126,Ultra Lipstick,Beauty & Personal Care,PureSkin,14.03,A ultra lipstick designed for everyday beauty & personal care needs.,new
+127,Classic Puzzle,Toys & Games,Wonderkit,40.81,"classic puzzle built to last, loved by thousands of buyers.","Toys,new"
+128,Lightweight Olive Oil,Grocery,PantryPlus,4.31,"lightweight olive oil built to last, loved by thousands of buyers.","bestseller,Grocery"
+129,Pro Dumbbell Set,Sports & Outdoors,IronCore,63.56,Experience the pro dumbbell set - a customer favorite in sports & outdoors.,Sports
+130,Wireless Action Figure,Toys & Games,Brickbound,10.25,A wireless action figure designed for everyday toys & games needs.,"bestseller,Wireless,Action Figure"
+131,Classic Shampoo,Beauty & Personal Care,Verdant,48.99,"classic shampoo built to last, loved by thousands of buyers.",bestseller
+132,Wireless Earbuds,Electronics,Voltix,106.5,Upgrade your routine with this wireless earbuds.,"bestseller,Wireless,Earbuds"
+133,Eco-Friendly Camping Tent,Sports & Outdoors,IronCore,53.1,Experience the eco-friendly camping tent - a customer favorite in sports & outdoors.,"bestseller,Eco-Friendly,new"
+134,Classic Coffee Beans,Grocery,PantryPlus,19.35,This classic coffee beans combines quality and value for grocery shoppers.,bestseller
+135,All-in-One Poetry Collection,Books,Quill & Co,26.72,"all-in-one poetry collection built to last, loved by thousands of buyers.","new,All-in-One"
+136,All-in-One Hat,Fashion,Northgear,28.95,A all-in-one hat designed for everyday fashion needs.,All-in-One
+137,Lightweight Power Bank,Electronics,Sonik,82.98,A lightweight power bank designed for everyday electronics needs.,Lightweight
+138,Lightweight Building Blocks,Toys & Games,PlayNest,14.7,This lightweight building blocks combines quality and value for toys & games shoppers.,"Toys,new"
+139,Everyday Wallet,Fashion,Northgear,3.12,Upgrade your routine with this everyday wallet.,"bestseller,Everyday"
+140,Wireless Speaker,Electronics,Sonik,199.5,A wireless speaker designed for everyday electronics needs.,"Wireless,Electronics,Speaker"
+141,Signature Hat,Fashion,Velure,10.69,"signature hat built to last, loved by thousands of buyers.","Signature,new,Hat"
+142,Lightweight Running Shoes,Sports & Outdoors,TrailBlaze,33.97,Upgrade your routine with this lightweight running shoes.,"new,Sports"
+143,Compact Lamp,Home & Kitchen,Kindle & Wick,56.65,Experience the compact lamp - a customer favorite in home & kitchen.,"Home,Lamp"
+144,Premium Biography,Books,Quill & Co,4.48,A premium biography designed for everyday books needs.,"Premium,Biography,new"
+145,Smart Board Game,Toys & Games,Wonderkit,82.24,Experience the smart board game - a customer favorite in toys & games.,new
+146,Eco-Friendly Speaker,Electronics,Sonik,136.46,This eco-friendly speaker combines quality and value for electronics shoppers.,"new,Electronics"
+147,Portable Dumbbell Set,Sports & Outdoors,TrailBlaze,31.88,"portable dumbbell set built to last, loved by thousands of buyers.","Portable,bestseller"
+148,Pro Router,Electronics,Sonik,235.92,A pro router designed for everyday electronics needs.,new
+149,Eco-Friendly Moisturizer,Beauty & Personal Care,GlowLab,13.46,A eco-friendly moisturizer designed for everyday beauty & personal care needs.,new
+150,Smart Spice Mix,Grocery,PantryPlus,3.0,This smart spice mix combines quality and value for grocery shoppers.,"bestseller,Smart"
+151,Signature Sneakers,Fashion,UrbanThread,16.48,Upgrade your routine with this signature sneakers.,"Sneakers,bestseller,Fashion"
+152,Portable Granola Bars,Grocery,GreenHarvest,24.03,Experience the portable granola bars - a customer favorite in grocery.,"Grocery,Granola Bars"
+153,Compact Tea Set,Grocery,PantryPlus,8.74,This compact tea set combines quality and value for grocery shoppers.,bestseller
+154,Handcrafted Camping Tent,Sports & Outdoors,SwiftStride,23.54,Experience the handcrafted camping tent - a customer favorite in sports & outdoors.,"Camping Tent,Handcrafted,new"
+155,All-in-One Earbuds,Electronics,Voltix,63.34,"all-in-one earbuds built to last, loved by thousands of buyers.",Electronics
+156,Lightweight Cookbook,Books,Inkwell Press,26.01,This lightweight cookbook combines quality and value for books shoppers.,"Cookbook,bestseller,Books"
+157,Ultra Speaker,Electronics,Sonik,11.3,This ultra speaker combines quality and value for electronics shoppers.,"new,bestseller,Speaker"
+158,All-in-One Camping Tent,Sports & Outdoors,SwiftStride,77.44,Experience the all-in-one camping tent - a customer favorite in sports & outdoors.,"bestseller,new,Sports"
+159,All-in-One Wallet,Fashion,UrbanThread,50.62,Experience the all-in-one wallet - a customer favorite in fashion.,"new,Wallet,bestseller"
+160,Wireless Guidebook,Books,Chapter House,15.03,Upgrade your routine with this wireless guidebook.,"new,Books,bestseller"
+161,Smart Running Shoes,Sports & Outdoors,PeakForm,83.47,A smart running shoes designed for everyday sports & outdoors needs.,Sports
+162,Pro Monitor,Electronics,PixelPro,86.7,"pro monitor built to last, loved by thousands of buyers.",Monitor
+163,Smart Organizer,Home & Kitchen,Kindle & Wick,28.21,Upgrade your routine with this smart organizer.,Home
+164,Lightweight Olive Oil,Grocery,DailyBasket,20.71,A lightweight olive oil designed for everyday grocery needs.,new
+165,Ultra Action Figure,Toys & Games,Brickbound,46.63,Upgrade your routine with this ultra action figure.,"Toys,Action Figure"
+166,Compact Granola Bars,Grocery,FreshField,23.92,"compact granola bars built to last, loved by thousands of buyers.","new,bestseller"
+167,Classic Spice Mix,Grocery,DailyBasket,15.64,Experience the classic spice mix - a customer favorite in grocery.,"Grocery,Spice Mix"
+168,Portable Shampoo,Beauty & Personal Care,PureSkin,47.11,Experience the portable shampoo - a customer favorite in beauty & personal care.,new
+169,Compact Board Game,Toys & Games,Brickbound,38.41,Experience the compact board game - a customer favorite in toys & games.,Compact
+170,Premium Sunglasses,Fashion,Northgear,26.02,A premium sunglasses designed for everyday fashion needs.,Sunglasses
+171,Handcrafted Cookbook,Books,Chapter House,56.22,This handcrafted cookbook combines quality and value for books shoppers.,"bestseller,Cookbook,Handcrafted"
+172,Signature Hair Dryer,Beauty & Personal Care,AromaBloom,18.02,Experience the signature hair dryer - a customer favorite in beauty & personal care.,bestseller
+173,Wireless Scarf,Fashion,Northgear,59.55,"wireless scarf built to last, loved by thousands of buyers.",new
+174,Smart Earbuds,Electronics,PixelPro,95.73,This smart earbuds combines quality and value for electronics shoppers.,"new,Electronics"
+175,Handcrafted Spice Mix,Grocery,FreshField,11.43,Experience the handcrafted spice mix - a customer favorite in grocery.,Spice Mix
+176,Smart Granola Bars,Grocery,PantryPlus,18.09,A smart granola bars designed for everyday grocery needs.,"Granola Bars,Smart"
+177,Classic Action Figure,Toys & Games,Brickbound,47.94,This classic action figure combines quality and value for toys & games shoppers.,"new,Action Figure"
+178,Handcrafted Running Shoes,Sports & Outdoors,PeakForm,12.92,This handcrafted running shoes combines quality and value for sports & outdoors shoppers.,"Running Shoes,Handcrafted"
+179,Ultra Backpack,Fashion,Velure,10.22,This ultra backpack combines quality and value for fashion shoppers.,Fashion
+180,All-in-One Water Bottle,Sports & Outdoors,PeakForm,78.58,Upgrade your routine with this all-in-one water bottle.,"Sports,new,All-in-One"
+181,Ultra Lipstick,Beauty & Personal Care,GlowLab,16.18,"ultra lipstick built to last, loved by thousands of buyers.","Beauty,Ultra,bestseller"
+182,Eco-Friendly Action Figure,Toys & Games,PlayNest,32.12,Experience the eco-friendly action figure - a customer favorite in toys & games.,"Eco-Friendly,Toys,Action Figure"
+183,Premium Bedding Set,Home & Kitchen,HearthCo,6.86,Upgrade your routine with this premium bedding set.,Home
+184,Pro Face Serum,Beauty & Personal Care,AromaBloom,6.99,"pro face serum built to last, loved by thousands of buyers.","Beauty,bestseller"
+185,Ultra Board Game,Toys & Games,FunForge,38.77,This ultra board game combines quality and value for toys & games shoppers.,"Board Game,new"
+186,Eco-Friendly Speaker,Electronics,PixelPro,261.79,Upgrade your routine with this eco-friendly speaker.,"Eco-Friendly,new,bestseller"
+187,Signature Lipstick,Beauty & Personal Care,PureSkin,27.96,Upgrade your routine with this signature lipstick.,bestseller
+188,Lightweight Face Serum,Beauty & Personal Care,GlowLab,11.79,Upgrade your routine with this lightweight face serum.,"Lightweight,bestseller,Face Serum"
+189,Deluxe Coffee Beans,Grocery,DailyBasket,4.67,"deluxe coffee beans built to last, loved by thousands of buyers.",bestseller
+190,Handcrafted Vacuum Cleaner,Home & Kitchen,Kindle & Wick,50.43,,"Vacuum Cleaner,Home"
+191,Eco-Friendly Coffee Beans,Grocery,FreshField,18.57,"eco-friendly coffee beans built to last, loved by thousands of buyers.","Grocery,Eco-Friendly"
+192,Wireless T-Shirt,Fashion,UrbanThread,11.06,This wireless t-shirt combines quality and value for fashion shoppers.,new
+193,Pro Scarf,Fashion,Lunaire,101.43,Experience the pro scarf - a customer favorite in fashion.,"bestseller,Pro,Fashion"
+194,Deluxe Backpack,Fashion,Lunaire,43.9,Experience the deluxe backpack - a customer favorite in fashion.,"Deluxe,Fashion"
+195,Premium Organizer,Home & Kitchen,HearthCo,63.96,This premium organizer combines quality and value for home & kitchen shoppers.,"bestseller,Home"
+196,All-in-One Handbag,Fashion,Lunaire,3.0,"all-in-one handbag built to last, loved by thousands of buyers.","Fashion,All-in-One"
+197,Pro Yoga Mat,Sports & Outdoors,SwiftStride,94.38,A pro yoga mat designed for everyday sports & outdoors needs.,"Yoga Mat,Pro,new"
+198,Handcrafted Building Blocks,Toys & Games,FunForge,39.55,Experience the handcrafted building blocks - a customer favorite in toys & games.,"new,Building Blocks"
+199,Signature Plush Toy,Toys & Games,Wonderkit,36.81,Upgrade your routine with this signature plush toy.,Toys
+200,Signature Board Game,Toys & Games,PlayNest,27.93,Upgrade your routine with this signature board game.,"Toys,Signature"
+201,Everyday Scarf,Fashion,UrbanThread,46.62,Upgrade your routine with this everyday scarf.,"bestseller,new,Fashion"
+202,Portable Puzzle,Toys & Games,,32.87,Upgrade your routine with this portable puzzle.,"new,Puzzle,Toys"
+203,Deluxe Moisturizer,Beauty & Personal Care,GlowLab,25.3,"deluxe moisturizer built to last, loved by thousands of buyers.","new,Moisturizer,Beauty"
+204,Handcrafted Remote Car,Toys & Games,FunForge,8.55,"handcrafted remote car built to last, loved by thousands of buyers.","Handcrafted,new,Toys"
+205,Compact Perfume,Beauty & Personal Care,AromaBloom,25.11,Experience the compact perfume - a customer favorite in beauty & personal care.,"Compact,bestseller,new"
+206,Portable Plush Toy,Toys & Games,FunForge,23.4,This portable plush toy combines quality and value for toys & games shoppers.,"bestseller,new,Portable"
+207,Wireless Sneakers,Fashion,UrbanThread,121.08,Experience the wireless sneakers - a customer favorite in fashion.,bestseller
+208,Handcrafted Yoga Mat,Sports & Outdoors,PeakForm,43.63,Upgrade your routine with this handcrafted yoga mat.,"bestseller,Sports"
+209,Compact Sneakers,Fashion,Lunaire,41.38,This compact sneakers combines quality and value for fashion shoppers.,"Sneakers,Fashion,new"
+210,Compact Plush Toy,Toys & Games,Wonderkit,17.35,Upgrade your routine with this compact plush toy.,Toys
+211,Eco-Friendly Coffee Beans,Grocery,GreenHarvest,36.23,Experience the eco-friendly coffee beans - a customer favorite in grocery.,"Grocery,bestseller"
+212,Ultra Guidebook,Books,Chapter House,6.27,A ultra guidebook designed for everyday books needs.,Guidebook
+213,Handcrafted Puzzle,Toys & Games,Brickbound,17.94,"handcrafted puzzle built to last, loved by thousands of buyers.","Handcrafted,Puzzle,bestseller"
+214,Smart Perfume,Beauty & Personal Care,Verdant,52.98,Upgrade your routine with this smart perfume.,"Beauty,bestseller"
+215,Signature Bike Helmet,Sports & Outdoors,TrailBlaze,57.74,,"new,Bike Helmet"
+216,Handcrafted Remote Car,Toys & Games,Brickbound,19.83,A handcrafted remote car designed for everyday toys & games needs.,"Handcrafted,Remote Car"
+217,Classic Moisturizer,Beauty & Personal Care,AromaBloom,21.2,Experience the classic moisturizer - a customer favorite in beauty & personal care.,"Classic,bestseller,Moisturizer"
+218,Eco-Friendly Coffee Maker,Home & Kitchen,PrimeHaus,79.89,This eco-friendly coffee maker combines quality and value for home & kitchen shoppers.,"Home,new,Coffee Maker"
+219,Ultra Hair Dryer,Beauty & Personal Care,AromaBloom,37.57,Experience the ultra hair dryer - a customer favorite in beauty & personal care.,Hair Dryer
+220,Classic Board Game,Toys & Games,Wonderkit,33.99,Experience the classic board game - a customer favorite in toys & games.,"Toys,bestseller"
+221,Deluxe Puzzle,Toys & Games,PlayNest,45.59,This deluxe puzzle combines quality and value for toys & games shoppers.,Deluxe
+222,Everyday Puzzle,Toys & Games,Wonderkit,39.87,A everyday puzzle designed for everyday toys & games needs.,"Everyday,bestseller,new"
+223,Premium Plush Toy,Toys & Games,FunForge,7.29,A premium plush toy designed for everyday toys & games needs.,Plush Toy
+224,All-in-One Board Game,Toys & Games,Brickbound,21.76,A all-in-one board game designed for everyday toys & games needs.,"new,bestseller,All-in-One"
+225,Signature Hat,Fashion,Northgear,62.43,"signature hat built to last, loved by thousands of buyers.","Signature,Hat"
+226,Ultra Air Fryer,Home & Kitchen,CozyNest,6.76,A ultra air fryer designed for everyday home & kitchen needs.,"bestseller,Home"
+227,Lightweight Router,Electronics,TechNova,10.84,Upgrade your routine with this lightweight router.,"Router,Lightweight"
+228,Lightweight T-Shirt,Fashion,,76.63,"lightweight t-shirt built to last, loved by thousands of buyers.","T-Shirt,bestseller"
+229,Ultra Plush Toy,Toys & Games,Wonderkit,13.51,A ultra plush toy designed for everyday toys & games needs.,"new,Ultra,Plush Toy"
+230,Everyday Lipstick,Beauty & Personal Care,AromaBloom,5.62,A everyday lipstick designed for everyday beauty & personal care needs.,"Beauty,bestseller"
+231,All-in-One Bike Helmet,Sports & Outdoors,TrailBlaze,82.95,A all-in-one bike helmet designed for everyday sports & outdoors needs.,"bestseller,Sports,Bike Helmet"
+232,Lightweight Handbag,Fashion,Velure,14.05,Experience the lightweight handbag - a customer favorite in fashion.,Fashion
+233,Pro Monitor,Electronics,PixelPro,17.9,This pro monitor combines quality and value for electronics shoppers.,Monitor
+234,Handcrafted Face Serum,Beauty & Personal Care,Verdant,3.86,Experience the handcrafted face serum - a customer favorite in beauty & personal care.,Face Serum
+235,Eco-Friendly Building Blocks,Toys & Games,Wonderkit,28.64,A eco-friendly building blocks designed for everyday toys & games needs.,Eco-Friendly
+236,Premium Journal,Books,Inkwell Press,14.3,Experience the premium journal - a customer favorite in books.,Books
+237,Ultra Perfume,Beauty & Personal Care,,35.55,Experience the ultra perfume - a customer favorite in beauty & personal care.,"Perfume,Beauty"
+238,Lightweight Face Serum,Beauty & Personal Care,,17.53,Experience the lightweight face serum - a customer favorite in beauty & personal care.,"bestseller,Beauty,Face Serum"
+239,Lightweight Monitor,Electronics,Voltix,192.01,Experience the lightweight monitor - a customer favorite in electronics.,Monitor
+240,All-in-One Textbook,Books,Nova Publishing,10.76,"all-in-one textbook built to last, loved by thousands of buyers.","All-in-One,new,Books"
+241,Compact Keyboard,Electronics,Sonik,33.66,This compact keyboard combines quality and value for electronics shoppers.,Electronics
+242,Signature Monitor,Electronics,PixelPro,99.74,Experience the signature monitor - a customer favorite in electronics.,"bestseller,Electronics,new"
+243,Ultra Olive Oil,Grocery,GreenHarvest,18.75,A ultra olive oil designed for everyday grocery needs.,"new,bestseller"
+244,Classic Sneakers,Fashion,Northgear,41.45,A classic sneakers designed for everyday fashion needs.,"Fashion,Sneakers"
+245,Deluxe Running Shoes,Sports & Outdoors,TrailBlaze,25.15,Experience the deluxe running shoes - a customer favorite in sports & outdoors.,"bestseller,Deluxe,new"
+246,Premium Vacuum Cleaner,Home & Kitchen,PrimeHaus,107.45,This premium vacuum cleaner combines quality and value for home & kitchen shoppers.,new
+247,Eco-Friendly Spice Mix,Grocery,DailyBasket,36.46,A eco-friendly spice mix designed for everyday grocery needs.,"new,Spice Mix,Eco-Friendly"
+248,All-in-One Webcam,Electronics,TechNova,78.39,Experience the all-in-one webcam - a customer favorite in electronics.,"Electronics,new,All-in-One"
+249,Deluxe Tea Set,Grocery,,5.96,"deluxe tea set built to last, loved by thousands of buyers.","Grocery,bestseller"
+250,All-in-One Organic Snack Pack,Grocery,PantryPlus,8.85,This all-in-one organic snack pack combines quality and value for grocery shoppers.,"Grocery,new,Organic Snack Pack"
+251,Ultra Keyboard,Electronics,Voltix,52.86,Upgrade your routine with this ultra keyboard.,Ultra
+252,Pro Speaker,Electronics,Sonik,82.37,A pro speaker designed for everyday electronics needs.,"bestseller,Pro"
+253,Lightweight Organic Snack Pack,Grocery,PantryPlus,14.67,Upgrade your routine with this lightweight organic snack pack.,"Lightweight,Grocery"
+254,Deluxe Granola Bars,Grocery,DailyBasket,13.14,Experience the deluxe granola bars - a customer favorite in grocery.,Deluxe
+255,Pro Building Blocks,Toys & Games,PlayNest,51.0,This pro building blocks combines quality and value for toys & games shoppers.,"Toys,new"
+256,Wireless Plush Toy,Toys & Games,FunForge,44.7,This wireless plush toy combines quality and value for toys & games shoppers.,new
+257,Portable Spice Mix,Grocery,FreshField,7.29,Experience the portable spice mix - a customer favorite in grocery.,"Spice Mix,new,Grocery"
+258,Compact Biography,Books,Nova Publishing,17.92,"compact biography built to last, loved by thousands of buyers.","new,Biography"
+259,Ultra Face Serum,Beauty & Personal Care,GlowLab,31.53,Upgrade your routine with this ultra face serum.,"new,Ultra,Face Serum"
+260,Signature Tea Set,Grocery,GreenHarvest,6.33,Experience the signature tea set - a customer favorite in grocery.,"new,bestseller"
+261,Pro Face Serum,Beauty & Personal Care,AromaBloom,15.93,This pro face serum combines quality and value for beauty & personal care shoppers.,bestseller
+262,Handcrafted Tea Set,Grocery,DailyBasket,11.63,"handcrafted tea set built to last, loved by thousands of buyers.","new,Grocery"
+263,Everyday Shampoo,Beauty & Personal Care,PureSkin,3.47,Upgrade your routine with this everyday shampoo.,"Everyday,Beauty"
+264,Handcrafted Yoga Mat,Sports & Outdoors,SwiftStride,70.52,Experience the handcrafted yoga mat - a customer favorite in sports & outdoors.,"Sports,Yoga Mat,Handcrafted"
+265,Everyday Olive Oil,Grocery,GreenHarvest,37.52,"everyday olive oil built to last, loved by thousands of buyers.","Olive Oil,Everyday"
+266,All-in-One Guidebook,Books,Quill & Co,8.19,Upgrade your routine with this all-in-one guidebook.,All-in-One
+267,Ultra Smartwatch,Electronics,PixelPro,123.91,A ultra smartwatch designed for everyday electronics needs.,"Electronics,bestseller,Smartwatch"
+268,All-in-One Power Bank,Electronics,Sonik,48.28,Upgrade your routine with this all-in-one power bank.,"Electronics,Power Bank"
+269,Ultra Yoga Mat,Sports & Outdoors,TrailBlaze,25.57,A ultra yoga mat designed for everyday sports & outdoors needs.,"Sports,Ultra,bestseller"
+270,Deluxe Face Serum,Beauty & Personal Care,Verdant,26.8,Experience the deluxe face serum - a customer favorite in beauty & personal care.,"new,bestseller"
+271,Premium Shampoo,Beauty & Personal Care,PureSkin,35.98,Upgrade your routine with this premium shampoo.,"Shampoo,new"
+272,Compact Headphones,Electronics,Voltix,185.63,This compact headphones combines quality and value for electronics shoppers.,Compact
+273,Deluxe Scarf,Fashion,Northgear,38.56,"deluxe scarf built to last, loved by thousands of buyers.","bestseller,Deluxe"
+274,Portable Building Blocks,Toys & Games,Wonderkit,5.9,This portable building blocks combines quality and value for toys & games shoppers.,"bestseller,new,Portable"
+275,Ultra Olive Oil,Grocery,DailyBasket,10.08,A ultra olive oil designed for everyday grocery needs.,Olive Oil
+276,Deluxe Dumbbell Set,Sports & Outdoors,SwiftStride,148.9,Upgrade your routine with this deluxe dumbbell set.,"new,bestseller"
+277,Compact Organizer,Home & Kitchen,CozyNest,65.82,A compact organizer designed for everyday home & kitchen needs.,"Organizer,Home"
+278,Classic Perfume,Beauty & Personal Care,PureSkin,21.39,Experience the classic perfume - a customer favorite in beauty & personal care.,bestseller
+279,Deluxe Water Bottle,Sports & Outdoors,,11.19,"deluxe water bottle built to last, loved by thousands of buyers.","bestseller,Deluxe,new"
+280,Handcrafted Speaker,Electronics,Sonik,256.66,,Speaker
+281,Signature Backpack,Fashion,Velure,97.42,Experience the signature backpack - a customer favorite in fashion.,bestseller
+282,All-in-One Action Figure,Toys & Games,PlayNest,3.0,"all-in-one action figure built to last, loved by thousands of buyers.","bestseller,Action Figure"
+283,Smart Tea Set,Grocery,DailyBasket,53.88,A smart tea set designed for everyday grocery needs.,"Smart,new"
+284,Compact Organic Snack Pack,Grocery,DailyBasket,11.69,A compact organic snack pack designed for everyday grocery needs.,Compact
+285,Lightweight Webcam,Electronics,PixelPro,82.75,Experience the lightweight webcam - a customer favorite in electronics.,"bestseller,Webcam,Lightweight"
+286,Pro Running Shoes,Sports & Outdoors,PeakForm,45.15,This pro running shoes combines quality and value for sports & outdoors shoppers.,"Sports,bestseller,Running Shoes"
+287,Smart Router,Electronics,TechNova,152.29,"smart router built to last, loved by thousands of buyers.","Electronics,bestseller"
+288,Everyday Yoga Mat,Sports & Outdoors,SwiftStride,9.98,Upgrade your routine with this everyday yoga mat.,"Sports,Yoga Mat"
+289,Wireless Shampoo,Beauty & Personal Care,AromaBloom,43.53,A wireless shampoo designed for everyday beauty & personal care needs.,"Beauty,Shampoo,new"
+290,Smart Cookbook,Books,Nova Publishing,10.9,Experience the smart cookbook - a customer favorite in books.,"Books,Cookbook,new"
+291,Eco-Friendly Tea Set,Grocery,FreshField,13.71,A eco-friendly tea set designed for everyday grocery needs.,"bestseller,Tea Set,new"
+292,Premium Razor,Beauty & Personal Care,GlowLab,22.32,"premium razor built to last, loved by thousands of buyers.","bestseller,new,Razor"
+293,Handcrafted Textbook,Books,Chapter House,10.04,This handcrafted textbook combines quality and value for books shoppers.,"Handcrafted,bestseller,Textbook"
+294,Deluxe Razor,Beauty & Personal Care,AromaBloom,3.2,A deluxe razor designed for everyday beauty & personal care needs.,Beauty
+295,Signature Coffee Beans,Grocery,GreenHarvest,29.45,Experience the signature coffee beans - a customer favorite in grocery.,Coffee Beans
+296,All-in-One Jacket,Fashion,Velure,18.02,"all-in-one jacket built to last, loved by thousands of buyers.","new,Jacket"
+297,All-in-One Earbuds,Electronics,Voltix,99.17,A all-in-one earbuds designed for everyday electronics needs.,"All-in-One,Earbuds,Electronics"
+298,Smart Belt,Fashion,UrbanThread,65.8,Experience the smart belt - a customer favorite in fashion.,"Fashion,Belt"
+299,Handcrafted Monitor,Electronics,PixelPro,223.98,Experience the handcrafted monitor - a customer favorite in electronics.,new
+300,Pro Webcam,Electronics,Voltix,262.53,Upgrade your routine with this pro webcam.,"bestseller,Pro"
+301,Compact Razor,Beauty & Personal Care,AromaBloom,13.35,Experience the compact razor - a customer favorite in beauty & personal care.,Compact
+302,Ultra Water Bottle,Sports & Outdoors,TrailBlaze,39.74,"ultra water bottle built to last, loved by thousands of buyers.","bestseller,Ultra"
+303,Eco-Friendly Board Game,Toys & Games,PlayNest,36.95,Experience the eco-friendly board game - a customer favorite in toys & games.,"bestseller,Eco-Friendly"
+304,All-in-One Bedding Set,Home & Kitchen,PrimeHaus,77.41,A all-in-one bedding set designed for everyday home & kitchen needs.,"Bedding Set,bestseller,new"
+305,Compact Shampoo,Beauty & Personal Care,GlowLab,4.07,This compact shampoo combines quality and value for beauty & personal care shoppers.,"bestseller,new"
+306,Handcrafted Face Serum,Beauty & Personal Care,PureSkin,3.0,Experience the handcrafted face serum - a customer favorite in beauty & personal care.,"Face Serum,Beauty,new"
+307,Everyday Organizer,Home & Kitchen,HearthCo,58.79,"everyday organizer built to last, loved by thousands of buyers.","Organizer,Home"
+308,Smart Keyboard,Electronics,PixelPro,96.46,"smart keyboard built to last, loved by thousands of buyers.","Smart,Electronics"
+309,Ultra Hair Dryer,Beauty & Personal Care,GlowLab,26.94,"ultra hair dryer built to last, loved by thousands of buyers.","Hair Dryer,Beauty,new"
+310,Lightweight Novel,Books,Inkwell Press,21.15,"lightweight novel built to last, loved by thousands of buyers.","Novel,Books,Lightweight"
+311,Handcrafted Dumbbell Set,Sports & Outdoors,PeakForm,43.73,Experience the handcrafted dumbbell set - a customer favorite in sports & outdoors.,"Sports,bestseller,new"
+312,Everyday Charger,Electronics,PixelPro,176.37,This everyday charger combines quality and value for electronics shoppers.,Charger
+313,Compact Scarf,Fashion,Northgear,105.75,Upgrade your routine with this compact scarf.,"Compact,new,bestseller"
+314,Handcrafted Air Fryer,Home & Kitchen,Kindle & Wick,26.14,Experience the handcrafted air fryer - a customer favorite in home & kitchen.,"Home,Handcrafted"
+315,Smart Belt,Fashion,Velure,82.84,A smart belt designed for everyday fashion needs.,new
+316,Smart Novel,Books,Chapter House,6.8,Experience the smart novel - a customer favorite in books.,Books
+317,Everyday Coffee Maker,Home & Kitchen,HearthCo,20.8,"everyday coffee maker built to last, loved by thousands of buyers.","Coffee Maker,Home,Everyday"
+318,Premium Tea Set,Grocery,PantryPlus,11.12,This premium tea set combines quality and value for grocery shoppers.,"Premium,Grocery"
+319,Classic Board Game,Toys & Games,Wonderkit,20.73,A classic board game designed for everyday toys & games needs.,"Classic,Toys"
+320,Deluxe Lamp,Home & Kitchen,PrimeHaus,65.78,A deluxe lamp designed for everyday home & kitchen needs.,new
+321,Eco-Friendly Water Bottle,Sports & Outdoors,PeakForm,26.84,"eco-friendly water bottle built to last, loved by thousands of buyers.","bestseller,Eco-Friendly"
+322,Ultra T-Shirt,Fashion,UrbanThread,15.99,"ultra t-shirt built to last, loved by thousands of buyers.","T-Shirt,new"
+323,Deluxe Camping Tent,Sports & Outdoors,IronCore,82.5,Upgrade your routine with this deluxe camping tent.,"bestseller,Sports,Deluxe"
+324,Signature Puzzle,Toys & Games,Wonderkit,23.4,A signature puzzle designed for everyday toys & games needs.,"Toys,bestseller"
+325,Compact Dumbbell Set,Sports & Outdoors,IronCore,91.93,This compact dumbbell set combines quality and value for sports & outdoors shoppers.,Sports
+326,Ultra Backpack,Fashion,Velure,28.73,Upgrade your routine with this ultra backpack.,"bestseller,Fashion,Ultra"
+327,Compact Building Blocks,Toys & Games,Wonderkit,18.66,This compact building blocks combines quality and value for toys & games shoppers.,"Compact,Building Blocks"
+328,Everyday Webcam,Electronics,Sonik,18.52,A everyday webcam designed for everyday electronics needs.,"new,bestseller,Everyday"
+329,Deluxe Jacket,Fashion,Northgear,8.45,This deluxe jacket combines quality and value for fashion shoppers.,Deluxe
+330,Classic Granola Bars,Grocery,DailyBasket,22.7,Upgrade your routine with this classic granola bars.,Granola Bars
+331,Lightweight Belt,Fashion,UrbanThread,111.09,This lightweight belt combines quality and value for fashion shoppers.,"Belt,Fashion,bestseller"
+332,Classic Journal,Books,Nova Publishing,22.37,Experience the classic journal - a customer favorite in books.,"Classic,Books,bestseller"
+333,Everyday Organic Snack Pack,Grocery,FreshField,12.83,A everyday organic snack pack designed for everyday grocery needs.,"bestseller,Grocery,Organic Snack Pack"
+334,Pro Olive Oil,Grocery,PantryPlus,20.12,This pro olive oil combines quality and value for grocery shoppers.,"Olive Oil,Pro"
+335,Lightweight Action Figure,Toys & Games,FunForge,12.61,Upgrade your routine with this lightweight action figure.,"new,Lightweight"
+336,Compact Belt,Fashion,Velure,28.88,,Compact
+337,Classic T-Shirt,Fashion,,66.93,Experience the classic t-shirt - a customer favorite in fashion.,Fashion
+338,Compact Speaker,Electronics,PixelPro,310.05,A compact speaker designed for everyday electronics needs.,"new,Compact,Electronics"
+339,Everyday Action Figure,Toys & Games,Brickbound,37.24,A everyday action figure designed for everyday toys & games needs.,"bestseller,Action Figure"
+340,Premium Tea Set,Grocery,GreenHarvest,7.49,"premium tea set built to last, loved by thousands of buyers.",bestseller
+341,Classic Speaker,Electronics,Sonik,241.64,"classic speaker built to last, loved by thousands of buyers.",Speaker
+342,Wireless Speaker,Electronics,Voltix,48.86,Upgrade your routine with this wireless speaker.,"Electronics,new"
+343,Everyday Dumbbell Set,Sports & Outdoors,IronCore,48.91,"everyday dumbbell set built to last, loved by thousands of buyers.","Dumbbell Set,Everyday"
+344,Premium Sneakers,Fashion,Northgear,11.87,"premium sneakers built to last, loved by thousands of buyers.","Fashion,new,Premium"
+345,Pro Keyboard,Electronics,Voltix,144.89,"pro keyboard built to last, loved by thousands of buyers.",Pro
+346,Wireless Vacuum Cleaner,Home & Kitchen,PrimeHaus,29.98,A wireless vacuum cleaner designed for everyday home & kitchen needs.,Home
+347,Portable Coffee Beans,Grocery,GreenHarvest,3.61,"portable coffee beans built to last, loved by thousands of buyers.",Grocery
+348,All-in-One Hat,Fashion,Lunaire,13.52,This all-in-one hat combines quality and value for fashion shoppers.,"bestseller,All-in-One"
+349,Handcrafted Board Game,Toys & Games,PlayNest,77.07,Upgrade your routine with this handcrafted board game.,"Handcrafted,bestseller"
+350,Handcrafted Bike Helmet,Sports & Outdoors,IronCore,84.58,"handcrafted bike helmet built to last, loved by thousands of buyers.","Sports,Handcrafted,new"
+351,Pro Remote Car,Toys & Games,FunForge,62.19,Upgrade your routine with this pro remote car.,"Toys,Pro"
+352,Classic Puzzle,Toys & Games,PlayNest,29.93,"classic puzzle built to last, loved by thousands of buyers.","new,Puzzle,Classic"
+353,Portable Moisturizer,Beauty & Personal Care,GlowLab,3.0,Experience the portable moisturizer - a customer favorite in beauty & personal care.,"bestseller,Beauty,new"
+354,Portable Running Shoes,Sports & Outdoors,IronCore,25.77,Upgrade your routine with this portable running shoes.,bestseller
+355,All-in-One Novel,Books,Chapter House,14.68,Experience the all-in-one novel - a customer favorite in books.,Novel
+356,Handcrafted Shampoo,Beauty & Personal Care,PureSkin,11.22,"handcrafted shampoo built to last, loved by thousands of buyers.",new
+357,Lightweight Perfume,Beauty & Personal Care,GlowLab,6.6,A lightweight perfume designed for everyday beauty & personal care needs.,"Lightweight,new,Perfume"
+358,Deluxe Yoga Mat,Sports & Outdoors,SwiftStride,44.68,Experience the deluxe yoga mat - a customer favorite in sports & outdoors.,"Deluxe,new"
+359,Classic Headphones,Electronics,Sonik,162.15,This classic headphones combines quality and value for electronics shoppers.,"Classic,Electronics,bestseller"
+360,Classic Dumbbell Set,Sports & Outdoors,SwiftStride,182.58,Experience the classic dumbbell set - a customer favorite in sports & outdoors.,"new,Sports"
+361,Handcrafted Lipstick,Beauty & Personal Care,PureSkin,54.1,Upgrade your routine with this handcrafted lipstick.,"Handcrafted,bestseller,Beauty"
+362,Wireless Organic Snack Pack,Grocery,FreshField,15.44,"wireless organic snack pack built to last, loved by thousands of buyers.","Wireless,bestseller,Grocery"
+363,Ultra Air Fryer,Home & Kitchen,CozyNest,48.27,Experience the ultra air fryer - a customer favorite in home & kitchen.,"new,bestseller,Air Fryer"
+364,Wireless Organizer,Home & Kitchen,PrimeHaus,91.74,Experience the wireless organizer - a customer favorite in home & kitchen.,Organizer
+365,Pro Coffee Maker,Home & Kitchen,HearthCo,36.16,Upgrade your routine with this pro coffee maker.,"Pro,Coffee Maker,new"
+366,Premium Board Game,Toys & Games,Brickbound,25.53,Upgrade your routine with this premium board game.,Premium
+367,Deluxe Coffee Maker,Home & Kitchen,Kindle & Wick,85.36,,"Deluxe,Home,Coffee Maker"
+368,Wireless Router,Electronics,Sonik,119.89,Experience the wireless router - a customer favorite in electronics.,"Wireless,Router,new"
+369,Compact Webcam,Electronics,PixelPro,188.87,A compact webcam designed for everyday electronics needs.,"bestseller,Compact,new"
+370,Signature Journal,Books,Chapter House,10.15,,Journal
+371,Handcrafted Dumbbell Set,Sports & Outdoors,SwiftStride,24.04,"handcrafted dumbbell set built to last, loved by thousands of buyers.","new,Handcrafted"
+372,Classic Backpack,Fashion,Northgear,34.06,A classic backpack designed for everyday fashion needs.,"Backpack,Fashion,bestseller"
+373,Everyday Bike Helmet,Sports & Outdoors,PeakForm,62.24,This everyday bike helmet combines quality and value for sports & outdoors shoppers.,"Sports,Everyday,Bike Helmet"
+374,Compact Monitor,Electronics,TechNova,228.28,A compact monitor designed for everyday electronics needs.,"bestseller,new,Compact"
+375,Lightweight Dumbbell Set,Sports & Outdoors,PeakForm,60.57,A lightweight dumbbell set designed for everyday sports & outdoors needs.,Lightweight
+376,Lightweight Hat,Fashion,Velure,51.11,Upgrade your routine with this lightweight hat.,Lightweight
+377,Portable Jacket,Fashion,Northgear,36.76,This portable jacket combines quality and value for fashion shoppers.,bestseller
+378,All-in-One Organizer,Home & Kitchen,PrimeHaus,31.13,This all-in-one organizer combines quality and value for home & kitchen shoppers.,Home
+379,Pro Organizer,Home & Kitchen,Kindle & Wick,9.44,Experience the pro organizer - a customer favorite in home & kitchen.,"Pro,Organizer"
+380,Compact Remote Car,Toys & Games,FunForge,37.5,Experience the compact remote car - a customer favorite in toys & games.,Compact
+381,Lightweight Charger,Electronics,Sonik,52.03,A lightweight charger designed for everyday electronics needs.,new
+382,Everyday Coffee Beans,Grocery,PantryPlus,24.86,Upgrade your routine with this everyday coffee beans.,"Everyday,Coffee Beans"
+383,Pro Spice Mix,Grocery,FreshField,15.95,This pro spice mix combines quality and value for grocery shoppers.,Pro
+384,Deluxe Novel,Books,Inkwell Press,29.69,A deluxe novel designed for everyday books needs.,"new,Books"
+385,Portable Power Bank,Electronics,Voltix,16.95,"portable power bank built to last, loved by thousands of buyers.","Electronics,new"
+386,Ultra Tea Set,Grocery,FreshField,3.42,A ultra tea set designed for everyday grocery needs.,new
+387,Smart Building Blocks,Toys & Games,Wonderkit,41.91,Upgrade your routine with this smart building blocks.,"Smart,new"
+388,Premium Organizer,Home & Kitchen,CozyNest,64.53,This premium organizer combines quality and value for home & kitchen shoppers.,"Home,Premium,new"
+389,Compact Bike Helmet,Sports & Outdoors,PeakForm,59.35,This compact bike helmet combines quality and value for sports & outdoors shoppers.,Sports
+390,All-in-One Water Bottle,Sports & Outdoors,IronCore,58.89,Experience the all-in-one water bottle - a customer favorite in sports & outdoors.,All-in-One
+391,Deluxe Guidebook,Books,Chapter House,30.83,"deluxe guidebook built to last, loved by thousands of buyers.","Deluxe,new,Books"
+392,Smart Air Fryer,Home & Kitchen,HearthCo,37.42,Experience the smart air fryer - a customer favorite in home & kitchen.,"Home,bestseller,Smart"
+393,Compact Puzzle,Toys & Games,Brickbound,10.7,Upgrade your routine with this compact puzzle.,Compact
+394,Premium Olive Oil,Grocery,GreenHarvest,17.31,,"Olive Oil,bestseller"
+395,Premium Air Fryer,Home & Kitchen,Kindle & Wick,72.66,A premium air fryer designed for everyday home & kitchen needs.,"Air Fryer,bestseller,new"
+396,Classic Razor,Beauty & Personal Care,,42.97,A classic razor designed for everyday beauty & personal care needs.,"bestseller,Razor,Classic"
+397,Smart Webcam,Electronics,PixelPro,185.82,"smart webcam built to last, loved by thousands of buyers.",new
+398,Smart Action Figure,Toys & Games,PlayNest,24.81,Experience the smart action figure - a customer favorite in toys & games.,"new,Action Figure"
+399,Pro Shampoo,Beauty & Personal Care,PureSkin,16.25,This pro shampoo combines quality and value for beauty & personal care shoppers.,"new,Beauty"
+400,Deluxe Biography,Books,Inkwell Press,22.13,A deluxe biography designed for everyday books needs.,"bestseller,new"
+401,All-in-One Hat,Fashion,Northgear,85.32,This all-in-one hat combines quality and value for fashion shoppers.,Hat
+402,Everyday Charger,Electronics,PixelPro,47.12,Experience the everyday charger - a customer favorite in electronics.,Electronics
+403,Ultra Power Bank,Electronics,PixelPro,24.88,,Ultra
+404,Signature Webcam,Electronics,,45.51,Upgrade your routine with this signature webcam.,Webcam
+405,Portable Face Serum,Beauty & Personal Care,Verdant,20.85,Experience the portable face serum - a customer favorite in beauty & personal care.,Face Serum
+406,Signature Lamp,Home & Kitchen,Kindle & Wick,21.01,This signature lamp combines quality and value for home & kitchen shoppers.,"Home,new,bestseller"
+407,Classic T-Shirt,Fashion,Velure,75.77,Experience the classic t-shirt - a customer favorite in fashion.,"bestseller,Classic"
+408,Handcrafted Poetry Collection,Books,Nova Publishing,14.83,Experience the handcrafted poetry collection - a customer favorite in books.,"bestseller,Books"
+409,Portable Biography,Books,,16.85,This portable biography combines quality and value for books shoppers.,"Biography,Portable,bestseller"
+410,Lightweight Perfume,Beauty & Personal Care,PureSkin,30.45,Upgrade your routine with this lightweight perfume.,new
+411,All-in-One Hair Dryer,Beauty & Personal Care,Verdant,30.48,"all-in-one hair dryer built to last, loved by thousands of buyers.","Hair Dryer,new"
+412,Portable Power Bank,Electronics,PixelPro,76.45,This portable power bank combines quality and value for electronics shoppers.,"bestseller,Electronics,Portable"
+413,Premium Speaker,Electronics,Sonik,165.58,Upgrade your routine with this premium speaker.,"Premium,Electronics,new"
+414,All-in-One Running Shoes,Sports & Outdoors,IronCore,14.62,Experience the all-in-one running shoes - a customer favorite in sports & outdoors.,All-in-One
+415,Deluxe Belt,Fashion,Velure,9.23,Upgrade your routine with this deluxe belt.,"bestseller,Belt"
+416,Pro Tea Set,Grocery,GreenHarvest,26.54,This pro tea set combines quality and value for grocery shoppers.,new
+417,Handcrafted Lamp,Home & Kitchen,Kindle & Wick,83.39,A handcrafted lamp designed for everyday home & kitchen needs.,"Handcrafted,Home"
+418,Classic Perfume,Beauty & Personal Care,PureSkin,52.37,Experience the classic perfume - a customer favorite in beauty & personal care.,bestseller
+419,Pro Biography,Books,Quill & Co,23.54,This pro biography combines quality and value for books shoppers.,"bestseller,Books,Biography"
+420,Classic Puzzle,Toys & Games,FunForge,7.32,"classic puzzle built to last, loved by thousands of buyers.","Toys,new,Puzzle"
+421,Eco-Friendly Novel,Books,,23.85,A eco-friendly novel designed for everyday books needs.,"Eco-Friendly,Books"
+422,Eco-Friendly Sunglasses,Fashion,Lunaire,11.85,Upgrade your routine with this eco-friendly sunglasses.,"new,Sunglasses"
+423,Lightweight Air Fryer,Home & Kitchen,HearthCo,94.44,Experience the lightweight air fryer - a customer favorite in home & kitchen.,"Home,new,Air Fryer"
+424,Ultra Olive Oil,Grocery,FreshField,7.59,Upgrade your routine with this ultra olive oil.,"bestseller,Olive Oil,Grocery"
+425,Compact Dumbbell Set,Sports & Outdoors,SwiftStride,38.56,Experience the compact dumbbell set - a customer favorite in sports & outdoors.,"Dumbbell Set,Compact,Sports"
+426,Portable Puzzle,Toys & Games,PlayNest,60.84,Experience the portable puzzle - a customer favorite in toys & games.,"Puzzle,Portable,Toys"
+427,Smart Board Game,Toys & Games,FunForge,24.63,"smart board game built to last, loved by thousands of buyers.","new,Toys"
+428,Eco-Friendly Cookbook,Books,Nova Publishing,51.68,This eco-friendly cookbook combines quality and value for books shoppers.,"bestseller,Books,new"
+429,All-in-One Power Bank,Electronics,Sonik,238.85,Upgrade your routine with this all-in-one power bank.,"new,Power Bank,All-in-One"
+430,Smart Face Serum,Beauty & Personal Care,AromaBloom,40.08,A smart face serum designed for everyday beauty & personal care needs.,"bestseller,Beauty"
+431,Pro Jacket,Fashion,Northgear,37.1,Upgrade your routine with this pro jacket.,"Pro,Fashion"
+432,All-in-One Face Serum,Beauty & Personal Care,AromaBloom,37.6,Experience the all-in-one face serum - a customer favorite in beauty & personal care.,"Beauty,new"
+433,All-in-One Remote Car,Toys & Games,PlayNest,24.28,Upgrade your routine with this all-in-one remote car.,"bestseller,Remote Car,Toys"
+434,Signature Building Blocks,Toys & Games,Wonderkit,23.16,This signature building blocks combines quality and value for toys & games shoppers.,"Building Blocks,bestseller,new"
+435,Everyday Water Bottle,Sports & Outdoors,PeakForm,27.86,A everyday water bottle designed for everyday sports & outdoors needs.,"Everyday,Water Bottle,bestseller"
+436,Ultra Organizer,Home & Kitchen,CozyNest,89.78,Upgrade your routine with this ultra organizer.,"new,Ultra,Home"
+437,Lightweight Belt,Fashion,Lunaire,27.39,Upgrade your routine with this lightweight belt.,Lightweight
+438,Deluxe Action Figure,Toys & Games,Brickbound,28.09,Experience the deluxe action figure - a customer favorite in toys & games.,new
+439,Deluxe Face Serum,Beauty & Personal Care,PureSkin,32.18,Experience the deluxe face serum - a customer favorite in beauty & personal care.,Beauty
+440,Pro Guidebook,Books,Nova Publishing,6.28,"pro guidebook built to last, loved by thousands of buyers.","Books,Guidebook"
+441,Lightweight Water Bottle,Sports & Outdoors,PeakForm,14.51,A lightweight water bottle designed for everyday sports & outdoors needs.,"Water Bottle,Sports,bestseller"
+442,Compact Olive Oil,Grocery,GreenHarvest,7.0,Experience the compact olive oil - a customer favorite in grocery.,"Olive Oil,bestseller,Compact"
+443,Smart Water Bottle,Sports & Outdoors,IronCore,41.82,Upgrade your routine with this smart water bottle.,"Smart,Water Bottle"
+444,Wireless Router,Electronics,TechNova,105.3,Upgrade your routine with this wireless router.,"bestseller,Router,Wireless"
+445,Classic Biography,Books,Nova Publishing,8.44,"classic biography built to last, loved by thousands of buyers.","bestseller,Books"
+446,Premium Camping Tent,Sports & Outdoors,IronCore,27.25,Upgrade your routine with this premium camping tent.,"bestseller,Camping Tent"
+447,Handcrafted Moisturizer,Beauty & Personal Care,AromaBloom,38.48,This handcrafted moisturizer combines quality and value for beauty & personal care shoppers.,"new,bestseller"
+448,Ultra Lamp,Home & Kitchen,CozyNest,34.55,Upgrade your routine with this ultra lamp.,"Lamp,bestseller"
+449,Compact Dumbbell Set,Sports & Outdoors,PeakForm,57.8,This compact dumbbell set combines quality and value for sports & outdoors shoppers.,"new,Sports"
+450,Deluxe Remote Car,Toys & Games,,18.11,Upgrade your routine with this deluxe remote car.,Toys
+451,Everyday Sunglasses,Fashion,Velure,36.23,Experience the everyday sunglasses - a customer favorite in fashion.,"Fashion,bestseller"
+452,Compact Earbuds,Electronics,Voltix,79.19,,"Electronics,new,bestseller"
+453,All-in-One Lipstick,Beauty & Personal Care,AromaBloom,32.37,Experience the all-in-one lipstick - a customer favorite in beauty & personal care.,"Lipstick,bestseller,Beauty"
+454,Smart Guidebook,Books,Nova Publishing,29.11,This smart guidebook combines quality and value for books shoppers.,"new,Smart,Guidebook"
+455,Handcrafted Guidebook,Books,Quill & Co,32.05,Experience the handcrafted guidebook - a customer favorite in books.,"new,Guidebook"
+456,Smart Water Bottle,Sports & Outdoors,PeakForm,44.52,"smart water bottle built to last, loved by thousands of buyers.","bestseller,Sports,new"
+457,Lightweight Razor,Beauty & Personal Care,GlowLab,18.57,A lightweight razor designed for everyday beauty & personal care needs.,"new,Razor"
+458,All-in-One Handbag,Fashion,UrbanThread,11.11,This all-in-one handbag combines quality and value for fashion shoppers.,Fashion
+459,Classic Perfume,Beauty & Personal Care,PureSkin,37.71,This classic perfume combines quality and value for beauty & personal care shoppers.,"Beauty,bestseller"
+460,All-in-One Sunglasses,Fashion,UrbanThread,14.23,Experience the all-in-one sunglasses - a customer favorite in fashion.,"bestseller,new"
+461,Compact Board Game,Toys & Games,Brickbound,10.04,A compact board game designed for everyday toys & games needs.,"Toys,new"
+462,Ultra Hat,Fashion,UrbanThread,13.34,Experience the ultra hat - a customer favorite in fashion.,Hat
+463,Pro Monitor,Electronics,TechNova,69.57,This pro monitor combines quality and value for electronics shoppers.,new
+464,Wireless Webcam,Electronics,PixelPro,74.0,This wireless webcam combines quality and value for electronics shoppers.,Electronics
+465,Eco-Friendly Headphones,Electronics,Sonik,127.67,This eco-friendly headphones combines quality and value for electronics shoppers.,Electronics
+466,Compact Keyboard,Electronics,PixelPro,23.21,This compact keyboard combines quality and value for electronics shoppers.,"new,Electronics,Keyboard"
+467,Premium Running Shoes,Sports & Outdoors,PeakForm,36.67,Upgrade your routine with this premium running shoes.,Premium
+468,Premium Tea Set,Grocery,GreenHarvest,19.99,This premium tea set combines quality and value for grocery shoppers.,bestseller
+469,Signature Coffee Beans,Grocery,FreshField,21.14,This signature coffee beans combines quality and value for grocery shoppers.,bestseller
+470,Smart Guidebook,Books,Chapter House,16.05,"smart guidebook built to last, loved by thousands of buyers.","Books,Smart,bestseller"
+471,Smart Action Figure,Toys & Games,Wonderkit,3.57,A smart action figure designed for everyday toys & games needs.,"new,Toys,Action Figure"
+472,Eco-Friendly Sunglasses,Fashion,Lunaire,72.78,Experience the eco-friendly sunglasses - a customer favorite in fashion.,new
+473,Classic Hat,Fashion,Lunaire,19.83,A classic hat designed for everyday fashion needs.,"Hat,Fashion"
+474,Handcrafted Webcam,Electronics,TechNova,288.44,Experience the handcrafted webcam - a customer favorite in electronics.,"bestseller,Webcam"
+475,Compact Organic Snack Pack,Grocery,FreshField,9.68,"compact organic snack pack built to last, loved by thousands of buyers.","Grocery,Compact"
+476,Ultra Blender,Home & Kitchen,CozyNest,62.22,Experience the ultra blender - a customer favorite in home & kitchen.,Ultra
+477,Smart Novel,Books,Inkwell Press,9.1,Upgrade your routine with this smart novel.,"new,Smart,Novel"
+478,All-in-One Journal,Books,Chapter House,21.15,Experience the all-in-one journal - a customer favorite in books.,"new,bestseller,All-in-One"
+479,Smart Camping Tent,Sports & Outdoors,SwiftStride,88.13,Experience the smart camping tent - a customer favorite in sports & outdoors.,Sports
+480,Everyday Air Fryer,Home & Kitchen,Kindle & Wick,24.49,"everyday air fryer built to last, loved by thousands of buyers.","Air Fryer,bestseller"
+481,Pro Shampoo,Beauty & Personal Care,Verdant,31.85,A pro shampoo designed for everyday beauty & personal care needs.,"new,bestseller"
+482,Smart Shampoo,Beauty & Personal Care,GlowLab,18.95,This smart shampoo combines quality and value for beauty & personal care shoppers.,bestseller
+483,Premium Journal,Books,Nova Publishing,15.96,Upgrade your routine with this premium journal.,Premium
+484,Deluxe Novel,Books,Quill & Co,27.14,,"Deluxe,bestseller"
+485,Eco-Friendly Cookbook,Books,Nova Publishing,20.4,Upgrade your routine with this eco-friendly cookbook.,"Eco-Friendly,Books"
+486,Deluxe Charger,Electronics,Voltix,247.99,This deluxe charger combines quality and value for electronics shoppers.,Electronics
+487,Compact Journal,Books,Quill & Co,27.05,Experience the compact journal - a customer favorite in books.,"bestseller,Compact"
+488,Smart Journal,Books,Nova Publishing,25.36,"smart journal built to last, loved by thousands of buyers.","Books,new,Smart"
+489,Pro Olive Oil,Grocery,GreenHarvest,10.79,"pro olive oil built to last, loved by thousands of buyers.",new
+490,Eco-Friendly Headphones,Electronics,PixelPro,7.01,"eco-friendly headphones built to last, loved by thousands of buyers.",Eco-Friendly
+491,Everyday Journal,Books,Inkwell Press,7.9,Upgrade your routine with this everyday journal.,Journal
+492,Wireless Yoga Mat,Sports & Outdoors,PeakForm,76.43,Upgrade your routine with this wireless yoga mat.,Wireless
+493,Smart Cookbook,Books,Nova Publishing,6.75,"smart cookbook built to last, loved by thousands of buyers.",Cookbook
+494,Signature Coffee Maker,Home & Kitchen,PrimeHaus,121.78,A signature coffee maker designed for everyday home & kitchen needs.,"Home,new"
+495,Pro Perfume,Beauty & Personal Care,AromaBloom,51.78,Upgrade your routine with this pro perfume.,"bestseller,Beauty,Perfume"
+496,Wireless Webcam,Electronics,Voltix,51.23,"wireless webcam built to last, loved by thousands of buyers.",new
+497,Lightweight Novel,Books,Inkwell Press,4.72,This lightweight novel combines quality and value for books shoppers.,"Books,new"
+498,Ultra Remote Car,Toys & Games,Wonderkit,36.04,This ultra remote car combines quality and value for toys & games shoppers.,"Remote Car,bestseller"
+499,Ultra Belt,Fashion,Velure,50.82,A ultra belt designed for everyday fashion needs.,Belt
+500,Premium Textbook,Books,Quill & Co,59.64,Experience the premium textbook - a customer favorite in books.,"Textbook,Books,bestseller"
+501,Wireless Organic Snack Pack,Grocery,GreenHarvest,5.48,Experience the wireless organic snack pack - a customer favorite in grocery.,Grocery
+502,Everyday Razor,Beauty & Personal Care,GlowLab,10.97,This everyday razor combines quality and value for beauty & personal care shoppers.,Beauty
+503,Eco-Friendly Novel,Books,Inkwell Press,31.56,Experience the eco-friendly novel - a customer favorite in books.,"new,bestseller"
+504,Lightweight Air Fryer,Home & Kitchen,Kindle & Wick,121.57,A lightweight air fryer designed for everyday home & kitchen needs.,"Home,Air Fryer,new"
+505,Ultra Headphones,Electronics,PixelPro,136.33,"ultra headphones built to last, loved by thousands of buyers.",Electronics
+506,Compact Spice Mix,Grocery,DailyBasket,5.71,"compact spice mix built to last, loved by thousands of buyers.",Compact
+507,Handcrafted Spice Mix,Grocery,FreshField,13.02,This handcrafted spice mix combines quality and value for grocery shoppers.,"Grocery,Spice Mix,new"
+508,All-in-One Remote Car,Toys & Games,PlayNest,35.97,This all-in-one remote car combines quality and value for toys & games shoppers.,"All-in-One,Remote Car"
+509,Lightweight Hat,Fashion,Northgear,7.3,This lightweight hat combines quality and value for fashion shoppers.,new
+510,Signature Textbook,Books,Quill & Co,7.25,Upgrade your routine with this signature textbook.,"Signature,Books,new"
+511,Compact Shampoo,Beauty & Personal Care,AromaBloom,27.95,"compact shampoo built to last, loved by thousands of buyers.","Compact,new"
+512,Classic Dumbbell Set,Sports & Outdoors,SwiftStride,113.2,Experience the classic dumbbell set - a customer favorite in sports & outdoors.,"Classic,new"
+513,Everyday Backpack,Fashion,Northgear,50.95,A everyday backpack designed for everyday fashion needs.,"Everyday,Fashion,Backpack"
+514,Handcrafted Handbag,Fashion,Velure,106.87,Upgrade your routine with this handcrafted handbag.,"new,Fashion,Handbag"
+515,Handcrafted Cookware Set,Home & Kitchen,Kindle & Wick,64.49,This handcrafted cookware set combines quality and value for home & kitchen shoppers.,"bestseller,new"
+516,Premium Dumbbell Set,Sports & Outdoors,SwiftStride,44.89,A premium dumbbell set designed for everyday sports & outdoors needs.,Sports
+517,Eco-Friendly Bedding Set,Home & Kitchen,,55.37,This eco-friendly bedding set combines quality and value for home & kitchen shoppers.,new
+518,Lightweight Organic Snack Pack,Grocery,DailyBasket,38.65,Experience the lightweight organic snack pack - a customer favorite in grocery.,Grocery
+519,Deluxe Blender,Home & Kitchen,CozyNest,52.0,Experience the deluxe blender - a customer favorite in home & kitchen.,bestseller
+520,Smart Shampoo,Beauty & Personal Care,PureSkin,27.28,This smart shampoo combines quality and value for beauty & personal care shoppers.,"bestseller,Shampoo,Beauty"
+521,Ultra Guidebook,Books,Inkwell Press,8.32,Experience the ultra guidebook - a customer favorite in books.,Books
+522,Wireless Olive Oil,Grocery,GreenHarvest,9.58,A wireless olive oil designed for everyday grocery needs.,new
+523,Premium Spice Mix,Grocery,PantryPlus,3.04,A premium spice mix designed for everyday grocery needs.,bestseller
+524,Signature Action Figure,Toys & Games,PlayNest,23.07,This signature action figure combines quality and value for toys & games shoppers.,"Toys,new"
+525,Handcrafted Backpack,Fashion,UrbanThread,30.8,Upgrade your routine with this handcrafted backpack.,"Fashion,Handcrafted"
+526,Smart Blender,Home & Kitchen,,18.73,This smart blender combines quality and value for home & kitchen shoppers.,"bestseller,Blender,Home"
+527,Handcrafted Moisturizer,Beauty & Personal Care,PureSkin,19.96,"handcrafted moisturizer built to last, loved by thousands of buyers.",new
+528,Compact Spice Mix,Grocery,DailyBasket,11.51,A compact spice mix designed for everyday grocery needs.,"new,Compact,Spice Mix"
+529,All-in-One Olive Oil,Grocery,DailyBasket,21.27,This all-in-one olive oil combines quality and value for grocery shoppers.,"Olive Oil,bestseller,new"
+530,Pro Lamp,Home & Kitchen,PrimeHaus,48.95,This pro lamp combines quality and value for home & kitchen shoppers.,"bestseller,Pro,Home"
+531,Deluxe Hat,Fashion,UrbanThread,17.11,Upgrade your routine with this deluxe hat.,"bestseller,Deluxe"
+532,Compact Bedding Set,Home & Kitchen,HearthCo,51.63,Upgrade your routine with this compact bedding set.,"new,Bedding Set,bestseller"
+533,Pro Organizer,Home & Kitchen,PrimeHaus,41.57,"pro organizer built to last, loved by thousands of buyers.",new
+534,Premium Building Blocks,Toys & Games,FunForge,48.6,This premium building blocks combines quality and value for toys & games shoppers.,"bestseller,Toys,new"
+535,All-in-One Blender,Home & Kitchen,Kindle & Wick,29.59,"all-in-one blender built to last, loved by thousands of buyers.","Blender,new"
+536,Handcrafted Novel,Books,Chapter House,20.62,This handcrafted novel combines quality and value for books shoppers.,"bestseller,new,Books"
+537,Compact Razor,Beauty & Personal Care,GlowLab,11.72,"compact razor built to last, loved by thousands of buyers.","Beauty,new"
+538,Pro Tea Set,Grocery,PantryPlus,3.29,Upgrade your routine with this pro tea set.,new
+539,Deluxe Sunglasses,Fashion,Velure,17.86,A deluxe sunglasses designed for everyday fashion needs.,"Fashion,new,Sunglasses"
+540,Eco-Friendly Camping Tent,Sports & Outdoors,TrailBlaze,41.42,"eco-friendly camping tent built to last, loved by thousands of buyers.",new
+541,Smart Puzzle,Toys & Games,PlayNest,26.88,A smart puzzle designed for everyday toys & games needs.,bestseller
+542,Premium Poetry Collection,Books,Quill & Co,27.85,Experience the premium poetry collection - a customer favorite in books.,Premium
+543,Deluxe Headphones,Electronics,Sonik,39.61,Experience the deluxe headphones - a customer favorite in electronics.,new
+544,Lightweight Lipstick,Beauty & Personal Care,GlowLab,21.54,"lightweight lipstick built to last, loved by thousands of buyers.","Lightweight,bestseller"
+545,Deluxe Organic Snack Pack,Grocery,GreenHarvest,16.37,Experience the deluxe organic snack pack - a customer favorite in grocery.,"Deluxe,Grocery,bestseller"
+546,All-in-One Coffee Maker,Home & Kitchen,CozyNest,78.88,Experience the all-in-one coffee maker - a customer favorite in home & kitchen.,bestseller
+547,Premium Novel,Books,Inkwell Press,23.63,This premium novel combines quality and value for books shoppers.,Books
+548,Handcrafted Remote Car,Toys & Games,PlayNest,7.72,"handcrafted remote car built to last, loved by thousands of buyers.","Handcrafted,Remote Car,new"
+549,Handcrafted Hair Dryer,Beauty & Personal Care,AromaBloom,36.24,This handcrafted hair dryer combines quality and value for beauty & personal care shoppers.,"new,bestseller"
+550,Deluxe Granola Bars,Grocery,DailyBasket,8.92,Experience the deluxe granola bars - a customer favorite in grocery.,"new,Deluxe"
+551,Deluxe Shampoo,Beauty & Personal Care,Verdant,16.1,Experience the deluxe shampoo - a customer favorite in beauty & personal care.,"Shampoo,Beauty"
+552,Wireless Running Shoes,Sports & Outdoors,TrailBlaze,42.83,This wireless running shoes combines quality and value for sports & outdoors shoppers.,"Running Shoes,new,Sports"
+553,Handcrafted Router,Electronics,PixelPro,66.04,A handcrafted router designed for everyday electronics needs.,Electronics
+554,Ultra Cookbook,Books,Quill & Co,14.81,A ultra cookbook designed for everyday books needs.,"Books,bestseller"
+555,Eco-Friendly Yoga Mat,Sports & Outdoors,PeakForm,8.67,This eco-friendly yoga mat combines quality and value for sports & outdoors shoppers.,"Yoga Mat,Eco-Friendly"
+556,Smart Lamp,Home & Kitchen,HearthCo,35.27,"smart lamp built to last, loved by thousands of buyers.","Lamp,Home,new"
+557,Lightweight Lipstick,Beauty & Personal Care,Verdant,23.96,A lightweight lipstick designed for everyday beauty & personal care needs.,"bestseller,Lipstick"
+558,Portable Guidebook,Books,Nova Publishing,7.48,A portable guidebook designed for everyday books needs.,"bestseller,Portable"
+559,Everyday Puzzle,Toys & Games,Brickbound,45.78,Upgrade your routine with this everyday puzzle.,"Toys,Everyday,bestseller"
+560,Ultra Scarf,Fashion,UrbanThread,42.57,This ultra scarf combines quality and value for fashion shoppers.,Ultra
+561,Deluxe Tea Set,Grocery,FreshField,13.69,Upgrade your routine with this deluxe tea set.,"Deluxe,Grocery,Tea Set"
+562,Deluxe Poetry Collection,Books,Inkwell Press,31.29,This deluxe poetry collection combines quality and value for books shoppers.,"new,Books,bestseller"
+563,Eco-Friendly Smartwatch,Electronics,TechNova,173.07,Upgrade your routine with this eco-friendly smartwatch.,"bestseller,Electronics"
+564,Deluxe Biography,Books,Quill & Co,7.91,This deluxe biography combines quality and value for books shoppers.,Biography
+565,Premium Webcam,Electronics,Sonik,181.23,,"Premium,new,Webcam"
+566,Deluxe Spice Mix,Grocery,PantryPlus,26.41,Experience the deluxe spice mix - a customer favorite in grocery.,bestseller
+567,Handcrafted Hair Dryer,Beauty & Personal Care,GlowLab,21.15,A handcrafted hair dryer designed for everyday beauty & personal care needs.,bestseller
+568,Premium Journal,Books,Chapter House,14.13,Experience the premium journal - a customer favorite in books.,"Premium,Books,bestseller"
+569,Eco-Friendly Lipstick,Beauty & Personal Care,GlowLab,30.06,"eco-friendly lipstick built to last, loved by thousands of buyers.","new,Lipstick"
+570,Eco-Friendly Camping Tent,Sports & Outdoors,SwiftStride,53.06,Upgrade your routine with this eco-friendly camping tent.,"Sports,bestseller,new"
+571,Lightweight Sneakers,Fashion,Velure,44.05,A lightweight sneakers designed for everyday fashion needs.,"Sneakers,bestseller,Fashion"
+572,Smart Novel,Books,Inkwell Press,14.49,Experience the smart novel - a customer favorite in books.,"new,Books"
+573,Wireless Granola Bars,Grocery,DailyBasket,12.84,"wireless granola bars built to last, loved by thousands of buyers.","Wireless,bestseller"
+574,Portable Razor,Beauty & Personal Care,GlowLab,10.27,"portable razor built to last, loved by thousands of buyers.","Portable,bestseller"
+575,Pro Organic Snack Pack,Grocery,PantryPlus,12.59,Upgrade your routine with this pro organic snack pack.,bestseller
+576,Ultra Moisturizer,Beauty & Personal Care,PureSkin,20.21,Experience the ultra moisturizer - a customer favorite in beauty & personal care.,"bestseller,Moisturizer"
+577,All-in-One Remote Car,Toys & Games,PlayNest,37.88,"all-in-one remote car built to last, loved by thousands of buyers.","Remote Car,new"
+578,Lightweight Yoga Mat,Sports & Outdoors,IronCore,32.85,This lightweight yoga mat combines quality and value for sports & outdoors shoppers.,bestseller
+579,All-in-One Bike Helmet,Sports & Outdoors,PeakForm,10.39,Upgrade your routine with this all-in-one bike helmet.,bestseller
+580,Wireless Guidebook,Books,Inkwell Press,6.58,,Books
+581,Everyday Headphones,Electronics,Sonik,103.66,Upgrade your routine with this everyday headphones.,"Headphones,bestseller"
+582,Deluxe Lipstick,Beauty & Personal Care,GlowLab,12.71,Experience the deluxe lipstick - a customer favorite in beauty & personal care.,"bestseller,Beauty"
+583,Wireless Sunglasses,Fashion,Lunaire,18.16,,"new,Fashion"
+584,Portable Guidebook,Books,Nova Publishing,6.34,This portable guidebook combines quality and value for books shoppers.,"Books,Guidebook"
+585,Eco-Friendly Water Bottle,Sports & Outdoors,IronCore,37.79,Upgrade your routine with this eco-friendly water bottle.,new
+586,Deluxe Cookbook,Books,Quill & Co,22.42,Experience the deluxe cookbook - a customer favorite in books.,Books
+587,Handcrafted Action Figure,Toys & Games,Brickbound,31.64,This handcrafted action figure combines quality and value for toys & games shoppers.,"bestseller,Toys"
+588,Pro Poetry Collection,Books,,25.84,,"Poetry Collection,Pro,new"
+589,Eco-Friendly Cookware Set,Home & Kitchen,PrimeHaus,9.84,Experience the eco-friendly cookware set - a customer favorite in home & kitchen.,"new,bestseller,Eco-Friendly"
+590,Eco-Friendly Shampoo,Beauty & Personal Care,PureSkin,43.85,"eco-friendly shampoo built to last, loved by thousands of buyers.","Eco-Friendly,Shampoo,bestseller"
+591,Everyday Remote Car,Toys & Games,FunForge,14.92,This everyday remote car combines quality and value for toys & games shoppers.,Remote Car
+592,Wireless Hat,Fashion,Northgear,31.26,Experience the wireless hat - a customer favorite in fashion.,Fashion
+593,Eco-Friendly Lipstick,Beauty & Personal Care,PureSkin,44.04,Experience the eco-friendly lipstick - a customer favorite in beauty & personal care.,bestseller
+594,Smart Scarf,Fashion,Lunaire,4.26,A smart scarf designed for everyday fashion needs.,"new,Fashion"
+595,Compact Action Figure,Toys & Games,Wonderkit,18.56,This compact action figure combines quality and value for toys & games shoppers.,"new,Compact,bestseller"
+596,Signature Blender,Home & Kitchen,HearthCo,31.12,This signature blender combines quality and value for home & kitchen shoppers.,Blender
+597,Ultra Board Game,Toys & Games,PlayNest,79.82,"ultra board game built to last, loved by thousands of buyers.","Board Game,new"
+598,Wireless Action Figure,Toys & Games,PlayNest,24.25,Upgrade your routine with this wireless action figure.,bestseller
+599,Signature Board Game,Toys & Games,Wonderkit,12.18,This signature board game combines quality and value for toys & games shoppers.,"bestseller,Board Game"
+600,Deluxe Speaker,Electronics,PixelPro,136.86,Experience the deluxe speaker - a customer favorite in electronics.,"Electronics,Deluxe"
+601,Signature Vacuum Cleaner,Home & Kitchen,Kindle & Wick,36.83,This signature vacuum cleaner combines quality and value for home & kitchen shoppers.,Signature
+602,Classic Water Bottle,Sports & Outdoors,IronCore,34.28,"classic water bottle built to last, loved by thousands of buyers.","new,bestseller"
+603,Wireless Headphones,Electronics,,176.03,"wireless headphones built to last, loved by thousands of buyers.","new,Headphones"
+604,Classic Razor,Beauty & Personal Care,GlowLab,8.11,"classic razor built to last, loved by thousands of buyers.",bestseller
+605,Classic Water Bottle,Sports & Outdoors,TrailBlaze,19.98,Experience the classic water bottle - a customer favorite in sports & outdoors.,new
+606,Wireless Keyboard,Electronics,PixelPro,56.49,A wireless keyboard designed for everyday electronics needs.,"new,Keyboard"
+607,Eco-Friendly Water Bottle,Sports & Outdoors,PeakForm,20.63,Experience the eco-friendly water bottle - a customer favorite in sports & outdoors.,Sports
+608,Pro Dumbbell Set,Sports & Outdoors,IronCore,101.97,Upgrade your routine with this pro dumbbell set.,"Sports,bestseller,new"
+609,Signature Backpack,Fashion,Northgear,22.05,,new
+610,All-in-One Speaker,Electronics,Sonik,45.04,A all-in-one speaker designed for everyday electronics needs.,"new,Speaker,Electronics"
+611,Pro Jacket,Fashion,Lunaire,76.82,Experience the pro jacket - a customer favorite in fashion.,Jacket
+612,Smart Power Bank,Electronics,Sonik,92.05,This smart power bank combines quality and value for electronics shoppers.,"Smart,new,Power Bank"
+613,Handcrafted Coffee Maker,Home & Kitchen,CozyNest,86.67,This handcrafted coffee maker combines quality and value for home & kitchen shoppers.,"Home,Handcrafted"
+614,Classic Organizer,Home & Kitchen,HearthCo,14.17,Experience the classic organizer - a customer favorite in home & kitchen.,"Classic,bestseller"
+615,Pro Headphones,Electronics,Sonik,46.75,Experience the pro headphones - a customer favorite in electronics.,Electronics
+616,Deluxe Lipstick,Beauty & Personal Care,Verdant,29.21,A deluxe lipstick designed for everyday beauty & personal care needs.,"bestseller,Beauty,Deluxe"
+617,Compact Olive Oil,Grocery,DailyBasket,6.88,A compact olive oil designed for everyday grocery needs.,"Grocery,new"
+618,Everyday Plush Toy,Toys & Games,Wonderkit,12.38,Upgrade your routine with this everyday plush toy.,"Everyday,Plush Toy,Toys"
+619,Wireless Remote Car,Toys & Games,FunForge,14.53,Upgrade your routine with this wireless remote car.,"new,Remote Car"
+620,Handcrafted Textbook,Books,Quill & Co,6.88,This handcrafted textbook combines quality and value for books shoppers.,"Books,Handcrafted,bestseller"
+621,Wireless Yoga Mat,Sports & Outdoors,TrailBlaze,242.05,Experience the wireless yoga mat - a customer favorite in sports & outdoors.,"bestseller,Sports"
+622,Pro Coffee Maker,Home & Kitchen,CozyNest,54.98,Experience the pro coffee maker - a customer favorite in home & kitchen.,"Pro,Home,new"
+623,Portable Board Game,Toys & Games,Wonderkit,30.45,Experience the portable board game - a customer favorite in toys & games.,Portable
+624,Handcrafted Air Fryer,Home & Kitchen,PrimeHaus,21.99,Upgrade your routine with this handcrafted air fryer.,bestseller
+625,Classic Poetry Collection,Books,Chapter House,8.6,Experience the classic poetry collection - a customer favorite in books.,new
+626,Compact Coffee Maker,Home & Kitchen,CozyNest,119.85,Upgrade your routine with this compact coffee maker.,"bestseller,Coffee Maker"
+627,Handcrafted Textbook,Books,Chapter House,3.52,Experience the handcrafted textbook - a customer favorite in books.,"Handcrafted,Textbook,Books"
+628,All-in-One Scarf,Fashion,Velure,67.16,"all-in-one scarf built to last, loved by thousands of buyers.",Fashion
+629,Smart Bike Helmet,Sports & Outdoors,PeakForm,92.75,"smart bike helmet built to last, loved by thousands of buyers.",bestseller
+630,Eco-Friendly Guidebook,Books,Inkwell Press,25.84,"eco-friendly guidebook built to last, loved by thousands of buyers.",Books
+631,Pro Headphones,Electronics,Voltix,143.54,A pro headphones designed for everyday electronics needs.,new
+632,Deluxe Organic Snack Pack,Grocery,FreshField,6.92,This deluxe organic snack pack combines quality and value for grocery shoppers.,Deluxe
+633,Eco-Friendly Dumbbell Set,Sports & Outdoors,IronCore,32.36,Upgrade your routine with this eco-friendly dumbbell set.,"Eco-Friendly,new"
+634,Lightweight Belt,Fashion,Northgear,49.79,Experience the lightweight belt - a customer favorite in fashion.,Belt
+635,Compact Organizer,Home & Kitchen,HearthCo,205.51,This compact organizer combines quality and value for home & kitchen shoppers.,Compact
+636,All-in-One Speaker,Electronics,Voltix,54.72,Upgrade your routine with this all-in-one speaker.,Electronics
+637,Lightweight Webcam,Electronics,Sonik,239.33,Experience the lightweight webcam - a customer favorite in electronics.,"Lightweight,new"
+638,Compact Sunglasses,Fashion,UrbanThread,63.56,"compact sunglasses built to last, loved by thousands of buyers.",new
+639,Handcrafted Lipstick,Beauty & Personal Care,PureSkin,21.55,Upgrade your routine with this handcrafted lipstick.,"bestseller,new"
+640,Wireless Yoga Mat,Sports & Outdoors,PeakForm,57.83,Upgrade your routine with this wireless yoga mat.,Wireless
+641,Classic Board Game,Toys & Games,Brickbound,29.12,Experience the classic board game - a customer favorite in toys & games.,"bestseller,Board Game,Toys"
+642,Eco-Friendly Olive Oil,Grocery,DailyBasket,12.45,Upgrade your routine with this eco-friendly olive oil.,"new,bestseller"
+643,Portable Charger,Electronics,TechNova,97.59,"portable charger built to last, loved by thousands of buyers.","Charger,new"
+644,Classic Textbook,Books,Chapter House,50.18,Upgrade your routine with this classic textbook.,"Books,new,Textbook"
+645,Lightweight Dumbbell Set,Sports & Outdoors,TrailBlaze,84.52,Upgrade your routine with this lightweight dumbbell set.,"new,Lightweight"
+646,Handcrafted Shampoo,Beauty & Personal Care,Verdant,12.45,This handcrafted shampoo combines quality and value for beauty & personal care shoppers.,"Handcrafted,Beauty"
+647,Smart Dumbbell Set,Sports & Outdoors,PeakForm,125.72,This smart dumbbell set combines quality and value for sports & outdoors shoppers.,Dumbbell Set
+648,Classic Poetry Collection,Books,Inkwell Press,20.7,"classic poetry collection built to last, loved by thousands of buyers.","Books,bestseller,new"
+649,Deluxe Plush Toy,Toys & Games,PlayNest,30.12,,"new,Deluxe,bestseller"
+650,Everyday Yoga Mat,Sports & Outdoors,TrailBlaze,86.04,This everyday yoga mat combines quality and value for sports & outdoors shoppers.,Yoga Mat
+651,Signature Organic Snack Pack,Grocery,PantryPlus,4.5,Experience the signature organic snack pack - a customer favorite in grocery.,"Grocery,Organic Snack Pack"
+652,Wireless Cookbook,Books,Nova Publishing,57.77,"wireless cookbook built to last, loved by thousands of buyers.","Cookbook,Wireless,bestseller"
+653,Everyday Textbook,Books,Inkwell Press,21.34,A everyday textbook designed for everyday books needs.,Everyday
+654,Signature T-Shirt,Fashion,UrbanThread,8.63,Upgrade your routine with this signature t-shirt.,"Fashion,new"
+655,Deluxe Textbook,Books,Chapter House,22.57,Experience the deluxe textbook - a customer favorite in books.,"bestseller,Textbook"
+656,Premium Bike Helmet,Sports & Outdoors,IronCore,42.04,This premium bike helmet combines quality and value for sports & outdoors shoppers.,"Sports,new"
+657,Classic Razor,Beauty & Personal Care,GlowLab,29.45,This classic razor combines quality and value for beauty & personal care shoppers.,"Beauty,bestseller,new"
+658,Ultra Power Bank,Electronics,Sonik,67.05,Experience the ultra power bank - a customer favorite in electronics.,new
+659,Signature Organic Snack Pack,Grocery,GreenHarvest,7.12,,"new,bestseller"
+660,Handcrafted Novel,Books,Chapter House,22.86,A handcrafted novel designed for everyday books needs.,Handcrafted
+661,Deluxe Remote Car,Toys & Games,FunForge,11.59,This deluxe remote car combines quality and value for toys & games shoppers.,Deluxe
+662,Handcrafted Board Game,Toys & Games,Brickbound,6.19,Experience the handcrafted board game - a customer favorite in toys & games.,"Board Game,Handcrafted,new"
+663,Portable Backpack,Fashion,Lunaire,19.79,"portable backpack built to last, loved by thousands of buyers.",bestseller
+664,Premium Moisturizer,Beauty & Personal Care,AromaBloom,20.64,This premium moisturizer combines quality and value for beauty & personal care shoppers.,"bestseller,Beauty"
+665,Signature Guidebook,Books,Quill & Co,22.5,This signature guidebook combines quality and value for books shoppers.,"new,Books,Signature"
+666,Portable Plush Toy,Toys & Games,PlayNest,48.64,"portable plush toy built to last, loved by thousands of buyers.","new,Portable,bestseller"
+667,Compact Olive Oil,Grocery,DailyBasket,17.9,Experience the compact olive oil - a customer favorite in grocery.,"Grocery,Compact"
+668,All-in-One Webcam,Electronics,PixelPro,54.38,"all-in-one webcam built to last, loved by thousands of buyers.","bestseller,new,Webcam"
+669,Deluxe Plush Toy,Toys & Games,Wonderkit,52.69,Upgrade your routine with this deluxe plush toy.,new
+670,Compact Biography,Books,Chapter House,21.44,A compact biography designed for everyday books needs.,"Books,Compact,Biography"
+671,Signature Poetry Collection,Books,Quill & Co,17.26,Upgrade your routine with this signature poetry collection.,"Books,Signature,Poetry Collection"
+672,All-in-One Poetry Collection,Books,Quill & Co,43.02,A all-in-one poetry collection designed for everyday books needs.,Books
+673,Premium Handbag,Fashion,Northgear,44.96,"premium handbag built to last, loved by thousands of buyers.","bestseller,Handbag,new"
+674,Premium Granola Bars,Grocery,FreshField,11.79,Experience the premium granola bars - a customer favorite in grocery.,Premium
+675,Deluxe Cookbook,Books,Nova Publishing,33.54,A deluxe cookbook designed for everyday books needs.,new
+676,Deluxe Razor,Beauty & Personal Care,AromaBloom,3.0,Experience the deluxe razor - a customer favorite in beauty & personal care.,new
+677,Signature Building Blocks,Toys & Games,FunForge,32.85,Experience the signature building blocks - a customer favorite in toys & games.,new
+678,Signature Keyboard,Electronics,Sonik,13.91,"signature keyboard built to last, loved by thousands of buyers.","Keyboard,bestseller,new"
+679,Handcrafted Granola Bars,Grocery,PantryPlus,11.19,A handcrafted granola bars designed for everyday grocery needs.,"Grocery,Granola Bars,bestseller"
+680,Portable Textbook,Books,Chapter House,29.44,This portable textbook combines quality and value for books shoppers.,"Textbook,new"
+681,Portable Board Game,Toys & Games,Wonderkit,20.2,Experience the portable board game - a customer favorite in toys & games.,"Board Game,Toys,bestseller"
+682,Eco-Friendly Air Fryer,Home & Kitchen,CozyNest,38.03,Experience the eco-friendly air fryer - a customer favorite in home & kitchen.,Eco-Friendly
+683,Smart Shampoo,Beauty & Personal Care,PureSkin,63.59,This smart shampoo combines quality and value for beauty & personal care shoppers.,"Beauty,new,Shampoo"
+684,Everyday Cookbook,Books,Chapter House,3.0,A everyday cookbook designed for everyday books needs.,Books
+685,Pro Coffee Beans,Grocery,PantryPlus,17.18,Upgrade your routine with this pro coffee beans.,"Coffee Beans,Pro"
+686,Signature Plush Toy,Toys & Games,Brickbound,21.22,"signature plush toy built to last, loved by thousands of buyers.","Toys,new,Plush Toy"
+687,Smart Spice Mix,Grocery,PantryPlus,14.63,This smart spice mix combines quality and value for grocery shoppers.,Grocery
+688,Ultra Board Game,Toys & Games,PlayNest,60.49,A ultra board game designed for everyday toys & games needs.,"new,Ultra"
+689,Everyday Webcam,Electronics,Sonik,211.66,This everyday webcam combines quality and value for electronics shoppers.,Webcam
+690,Signature Action Figure,Toys & Games,Brickbound,14.06,This signature action figure combines quality and value for toys & games shoppers.,"Signature,bestseller,new"
+691,Everyday Lamp,Home & Kitchen,PrimeHaus,63.87,This everyday lamp combines quality and value for home & kitchen shoppers.,new
+692,Lightweight Earbuds,Electronics,TechNova,112.02,A lightweight earbuds designed for everyday electronics needs.,"Earbuds,Lightweight"
+693,Handcrafted Yoga Mat,Sports & Outdoors,TrailBlaze,198.16,Upgrade your routine with this handcrafted yoga mat.,"Sports,Yoga Mat,bestseller"
+694,All-in-One Puzzle,Toys & Games,Wonderkit,16.97,Experience the all-in-one puzzle - a customer favorite in toys & games.,Puzzle
+695,Smart Hair Dryer,Beauty & Personal Care,GlowLab,21.65,Upgrade your routine with this smart hair dryer.,"Beauty,new,Hair Dryer"
+696,Everyday Blender,Home & Kitchen,HearthCo,67.78,Experience the everyday blender - a customer favorite in home & kitchen.,"bestseller,Blender"
+697,All-in-One Face Serum,Beauty & Personal Care,Verdant,13.62,This all-in-one face serum combines quality and value for beauty & personal care shoppers.,new
+698,Deluxe Vacuum Cleaner,Home & Kitchen,HearthCo,37.02,This deluxe vacuum cleaner combines quality and value for home & kitchen shoppers.,Deluxe
+699,Classic Moisturizer,Beauty & Personal Care,AromaBloom,18.2,"classic moisturizer built to last, loved by thousands of buyers.",Beauty
+700,Handcrafted Sneakers,Fashion,UrbanThread,14.81,Experience the handcrafted sneakers - a customer favorite in fashion.,"new,bestseller,Fashion"
+701,Ultra Poetry Collection,Books,Inkwell Press,9.64,Experience the ultra poetry collection - a customer favorite in books.,"Books,new"
+702,Ultra Coffee Maker,Home & Kitchen,PrimeHaus,75.22,Experience the ultra coffee maker - a customer favorite in home & kitchen.,"Ultra,Coffee Maker"
+703,Deluxe Textbook,Books,Quill & Co,15.04,"deluxe textbook built to last, loved by thousands of buyers.","Books,new"
+704,Compact Perfume,Beauty & Personal Care,GlowLab,29.62,This compact perfume combines quality and value for beauty & personal care shoppers.,"bestseller,Beauty,Perfume"
+705,Signature Perfume,Beauty & Personal Care,Verdant,21.56,"signature perfume built to last, loved by thousands of buyers.",Perfume
+706,Handcrafted Remote Car,Toys & Games,Brickbound,52.91,"handcrafted remote car built to last, loved by thousands of buyers.",new
+707,Handcrafted Speaker,Electronics,Voltix,184.38,Upgrade your routine with this handcrafted speaker.,Electronics
+708,Premium Monitor,Electronics,Sonik,103.74,"premium monitor built to last, loved by thousands of buyers.","bestseller,Electronics,Monitor"
+709,Lightweight Plush Toy,Toys & Games,Wonderkit,22.55,Upgrade your routine with this lightweight plush toy.,"Toys,Plush Toy"
+710,Everyday Face Serum,Beauty & Personal Care,GlowLab,57.75,"everyday face serum built to last, loved by thousands of buyers.","Face Serum,Beauty"
+711,Handcrafted Webcam,Electronics,Voltix,81.43,"handcrafted webcam built to last, loved by thousands of buyers.","Electronics,Webcam"
+712,Classic T-Shirt,Fashion,,69.09,A classic t-shirt designed for everyday fashion needs.,new
+713,Ultra Webcam,Electronics,PixelPro,37.48,Upgrade your routine with this ultra webcam.,"Ultra,Webcam"
+714,Compact Webcam,Electronics,Voltix,3.4,"compact webcam built to last, loved by thousands of buyers.","new,bestseller,Compact"
+715,Wireless Hat,Fashion,Northgear,23.43,Upgrade your routine with this wireless hat.,"Hat,new"
+716,Lightweight Backpack,Fashion,Northgear,27.85,"lightweight backpack built to last, loved by thousands of buyers.",Fashion
+717,Pro Organic Snack Pack,Grocery,GreenHarvest,13.89,This pro organic snack pack combines quality and value for grocery shoppers.,"Grocery,new"
+718,Lightweight Scarf,Fashion,Northgear,28.17,A lightweight scarf designed for everyday fashion needs.,"Fashion,Lightweight,bestseller"
+719,Signature Spice Mix,Grocery,FreshField,18.79,A signature spice mix designed for everyday grocery needs.,Grocery
+720,Eco-Friendly Air Fryer,Home & Kitchen,Kindle & Wick,60.51,"eco-friendly air fryer built to last, loved by thousands of buyers.","Eco-Friendly,new,bestseller"
+721,Ultra Coffee Maker,Home & Kitchen,PrimeHaus,90.37,Experience the ultra coffee maker - a customer favorite in home & kitchen.,"Ultra,new,Coffee Maker"
+722,Deluxe Cookware Set,Home & Kitchen,,81.93,A deluxe cookware set designed for everyday home & kitchen needs.,bestseller
+723,All-in-One Charger,Electronics,PixelPro,90.0,A all-in-one charger designed for everyday electronics needs.,"Electronics,bestseller"
+724,Signature Biography,Books,Chapter House,16.29,This signature biography combines quality and value for books shoppers.,"new,Biography"
+725,Signature Tea Set,Grocery,PantryPlus,7.68,A signature tea set designed for everyday grocery needs.,Signature
+726,Ultra Novel,Books,Inkwell Press,4.63,Experience the ultra novel - a customer favorite in books.,"Novel,Ultra,new"
+727,Smart Power Bank,Electronics,Sonik,94.8,Upgrade your routine with this smart power bank.,Electronics
+728,Ultra Sunglasses,Fashion,Velure,77.96,Experience the ultra sunglasses - a customer favorite in fashion.,"Fashion,Sunglasses"
+729,All-in-One Cookbook,Books,Chapter House,23.66,Experience the all-in-one cookbook - a customer favorite in books.,Cookbook
+730,Eco-Friendly Shampoo,Beauty & Personal Care,Verdant,26.04,This eco-friendly shampoo combines quality and value for beauty & personal care shoppers.,Beauty
+731,Smart Scarf,Fashion,Lunaire,14.93,This smart scarf combines quality and value for fashion shoppers.,"bestseller,Scarf,Smart"
+732,Pro Yoga Mat,Sports & Outdoors,SwiftStride,36.13,A pro yoga mat designed for everyday sports & outdoors needs.,new
+733,Portable Guidebook,Books,Quill & Co,11.92,Experience the portable guidebook - a customer favorite in books.,"Books,new"
+734,Pro Granola Bars,Grocery,DailyBasket,29.17,A pro granola bars designed for everyday grocery needs.,"Pro,Granola Bars"
+735,Portable Poetry Collection,Books,,5.81,A portable poetry collection designed for everyday books needs.,Portable
+736,Everyday Belt,Fashion,Northgear,30.73,A everyday belt designed for everyday fashion needs.,bestseller
+737,Portable Hair Dryer,Beauty & Personal Care,GlowLab,23.96,Upgrade your routine with this portable hair dryer.,bestseller
+738,Signature Dumbbell Set,Sports & Outdoors,PeakForm,42.16,Experience the signature dumbbell set - a customer favorite in sports & outdoors.,"Signature,bestseller,Dumbbell Set"
+739,Signature Coffee Maker,Home & Kitchen,Kindle & Wick,6.26,Upgrade your routine with this signature coffee maker.,bestseller
+740,Ultra Belt,Fashion,Lunaire,32.75,A ultra belt designed for everyday fashion needs.,"new,Fashion,Ultra"
+741,Wireless Granola Bars,Grocery,FreshField,8.78,A wireless granola bars designed for everyday grocery needs.,"Grocery,bestseller"
+742,Lightweight Shampoo,Beauty & Personal Care,AromaBloom,3.52,A lightweight shampoo designed for everyday beauty & personal care needs.,Shampoo
+743,Deluxe Router,Electronics,TechNova,104.39,A deluxe router designed for everyday electronics needs.,"Router,Deluxe,Electronics"
+744,Ultra T-Shirt,Fashion,Northgear,44.95,"ultra t-shirt built to last, loved by thousands of buyers.","Fashion,new,bestseller"
+745,Handcrafted Water Bottle,Sports & Outdoors,TrailBlaze,32.77,"handcrafted water bottle built to last, loved by thousands of buyers.","Sports,new,Water Bottle"
+746,Smart Olive Oil,Grocery,FreshField,6.45,This smart olive oil combines quality and value for grocery shoppers.,"Grocery,Olive Oil,bestseller"
+747,Portable T-Shirt,Fashion,UrbanThread,34.87,A portable t-shirt designed for everyday fashion needs.,"Fashion,bestseller,T-Shirt"
+748,All-in-One Air Fryer,Home & Kitchen,PrimeHaus,92.57,Experience the all-in-one air fryer - a customer favorite in home & kitchen.,"new,bestseller"
+749,Smart Backpack,Fashion,Velure,69.0,A smart backpack designed for everyday fashion needs.,new
+750,Wireless Bedding Set,Home & Kitchen,HearthCo,45.3,Upgrade your routine with this wireless bedding set.,"new,bestseller"
+751,Compact Blender,Home & Kitchen,HearthCo,111.65,A compact blender designed for everyday home & kitchen needs.,"bestseller,Home"
+752,Premium Sunglasses,Fashion,Lunaire,61.98,Upgrade your routine with this premium sunglasses.,Sunglasses
+753,Compact Organizer,Home & Kitchen,HearthCo,22.35,Upgrade your routine with this compact organizer.,"bestseller,new,Compact"
+754,Portable Speaker,Electronics,TechNova,96.03,This portable speaker combines quality and value for electronics shoppers.,"bestseller,Speaker"
+755,Compact Journal,Books,Nova Publishing,42.04,"compact journal built to last, loved by thousands of buyers.",bestseller
+756,Lightweight Plush Toy,Toys & Games,Wonderkit,31.07,Experience the lightweight plush toy - a customer favorite in toys & games.,"Lightweight,bestseller"
+757,All-in-One Router,Electronics,Sonik,65.57,This all-in-one router combines quality and value for electronics shoppers.,new
+758,Ultra Bike Helmet,Sports & Outdoors,PeakForm,123.49,Experience the ultra bike helmet - a customer favorite in sports & outdoors.,"Sports,bestseller"
+759,Pro Plush Toy,Toys & Games,Brickbound,19.53,Upgrade your routine with this pro plush toy.,"new,Pro,Toys"
+760,Deluxe Action Figure,Toys & Games,PlayNest,81.75,Experience the deluxe action figure - a customer favorite in toys & games.,"Action Figure,Deluxe,new"
+761,Premium Spice Mix,Grocery,PantryPlus,54.68,This premium spice mix combines quality and value for grocery shoppers.,Spice Mix
+762,Lightweight Jacket,Fashion,Lunaire,31.65,A lightweight jacket designed for everyday fashion needs.,"Fashion,Lightweight,Jacket"
+763,All-in-One Water Bottle,Sports & Outdoors,SwiftStride,71.31,A all-in-one water bottle designed for everyday sports & outdoors needs.,bestseller
+764,Wireless Remote Car,Toys & Games,FunForge,25.62,A wireless remote car designed for everyday toys & games needs.,"new,Toys,bestseller"
+765,Eco-Friendly Router,Electronics,Voltix,51.14,Experience the eco-friendly router - a customer favorite in electronics.,Electronics
+766,Smart Smartwatch,Electronics,TechNova,78.12,A smart smartwatch designed for everyday electronics needs.,"Smartwatch,Electronics"
+767,Signature Perfume,Beauty & Personal Care,GlowLab,12.52,A signature perfume designed for everyday beauty & personal care needs.,"Perfume,new"
+768,Lightweight Organizer,Home & Kitchen,HearthCo,83.12,A lightweight organizer designed for everyday home & kitchen needs.,"Lightweight,new"
+769,Lightweight Organic Snack Pack,Grocery,FreshField,3.64,A lightweight organic snack pack designed for everyday grocery needs.,"Organic Snack Pack,Lightweight"
+770,Compact Vacuum Cleaner,Home & Kitchen,HearthCo,82.81,"compact vacuum cleaner built to last, loved by thousands of buyers.","Vacuum Cleaner,bestseller"
+771,Premium Vacuum Cleaner,Home & Kitchen,PrimeHaus,19.35,"premium vacuum cleaner built to last, loved by thousands of buyers.","new,bestseller"
+772,Signature Tea Set,Grocery,FreshField,5.42,"signature tea set built to last, loved by thousands of buyers.","new,Tea Set,Signature"
+773,Classic Building Blocks,Toys & Games,Wonderkit,64.39,Upgrade your routine with this classic building blocks.,bestseller
+774,Eco-Friendly Organizer,Home & Kitchen,,24.1,Experience the eco-friendly organizer - a customer favorite in home & kitchen.,"Eco-Friendly,Home,new"
+775,Pro Keyboard,Electronics,TechNova,154.25,A pro keyboard designed for everyday electronics needs.,Keyboard
+776,Compact Dumbbell Set,Sports & Outdoors,PeakForm,46.39,"compact dumbbell set built to last, loved by thousands of buyers.",Sports
+777,Portable Dumbbell Set,Sports & Outdoors,SwiftStride,27.45,Experience the portable dumbbell set - a customer favorite in sports & outdoors.,Dumbbell Set
+778,Eco-Friendly Running Shoes,Sports & Outdoors,TrailBlaze,37.85,Upgrade your routine with this eco-friendly running shoes.,bestseller
+779,Smart Face Serum,Beauty & Personal Care,,34.28,"smart face serum built to last, loved by thousands of buyers.","Beauty,bestseller,Smart"
+780,Compact Novel,Books,Inkwell Press,12.67,A compact novel designed for everyday books needs.,"bestseller,new"
+781,Classic Camping Tent,Sports & Outdoors,IronCore,25.04,"classic camping tent built to last, loved by thousands of buyers.","Sports,new"
+782,Wireless Granola Bars,Grocery,PantryPlus,12.35,"wireless granola bars built to last, loved by thousands of buyers.",Wireless
+783,Premium Tea Set,Grocery,DailyBasket,14.31,Experience the premium tea set - a customer favorite in grocery.,Grocery
+784,All-in-One Perfume,Beauty & Personal Care,Verdant,12.23,A all-in-one perfume designed for everyday beauty & personal care needs.,new
+785,Classic Running Shoes,Sports & Outdoors,PeakForm,54.55,A classic running shoes designed for everyday sports & outdoors needs.,"Running Shoes,Classic,new"
+786,Deluxe Board Game,Toys & Games,PlayNest,57.24,Experience the deluxe board game - a customer favorite in toys & games.,"Deluxe,bestseller,Toys"
+787,Portable Router,Electronics,TechNova,85.34,"portable router built to last, loved by thousands of buyers.","Portable,new"
+788,Classic Board Game,Toys & Games,Wonderkit,24.89,Upgrade your routine with this classic board game.,"Toys,Board Game"
+789,Premium Action Figure,Toys & Games,PlayNest,26.67,Experience the premium action figure - a customer favorite in toys & games.,"new,Toys"
+790,Everyday Building Blocks,Toys & Games,FunForge,17.94,"everyday building blocks built to last, loved by thousands of buyers.","Everyday,bestseller"
+791,Eco-Friendly Granola Bars,Grocery,GreenHarvest,32.22,,new
+792,Compact Charger,Electronics,Sonik,142.84,,"Electronics,Compact"
+793,Smart Running Shoes,Sports & Outdoors,SwiftStride,27.87,"smart running shoes built to last, loved by thousands of buyers.",new
+794,Everyday Earbuds,Electronics,Sonik,67.54,"everyday earbuds built to last, loved by thousands of buyers.","Electronics,Earbuds"
+795,Premium Air Fryer,Home & Kitchen,CozyNest,82.72,A premium air fryer designed for everyday home & kitchen needs.,"Home,bestseller"
+796,Portable Camping Tent,Sports & Outdoors,PeakForm,44.61,Upgrade your routine with this portable camping tent.,"Camping Tent,Portable"
+797,Pro Power Bank,Electronics,Sonik,40.3,Upgrade your routine with this pro power bank.,"Pro,Electronics,Power Bank"
+798,Handcrafted Bike Helmet,Sports & Outdoors,IronCore,27.7,A handcrafted bike helmet designed for everyday sports & outdoors needs.,Bike Helmet
+799,Premium Plush Toy,Toys & Games,PlayNest,29.34,Experience the premium plush toy - a customer favorite in toys & games.,"Premium,bestseller,Plush Toy"
+800,Compact Coffee Maker,Home & Kitchen,HearthCo,26.87,This compact coffee maker combines quality and value for home & kitchen shoppers.,new
